@@ -18,9 +18,9 @@
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="cover-back.svg"
+   sodipodi:docname="cover-inside.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/cover-back-53.05-rc2.png"
+   inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/cover-inside-53.05-rc3.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -39,8 +39,8 @@
      id="base"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="726.21977"
-     inkscape:cy="195.25372"
+     inkscape:cx="609.44123"
+     inkscape:cy="206.11743"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:current-layer="svg2"
@@ -29942,6 +29942,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective12213"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <switch
      style="opacity:0.12589931;fill:#ffffff;fill-opacity:1"
@@ -35081,23 +35088,23 @@
     </g>
   </g>
   <image
-     sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
+     sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
      xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
-     style="fill:#ffffff;fill-opacity:1;filter:url(#filter6460)"
-     width="28.750004"
-     height="28.750004"
+     y="1142.0779"
+     x="4541.2109"
      id="image4532"
-     x="4541.2109"
-     y="1142.0779" />
-  <image
-     sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
-     xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
-     style="fill:#ffffff;fill-opacity:1"
-     width="28.750004"
      height="28.750004"
-     id="image4534"
+     width="28.750004"
+     style="fill:#ffffff;fill-opacity:1;filter:url(#filter6460)" />
+  <image
+     sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
+     xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Office.ico"
+     y="1142.0779"
      x="4541.2109"
-     y="1142.0779" />
+     id="image4534"
+     height="28.750004"
+     width="28.750004"
+     style="fill:#ffffff;fill-opacity:1" />
   <flowRoot
      transform="matrix(1.1750088,0,0,1.1750088,4711.1227,957.89143)"
      style="font-size:12px;font-style:normal;font-weight:normal;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5285);font-family:Bitstream Vera Sans"
@@ -35221,73 +35228,73 @@
       </g>
     </g>
     <image
-       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
+       sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
-       y="261.00479"
-       x="1011.0925"
+       width="17.818172"
+       height="17.818172"
        id="image4588"
-       height="17.818172"
-       width="17.818172" />
-    <image
-       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
-       y="261.00479"
-       x="971.45801"
-       id="image4590"
-       height="17.818172"
-       width="17.818172" />
-    <image
-       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
-       y="261.00479"
-       x="991.27521"
-       id="image4592"
-       height="17.818172"
-       width="17.818172" />
-    <image
-       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
-       y="261.00479"
        x="1011.0925"
-       id="image4594"
-       height="17.818172"
-       width="17.818172"
-       style="filter:url(#filter6622)" />
+       y="261.00479" />
     <image
-       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       y="261.00479"
-       x="951.64069"
-       id="image4596"
-       height="17.818172"
-       width="17.818172" />
-    <image
-       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
+       sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
-       y="261.00479"
+       width="17.818172"
+       height="17.818172"
+       id="image4590"
        x="971.45801"
-       id="image4598"
-       height="17.818172"
-       width="17.818172"
-       style="filter:url(#filter6626)" />
+       y="261.00479" />
     <image
-       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
+       sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
        xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
-       y="261.00479"
+       width="17.818172"
+       height="17.818172"
+       id="image4592"
        x="991.27521"
-       id="image4600"
-       height="17.818172"
-       width="17.818172"
-       style="filter:url(#filter6630)" />
+       y="261.00479" />
     <image
-       sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
-       y="261.00479"
-       x="951.64069"
-       id="image4602"
-       height="17.818172"
+       sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Access.ico"
+       style="filter:url(#filter6622)"
        width="17.818172"
-       style="filter:url(#filter6634)" />
+       height="17.818172"
+       id="image4594"
+       x="1011.0925"
+       y="261.00479" />
+    <image
+       sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
+       width="17.818172"
+       height="17.818172"
+       id="image4596"
+       x="951.64069"
+       y="261.00479" />
+    <image
+       sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Excel-.ico"
+       style="filter:url(#filter6626)"
+       width="17.818172"
+       height="17.818172"
+       id="image4598"
+       x="971.45801"
+       y="261.00479" />
+    <image
+       sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Powerpoint.ico"
+       style="filter:url(#filter6630)"
+       width="17.818172"
+       height="17.818172"
+       id="image4600"
+       x="991.27521"
+       y="261.00479" />
+    <image
+       sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
+       xlink:href="Microsoft Office icon pack/ICO/Clean/256x256 compatible ╕Windows ╕Vista/Word-.ico"
+       style="filter:url(#filter6634)"
+       width="17.818172"
+       height="17.818172"
+       id="image4602"
+       x="951.64069"
+       y="261.00479" />
   </g>
   <g
      style="fill:#ffffff;fill-opacity:1"
@@ -37140,14 +37147,14 @@
            d="M 116.10322,122.75581 L 120.16908,130.04785 L 124.50011,122.71162 L 129.98019,122.8 L 122.86493,134.29049 L 129.75922,146.13453 L 124.76528,146.17872 L 120.12489,138.35635 L 115.66128,146.17872 L 110.44637,146.22292 L 117.29646,134.42307 L 110.31378,122.8442 L 116.10322,122.75581 z"
            id="path11944" />
         <image
-           sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/osx-leopard.png"
+           sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/osx-leopard.png"
            xlink:href="osx-leopard.png"
-           y="122.76277"
-           x="110.35871"
-           id="image11826"
-           height="23.40901"
+           style="fill:#000000;fill-opacity:1"
            width="19.576561"
-           style="fill:#000000;fill-opacity:1" />
+           height="23.40901"
+           id="image11826"
+           x="110.35871"
+           y="122.76277" />
       </g>
       <g
          transform="translate(0,2.8773895)"
@@ -46813,25 +46820,25 @@
            sodipodi:nodetypes="ccccc" />
       </g>
       <image
-         sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Internet_Explorer_7_Logo.png"
+         sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/Internet_Explorer_7_Logo.png"
          xlink:href="Internet_Explorer_7_Logo.png"
-         width="41.123989"
-         height="41.123989"
-         id="image30682"
-         x="1535.1897"
+         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)"
+         style="display:inline"
          y="21.268778"
-         style="display:inline"
-         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)" />
+         x="1535.1897"
+         id="image30682"
+         height="41.123989"
+         width="41.123989" />
       <image
-         sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Photoshop_CS4.png"
+         sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/Photoshop_CS4.png"
          xlink:href="Photoshop_CS4.png"
-         width="34.094509"
-         height="34.094509"
-         id="image12662"
-         x="1538.7045"
-         y="-14.077701"
+         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)"
          style="display:inline"
-         transform="matrix(0.643578,0,0,0.643578,-888.82112,244.45262)" />
+         y="-14.077701"
+         x="1538.7045"
+         id="image12662"
+         height="34.094509"
+         width="34.094509" />
       <g
          transform="matrix(0.6442215,0,0,0.6442215,58.610847,230.03632)"
          id="g26851">
@@ -46936,13 +46943,13 @@
            id="path19390" />
       </g>
       <image
-         sodipodi:absref="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/Firefox_logo.png"
+         sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/Firefox_logo.png"
          xlink:href="Firefox_logo.png"
-         width="26.870668"
-         height="25.776388"
-         id="image12639"
+         y="258.48578"
          x="60.375584"
-         y="258.48578" />
+         id="image12639"
+         height="25.776388"
+         width="26.870668" />
     </g>
   </g>
   <g
@@ -50447,7 +50454,7 @@
          id="flowPara36293"
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">WinFTP</flowPara><flowPara
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara36295">Microsoft CMS Server</flowPara><flowPara
+         id="flowPara36295">Adobe Contribution</flowPara><flowPara
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
          id="flowPara36297">Adobe Dreamweaver</flowPara><flowPara
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
@@ -51644,13 +51651,13 @@
            y="261.91336"
            style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara24092-2-1-7"
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"></flowPara><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
          id="flowPara12295"
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">ซอฟต์แวร์โอเพนซอร์ซคือ ซอฟต์แวร์ที่ให้อิสระกับผู้ใช้งานโดยไม่มีข้อจำกัดในการใช้งานใดๆ ทำให้ผู้ใช้งานไม่ต้องกังวลเกี่ยวกับการละเมิดลิขสิทธิ์ซอฟต์แวร์ นอกจากนี้ยังเปิดโอกาสให้นักพัฒนาสามารถทำการปรับปรุงซอฟต์แวร์ให้เกิดความเหมาะสมและหลากหลายได้อีกด้วย</flowPara><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">ซอฟต์แวร์โอเพนซอร์สคือ ซอฟต์แวร์ที่ให้อิสระกับผู้ใช้งานโดยไม่มีข้อจำกัดในการใช้งานใดๆ ทำให้ผู้ใช้งานไม่ต้องกังวลเกี่ยวกับการละเมิดลิขสิทธิ์ซอฟต์แวร์ นอกจากนี้ยังเปิดโอกาสให้นักพัฒนาสามารถทำการปรับปรุงซอฟต์แวร์ให้เกิดความเหมาะสมและหลากหลายได้อีกด้วย</flowPara><flowPara
          id="flowPara12297"
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"></flowPara><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /><flowPara
          id="flowPara12315"
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">คุณภาพของซอฟต์แวร์โอเพนซอร์ซนั้นได้รับการยอมรับมาแล้วทั่วโลก หลายตัวพิสูจน์ให้เห็นแล้วว่ามีความสามารถมากกว่าซอฟต์แวร์เชิงพาณิชย์ อย่างเว็บเซิร์ฟเวอร์ชื่อ Apache ที่มีการใช้งานในเซิร์ฟเวอร์กันอย่างแพร่หลาย นอกจากนี้ซอฟต์แวร์โอเพนซอร์สยังได้รับความร่วมมือจากนักพัฒนาทั่วทุกมุมโลกทำให้มั่นใจได้ว่าซอฟต์แวร์จะมีการพัฒนาอย่างต่อเนื่อง</flowPara><flowPara
+         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">คุณภาพของซอฟต์แวร์โอเพนซอร์สนั้นได้รับการยอมรับมาแล้วทั่วโลก หลายตัวพิสูจน์ให้เห็นแล้วว่ามีความสามารถมากกว่าซอฟต์แวร์เชิงพาณิชย์ อย่างเว็บเซิร์ฟเวอร์ชื่อ Apache ที่มีการใช้งานในเซิร์ฟเวอร์กันอย่างแพร่หลาย นอกจากนี้ซอฟต์แวร์โอเพนซอร์สยังได้รับความร่วมมือจากนักพัฒนาทั่วทุกมุมโลกทำให้มั่นใจได้ว่าซอฟต์แวร์จะมีการพัฒนาอย่างต่อเนื่อง</flowPara><flowPara
          id="flowPara12299"
          style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda" /></flowRoot>    <flowRoot
        xml:space="preserve"
