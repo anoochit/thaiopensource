@@ -38,12 +38,12 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.6806366"
-     inkscape:cx="218.68348"
-     inkscape:cy="182.59098"
+     inkscape:zoom="0.96256551"
+     inkscape:cx="328.94627"
+     inkscape:cy="201.96918"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="svg2"
      units="cm"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -84098,6 +84098,20 @@
        fx="1182.03"
        fy="1377.1771"
        r="107.8594" />
+    <inkscape:perspective
+       id="perspective15381"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective15403"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <path
      style="color:#000000;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:#6c5353;stroke-width:31.60000000000000142;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -85083,58 +85097,6 @@
              style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara36205-4-7"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">ติดตามรายละเอียดโครงการโอเพนซอร์ซของ SIPA ได้จาก thaiopensource.org</flowPara></flowRoot>    </g>
-    <rect
-       style="color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect9505-3-0-35-2-6"
-       width="311.46826"
-       height="74.852531"
-       x="73.059158"
-       y="78.366364"
-       ry="6.6421723" />
-    <flowRoot
-       transform="matrix(1.1750088,0,0,1.1750088,129.13697,-220.65515)"
-       style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       id="flowRoot36165-7-5-2"
-       xml:space="preserve"><flowRegion
-         id="flowRegion36167-5-2-7"><rect
-           style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1"
-           y="261.91336"
-           x="-37"
-           height="94.39212"
-           width="286.59418"
-           id="rect36169-4-1-0" /></flowRegion><flowPara
-         id="flowPara36175-7-5-6"
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">1. ใส่แผ่น CD Suriyan ลงในเครื่อง</flowPara><flowPara
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara34783">2. เริ่มระบบใหม่ และกำหนดค่าให้คอมพิวเตอร์เริ่มใช้งานจากแผ่นซีดี</flowPara><flowPara
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara34791">3. จะพบเมนูเลือกภาษาของ Suriyan ให้เลือกภาษาที่ต้องการ</flowPara><flowPara
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara34785">4. เลือกเมนูแรก Try Suriyan without any change to your computer</flowPara><flowPara
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara34787">5. รอ Suriyan บูตจนกว่าจะพร้อมใช้งาน</flowPara><flowPara
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara34789">6. เมื่อระบบบูตเสร็จแล้วจะสามารถใช้งาน Suriyan ได้โดยไม่มีการแก้ไขข้อมูลใดๆในเครื่อง</flowPara><flowPara
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara34773" /><flowPara
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara34775" /><flowPara
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara34777" /><flowPara
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara34779" /><flowPara
-         style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-         id="flowPara34781" /></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-       x="48.465965"
-       y="67.416809"
-       id="text9693-5-7-6-5-7-1"><tspan
-         sodipodi:role="line"
-         id="tspan9695-2-1-80-8-6-2"
-         x="48.465965"
-         y="67.416809"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">การใช้งาน Suriyan เบื้องต้น</tspan></text>
   </g>
   <g
      style="fill:#ffffff;fill-opacity:1;display:inline"
@@ -86286,78 +86248,14 @@
      id="g4954" />
   <rect
      style="color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="rect9505-3-0-35-2"
-     width="243.94035"
-     height="115.88871"
-     x="526.29547"
-     y="206.64975"
-     ry="6.6421723" />
-  <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,538.34543,-72.37177)"
-     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-     id="flowRoot36165-7-5"
-     xml:space="preserve"><flowRegion
-       id="flowRegion36167-5-2"><rect
-         style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1"
-         y="261.91336"
-         x="-37"
-         height="179.52554"
-         width="317.16669"
-         id="rect36169-4-1" /></flowRegion><flowPara
-       id="flowPara36175-7-5"
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">ซอฟต์แวร์โอเพนซอร์สคือ ซอฟต์แวร์ที่ให้อิสระกับผู้ใช้งานโดยไม่มีข้อจำกัดในการใช้งานใด ๆ ทำให้ผู้ใช้งานไม่ต้องกังวลเกี่ยวกับการละเมิดลิขสิทธิ์ซอฟต์แวร์ นอกจากนี้ยังเปิดโอกาสให้นักพัฒนาสามารถทำการปรับปรุงซอฟต์แวร์ให้เกิดความเหมาะสมและหลากหลายได้อีกด้วย ส่วนคุณภาพของซอฟต์แวร์โอเพนซอร์สนั้นได้รับการยอมรับมาแล้วทั่วโลก หลายตัวพิสูจน์ให้เห็นแล้วว่ามีความสามารถมากกว่าซอฟต์แวร์เชิงพาณิชย์ อย่างเว็บเซิร์ฟเวอร์ชื่อ Apache ที่มีการใช้งานในเซิร์ฟเวอร์กันอย่างแพร่หลาย นอกจากนี้ซอฟต์แวร์โอเพนซอร์สยังได้รับความร่วมมือจากนักพัฒนาทั่วทุกมุมโลกทำให้มั่นใจได้ว่าซอฟต์แวร์จะมีการพัฒนาอย่างต่อเนื่อง</flowPara></flowRoot>  <text
-     xml:space="preserve"
-     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-     x="501.70233"
-     y="219.7002"
-     id="text9693-5-7-6-5-7"><tspan
-       sodipodi:role="line"
-       id="tspan9695-2-1-80-8-6"
-       x="501.70233"
-       y="219.7002"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">Open Source Software คืออะไร</tspan></text>
-  <rect
-     style="color:#000000;fill:#000000;fill-opacity:0.22330095;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="rect9505-3-0-35"
-     width="243.94035"
-     height="106.5387"
-     x="526.29553"
-     y="320.53278"
-     ry="6.6421723" />
-  <text
-     xml:space="preserve"
-     style="font-size:16.25507164px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-     x="501.70233"
-     y="327.58322"
-     id="text9693-5-7-6-5"><tspan
-       sodipodi:role="line"
-       id="tspan9695-2-1-80-8"
-       x="501.70233"
-       y="327.58322"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">Suriyan คืออะไร</tspan></text>
-  <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,537.78543,35.511246)"
-     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-     id="flowRoot36165-7"
-     xml:space="preserve"><flowRegion
-       id="flowRegion36167-5"><rect
-         style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1"
-         y="261.91336"
-         x="-37"
-         height="80.119957"
-         width="321.54306"
-         id="rect36169-4" /></flowRegion><flowPara
-       id="flowPara36175-7"
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Suriyan เป็นซอฟต์แวร์ระบบปฏิบัติการลินุกซ์โดยใช้ Ubuntu เป็นฐานการพัฒนาซึ่งสามารถใช้งานได้บนเครื่องคอมพิวเตอร์ทั่วไป โดย SIPA เห็นว่าการที่จะต้องใช้ซอฟต์แวร์ระบบปฏิบัติการที่เป็นซอฟต์แวร์เชิงพาณิชย์นั้น นอกจากจะสิ้นเปลืองและไม่ปลอดภัยแล้ว เราจะไม่สามารถใช้งานได้อย่างยั่งยืนอีกด้วย ทาง SIPA จึงพัฒนาระบบปฏิบัติการ Suriyan ที่เป็นระบบปฏิบัติการโอเพนซอร์สทั้งระบบขึ้นมาให้ใช้งาน เพื่อเป็นทางเลือกในการใช้งานคอมพิวเตอร์ที่ต้องการความประหยัด และความปลอดภัย ที่สามารถใช้งานได้อย่างยั่งยืน</flowPara></flowRoot>  <rect
-     style="color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect9505-3-0-35-2-6-2"
      width="320.28351"
      height="118.92891"
-     x="73.059158"
-     y="228.36636"
+     x="527.05426"
+     y="261.61084"
      ry="6.6421723" />
   <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,129.13697,-70.65515)"
+     transform="matrix(1.1750088,0,0,1.1750088,583.13204,-37.410659)"
      style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
      id="flowRoot36165-7-5-2-4"
      xml:space="preserve"><flowRegion
@@ -86372,17 +86270,17 @@
        id="flowPara35082">Mekha เป็นแผ่นซีดีรวมซอฟต์แวร์เกมที่น่าเล่นและซอฟต์แวร์พัฒนาเกมสำหรับวินโดวส์ โดย SIPA เห็นว่าปัจจุบันอุตสาหกรรมเกมมีแนวโน้มเติบโตอย่างรวดเร็ว หากได้รับการพัฒนาทรัพยากรมนุษย์แล้วจะสามารถนำรายได้เข้าสู่ประเทศชาติได้ เป็นเงินจำนวนมหาศาล ซึ่งทำให้มีผู้สนใจในการเล่นเกมโอเพนซอร์ส และใช้โอเพนซอร์สสร้างสรรเกมเป็นจำนวนมาก แต่การค้นหาซอฟต์แวร์ที่ตนเองต้องการทำได้ยาก ทาง SIPA จึงคัดเลือกเกมและเครื่องมือพัฒนาเกมแบบโอเพนซอร์สที่มีคุณภาพรวบรวมอยู่ใน ซีดีเพื่อให้ง่าย ต่อการใช้งาน เกมและเครื่องมือทั้งหมดในซีดี 2 แผ่น เป็นซอฟต์แวร์สำหรับระบบปฏิบัติการวินโดวส์ ซอฟต์แวร์ในซีดีส่วนมากจะมีเวอร์ชั่นที่ใช้บนลินุกซ์ได้ด้วยเพื่อทำให้ง่าย ขึ้น เมื่อต้องการเปลี่ยนไปใช้ลินุกซ์ในอนาคตทั้งนี้คุณสามารถติดตั้งโปรแกรมใน ซีดีนี้โดยไม่ต้องลบโปรแกรมอื่นๆ ที่อยู่ในเครื่องออก </flowPara></flowRoot>  <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-     x="48.465965"
-     y="217.41681"
+     x="502.46103"
+     y="250.6613"
      id="text9693-5-7-6-5-7-1-4"><tspan
        sodipodi:role="line"
        id="tspan9695-2-1-80-8-6-2-9"
-       x="48.465965"
-       y="217.41681"
-       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">Mekha คืออะไร</tspan></text>
+       x="502.46103"
+       y="250.6613"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">Mekha คืออะไร</tspan></text>
   <g
      id="g4778"
-     transform="matrix(0.71750207,0,0,0.71750207,399.80885,-354.65552)">
+     transform="matrix(0.85227734,0,0,0.85227734,366.63097,-424.8887)">
     <path
        d="m 861.83889,1264.0419 c 0,59.5671 -48.28871,107.8558 -107.85586,107.8558 -59.56714,0 -107.85586,-48.2887 -107.85586,-107.8558 0,-59.5672 48.28872,-107.8559 107.85586,-107.8559 59.56715,0 107.85586,48.2887 107.85586,107.8559 z"
        sodipodi:ry="107.85586"
@@ -86449,4 +86347,68 @@
        d="m 410.0856,587.0438 c -28.2958,0 -49.1146,30.0754 -55.9827,41.9714 -6.8682,11.896 -24.1734,37.937 -53.9811,37.937 -29.8077,0 -53.9498,-8.1293 -53.9499,-37.937 0,59.6153 48.3157,107.9309 107.931,107.9309 59.6152,0 107.9622,-48.3156 107.9622,-107.9309 0,-23.508 -23.6836,-41.9714 -51.9795,-41.9714 z"
        style="fill:url(#radialGradient16688);fill-opacity:1;stroke:none" />
   </g>
-</svg>
+  <rect
+     style="color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect9505-3-0-35-2-6-2-9"
+     width="326.7851"
+     height="117.31743"
+     x="55.350628"
+     y="23.780457"
+     ry="6.6421723" />
+  <flowRoot
+     transform="matrix(1.1750088,0,0,1.1750088,110.32262,-248.38862)"
+     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     id="flowRoot36165-7-5"
+     xml:space="preserve"><flowRegion
+       id="flowRegion36167-5-2"><rect
+         style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1"
+         y="261.91336"
+         x="-37"
+         height="179.52554"
+         width="257.04413"
+         id="rect36169-4-1" /></flowRegion><flowPara
+       id="flowPara36175-7-5"
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">ซอฟต์แวร์โอเพนซอร์สคือ ซอฟต์แวร์ที่ให้อิสระกับผู้ใช้งานโดยไม่มีข้อจำกัดในการใช้งานใด ๆ ทำให้ผู้ใช้งานไม่ต้องกังวลเกี่ยวกับการละเมิดลิขสิทธิ์ซอฟต์แวร์ นอกจากนี้ยังเปิดโอกาสให้นักพัฒนาสามารถทำการปรับปรุงซอฟต์แวร์ให้เกิดความเหมาะสมและหลากหลายได้อีกด้วย ส่วนคุณภาพของซอฟต์แวร์โอเพนซอร์สนั้นได้รับการยอมรับมาแล้วทั่วโลก หลายตัวพิสูจน์ให้เห็นแล้วว่ามีความสามารถมากกว่าซอฟต์แวร์เชิงพาณิชย์ อย่างเว็บเซิร์ฟเวอร์ชื่อ Apache ที่มีการใช้งานในเซิร์ฟเวอร์กันอย่างแพร่หลาย นอกจากนี้ซอฟต์แวร์โอเพนซอร์สยังได้รับความร่วมมือจากนักพัฒนาทั่วทุกมุมโลกทำให้มั่นใจได้ว่าซอฟต์แวร์จะมีการพัฒนาอย่างต่อเนื่อง</flowPara></flowRoot>  <text
+     xml:space="preserve"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
+     x="73.67952"
+     y="43.68335"
+     id="text9693-5-7-6-5-7"><tspan
+       sodipodi:role="line"
+       id="tspan9695-2-1-80-8-6"
+       x="73.67952"
+       y="43.68335"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">Open Source Software คืออะไร</tspan></text>
+  <rect
+     style="color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect9505-3-0-35-2-6-2-9-0"
+     width="326.87708"
+     height="104.82372"
+     x="55.350628"
+     y="175.20718"
+     ry="6.6421723" />
+  <text
+     xml:space="preserve"
+     style="font-size:16.25507164px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="73.67952"
+     y="193.56638"
+     id="text9693-5-7-6-5"><tspan
+       sodipodi:role="line"
+       id="tspan9695-2-1-80-8"
+       x="73.67952"
+       y="193.56638"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">เกมในชุด Mekha</tspan></text>
+  <flowRoot
+     transform="matrix(1.1750088,0,0,1.1750088,109.76262,-98.505606)"
+     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     id="flowRoot36165-7"
+     xml:space="preserve"><flowRegion
+       id="flowRegion36167-5"><rect
+         style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1"
+         y="261.91336"
+         x="-37"
+         height="94.266449"
+         width="260.53635"
+         id="rect36169-4" /></flowRegion><flowPara
+       id="flowPara36175-7"
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Suriyan เป็นซอฟต์แวร์ระบบปฏิบัติการลินุกซ์โดยใช้ Ubuntu เป็นฐานการพัฒนาซึ่งสามารถใช้งานได้บนเครื่องคอมพิวเตอร์ทั่วไป โดย SIPA เห็นว่าการที่จะต้องใช้ซอฟต์แวร์ระบบปฏิบัติการที่เป็นซอฟต์แวร์เชิงพาณิชย์นั้น นอกจากจะสิ้นเปลืองและไม่ปลอดภัยแล้ว เราจะไม่สามารถใช้งานได้อย่างยั่งยืนอีกด้วย ทาง SIPA จึงพัฒนาระบบปฏิบัติการ Suriyan ที่เป็นระบบปฏิบัติการโอเพนซอร์สทั้งระบบขึ้นมาให้ใช้งาน เพื่อเป็นทางเลือกในการใช้งานคอมพิวเตอร์ที่ต้องการความประหยัด และความปลอดภัย ที่สามารถใช้งานได้อย่างยั่งยืน</flowPara></flowRoot></svg>
