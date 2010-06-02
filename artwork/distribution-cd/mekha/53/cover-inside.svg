@@ -38,9 +38,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.96256551"
-     inkscape:cx="328.94627"
-     inkscape:cy="201.96918"
+     inkscape:zoom="1.3612732"
+     inkscape:cx="168.71216"
+     inkscape:cy="284.94905"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:current-layer="svg2"
@@ -58,9 +58,24 @@
        orientation="0,1"
        position="1848.3771,-263.04372"
        id="guide8873" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="334.24591,147.65589"
+       id="guide17041" />
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient16870">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop16872" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop16874" />
+    </linearGradient>
     <linearGradient
        id="linearGradient9750">
       <stop
@@ -84112,6 +84127,224 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective15388"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective15452"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective15739"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective15880"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16870"
+       id="radialGradient16910"
+       cx="71.991425"
+       cy="174.04741"
+       fx="71.991425"
+       fy="174.04741"
+       r="1.836516"
+       gradientTransform="matrix(0.35000001,0,0,38.00002,75.60069,-6461.7576)"
+       gradientUnits="userSpaceOnUse" />
+    <inkscape:perspective
+       id="perspective16920-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16870-7"
+       id="radialGradient16910-1"
+       cx="71.991425"
+       cy="174.04741"
+       fx="71.991425"
+       fy="174.04741"
+       r="1.836516"
+       gradientTransform="matrix(0.35000001,0,0,38.00002,45.600689,-6439.7576)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient16870-7">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop16872-3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop16874-9" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective16958"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16870-6"
+       id="radialGradient16910-7"
+       cx="71.991425"
+       cy="174.04741"
+       fx="71.991425"
+       fy="174.04741"
+       r="1.836516"
+       gradientTransform="matrix(0.35000001,0,0,38.00002,45.600689,-6439.7576)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient16870-6">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop16872-8" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop16874-1" />
+    </linearGradient>
+    <radialGradient
+       r="1.836516"
+       fy="174.04741"
+       fx="71.991425"
+       cy="174.04741"
+       cx="71.991425"
+       gradientTransform="matrix(0.35000001,0,0,38.00002,235.60069,-6461.7576)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient16967"
+       xlink:href="#linearGradient16870-6"
+       inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective16996"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       r="1.836516"
+       fy="174.04741"
+       fx="71.991425"
+       cy="174.04741"
+       cx="71.991425"
+       gradientTransform="matrix(0.35000001,0,0,21.748438,235.60069,-3442.1884)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient16967-0"
+       xlink:href="#linearGradient16870-6-5"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient16870-6-5">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop16872-8-1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop16874-1-3" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16870-9"
+       id="radialGradient16910-2"
+       cx="71.991425"
+       cy="174.04741"
+       fx="71.991425"
+       fy="174.04741"
+       r="1.836516"
+       gradientTransform="matrix(0.35000001,0,0,38.00002,45.600689,-6439.7576)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient16870-9">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop16872-9" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop16874-96" />
+    </linearGradient>
+    <radialGradient
+       r="1.836516"
+       fy="174.04741"
+       fx="71.991425"
+       cy="174.04741"
+       cx="71.991425"
+       gradientTransform="matrix(0.35000001,0,0,21.748438,75.60069,-3442.1884)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient17010"
+       xlink:href="#linearGradient16870-9"
+       inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       id="filter17051"
+       x="-0.95399989"
+       width="2.9079998"
+       y="-0.018346154"
+       height="1.0366923">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.51101052"
+         id="feGaussianBlur17053" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter17055"
+       x="-0.95399989"
+       width="2.9079998"
+       y="-0.018346154"
+       height="1.0366923">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.51101052"
+         id="feGaussianBlur17057" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter17059"
+       x="-1.6534284"
+       width="4.3068568"
+       y="-0.018198113"
+       height="1.0363962">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.88565976"
+         id="feGaussianBlur17061" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter17063"
+       x="-1.6534284"
+       width="4.3068568"
+       y="-0.018198113"
+       height="1.0363962">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.88565976"
+         id="feGaussianBlur17065" />
+    </filter>
   </defs>
   <path
      style="color:#000000;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:#6c5353;stroke-width:31.60000000000000142;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -86353,10 +86586,10 @@
      width="326.7851"
      height="117.31743"
      x="55.350628"
-     y="23.780457"
+     y="-138.21954"
      ry="6.6421723" />
   <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,110.32262,-248.38862)"
+     transform="matrix(1.1750088,0,0,1.1750088,110.32262,-410.38862)"
      style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
      id="flowRoot36165-7-5"
      xml:space="preserve"><flowRegion
@@ -86372,34 +86605,34 @@
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
      x="73.67952"
-     y="43.68335"
+     y="-118.31665"
      id="text9693-5-7-6-5-7"><tspan
        sodipodi:role="line"
        id="tspan9695-2-1-80-8-6"
        x="73.67952"
-       y="43.68335"
+       y="-118.31665"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">Open Source Software คืออะไร</tspan></text>
   <rect
      style="color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect9505-3-0-35-2-6-2-9-0"
-     width="326.87708"
-     height="104.82372"
-     x="55.350628"
-     y="175.20718"
+     width="278.89529"
+     height="206.211"
+     x="85.350632"
+     y="13.207176"
      ry="6.6421723" />
   <text
      xml:space="preserve"
      style="font-size:16.25507164px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-     x="73.67952"
-     y="193.56638"
+     x="103.67952"
+     y="31.566383"
      id="text9693-5-7-6-5"><tspan
        sodipodi:role="line"
        id="tspan9695-2-1-80-8"
-       x="73.67952"
-       y="193.56638"
+       x="103.67952"
+       y="31.566383"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">เกมในชุด Mekha</tspan></text>
   <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,109.76262,-98.505606)"
+     transform="matrix(1.1750088,0,0,1.1750088,139.76262,-234.50561)"
      style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
      id="flowRoot36165-7"
      xml:space="preserve"><flowRegion
@@ -86407,8 +86640,208 @@
          style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1"
          y="261.91336"
          x="-37"
-         height="94.266449"
-         width="260.53635"
+         height="134.49551"
+         width="129.68135"
          id="rect36169-4" /></flowRegion><flowPara
        id="flowPara36175-7"
-       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">Suriyan เป็นซอฟต์แวร์ระบบปฏิบัติการลินุกซ์โดยใช้ Ubuntu เป็นฐานการพัฒนาซึ่งสามารถใช้งานได้บนเครื่องคอมพิวเตอร์ทั่วไป โดย SIPA เห็นว่าการที่จะต้องใช้ซอฟต์แวร์ระบบปฏิบัติการที่เป็นซอฟต์แวร์เชิงพาณิชย์นั้น นอกจากจะสิ้นเปลืองและไม่ปลอดภัยแล้ว เราจะไม่สามารถใช้งานได้อย่างยั่งยืนอีกด้วย ทาง SIPA จึงพัฒนาระบบปฏิบัติการ Suriyan ที่เป็นระบบปฏิบัติการโอเพนซอร์สทั้งระบบขึ้นมาให้ใช้งาน เพื่อเป็นทางเลือกในการใช้งานคอมพิวเตอร์ที่ต้องการความประหยัด และความปลอดภัย ที่สามารถใช้งานได้อย่างยั่งยืน</flowPara></flowRoot></svg>
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold">Mekha games</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15912" /><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15914">    Egoboo </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15358">    Frets On Fire</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15360">    Wormux </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15362">    Neverball</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15364">    Ultimate Stunts</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15366">    XMoto </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15368">    AssaultCube</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15370">    Blockality</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15372">    Danger from the deep </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15374">    Slam Soccer </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15376">    Glest </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15378">    FreeCIV</flowPara></flowRoot>  <flowRoot
+     transform="matrix(1.1750088,0,0,1.1750088,299.76262,-234.50561)"
+     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     id="flowRoot36165-7-2"
+     xml:space="preserve"><flowRegion
+       id="flowRegion36167-5-8"><rect
+         style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1"
+         y="261.91336"
+         x="-37"
+         height="134.49551"
+         width="129.68135"
+         id="rect36169-4-9" /></flowRegion><flowPara
+       id="flowPara36175-7-3"
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold">Proprietary games</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15916" /><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15918">    Titan Quest </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15358-6">    Guitar Hero </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15360-8">    Worm World Party </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15362-0">    Super Monkey Ball </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15364-2">    Stunt Cars </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15366-1">    Elasto Mania </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15368-0">    Counter Strike </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15370-5">    Killzone:Liberation </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15372-1">    Silent Hunter </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15374-1">    Sega Soccer Slam </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15376-0">    Warcraft </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15378-8">    Civilization</flowPara></flowRoot>  <flowRoot
+     transform="matrix(1.1750088,0,0,1.1750088,139.76262,-260.50561)"
+     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     id="flowRoot36165-7-08"
+     xml:space="preserve"><flowRegion
+       id="flowRegion36167-5-1"><rect
+         style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1"
+         y="261.91336"
+         x="-37"
+         height="64.205162"
+         width="196.43507"
+         id="rect36169-4-99" /></flowRegion><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15378-9">รายการซอฟต์แวร์เกมในแผ่นซีดีชุด Mekha เปรียบเทียบกับซอฟต์แวร์เกมเชิงพานิช</flowPara></flowRoot>  <rect
+     style="color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect9505-3-0-35-2-6-2-9-0-8"
+     width="278.89529"
+     height="157.72696"
+     x="85.350632"
+     y="229.20718"
+     ry="6.6421723" />
+  <text
+     xml:space="preserve"
+     style="font-size:16.25507164px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="103.67952"
+     y="247.56641"
+     id="text9693-5-7-6-5-3"><tspan
+       sodipodi:role="line"
+       id="tspan9695-2-1-80-8-7"
+       x="103.67952"
+       y="247.56641"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">ซอฟต์แวร์พัฒนาเกมในชุดซีดี Mekha</tspan></text>
+  <flowRoot
+     transform="matrix(1.1750088,0,0,1.1750088,139.76262,-44.50561)"
+     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     id="flowRoot36165-7-08-9"
+     xml:space="preserve"><flowRegion
+       id="flowRegion36167-5-1-3"><rect
+         style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1"
+         y="261.91336"
+         x="-37"
+         height="64.647247"
+         width="199.52962"
+         id="rect36169-4-99-7" /></flowRegion><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15378-9-8">รายการซอฟต์แวร์สำหรับพัฒนาเกมในแผ่นซีดีชุด Game development tools เปรียบเทียบกับซอฟต์แวร์เชิงพานิชที่ใช้ในการพัฒนาเกม</flowPara></flowRoot>  <flowRoot
+     transform="matrix(1.1750088,0,0,1.1750088,139.76262,-18.505608)"
+     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     id="flowRoot36165-7-0"
+     xml:space="preserve"><flowRegion
+       id="flowRegion36167-5-27"><rect
+         style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1"
+         y="261.91336"
+         x="-37"
+         height="134.49551"
+         width="129.68135"
+         id="rect36169-4-6" /></flowRegion><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
+       id="flowPara15378-0">Open Source tools</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15920" /><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15922">    SIPA 3D Game Creation System</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15630">    K3D </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15632">    Misfit 3D</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15634">    Meshlab </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15636">    GIMP</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15638">    Audacity</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15640">    MuseScore</flowPara></flowRoot>  <flowRoot
+     transform="matrix(1.1750088,0,0,1.1750088,299.76262,-18.505608)"
+     style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     id="flowRoot36165-7-2-7"
+     xml:space="preserve"><flowRegion
+       id="flowRegion36167-5-8-5"><rect
+         style="font-size:6.80845976px;fill:#ffffff;fill-opacity:1"
+         y="261.91336"
+         x="-37"
+         height="134.49551"
+         width="129.68135"
+         id="rect36169-4-9-8" /></flowRegion><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda Bold"
+       id="flowPara15378-8-4">Proprietary tools</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15924" /><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15926">    CryEngine, Unreal Edit </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15719">    3Ds Max </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15721">    Maya </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15723">    BodyPaint 3D </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15725">    Photoshop </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15727">    Soundforge </flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15729">    Cubase</flowPara></flowRoot>  <rect
+     style="opacity:0.80000000000000004;fill:url(#radialGradient16910);fill-opacity:1;stroke:none;filter:url(#filter17059)"
+     id="rect16902"
+     width="1.2855612"
+     height="116.80241"
+     x="100.15491"
+     y="93.64621"
+     ry="1.836516" />
+  <rect
+     style="opacity:0.80000000000000004;fill:url(#radialGradient16967);fill-opacity:1;stroke:none;filter:url(#filter17063)"
+     id="rect16902-8"
+     width="1.2855612"
+     height="116.80241"
+     x="260.15491"
+     y="93.64621"
+     ry="1.836516" />
+  <rect
+     style="opacity:0.80000000000000004;fill:url(#radialGradient17010);fill-opacity:1;stroke:none;filter:url(#filter17051)"
+     id="rect16902-0"
+     width="1.2855612"
+     height="66.849174"
+     x="100.15491"
+     y="309.64621"
+     ry="1.0510877" />
+  <rect
+     style="opacity:0.80000000000000004;fill:url(#radialGradient16967-0);fill-opacity:1;stroke:none;filter:url(#filter17055)"
+     id="rect16902-8-6"
+     width="1.2855612"
+     height="66.849174"
+     x="260.15491"
+     y="309.64621"
+     ry="1.0510877" />
+</svg>
