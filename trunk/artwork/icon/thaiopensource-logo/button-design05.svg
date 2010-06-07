@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="797.47546"
+   height="797.47546"
+   id="svg125"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel"
+   version="1.0"
+   sodipodi:docname="button-design05.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/media/SONY16GB/TOSS-TShirt/button-design01.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs127">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective133" />
+    <inkscape:perspective
+       id="perspective143"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective402"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective1731"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#007fa6;stroke-width:0.93189794;stroke-opacity:1"
+       d="M 367.21875,46.15625 C 237.8708,45.921464 113.34476,125.54936 58.35052,241.99623 1.1981665,360.7896 19.706104,512.84711 106.1875,612.59375 c 73.8487,87.84357 194.1089,136.00809 308.65625,119.25 107.70734,-13.95314 207.76783,-81.66503 257.96875,-178.3125 45.83007,-84.8784 54.56764,-190.17887 20.37488,-280.72027 C 658.87832,177.99945 581.23592,99.219126 485.52713,66.377735 447.78268,52.752183 407.50512,45.634871 367.21875,46.15625 z"
+       id="path1653-7" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="289.25009"
+     inkscape:cy="387.42445"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="729"
+     inkscape:window-x="0"
+     inkscape:window-y="25" />
+  <metadata
+     id="metadata130">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(29.192271,8.2890769)">
+    <path
+       style="fill:#b3b3b3;fill-opacity:1;stroke:none"
+       d="M 105.01055,613.60473 C 197.35555,722.83975 360.03417,766.41847 493.8296,714.75345 613.44967,668.67634 704.59664,552.98399 716.54616,424.94068 729.49519,295.68718 663.43903,160.7092 551.58745,93.429521 457.36013,36.573724 336.55191,27.997526 235.18011,70.990172 130.89994,115.03035 49.948639,212.9304 30.492467,324.70894 12.303403,425.31096 38.526875,534.88473 105.01055,613.60473 z"
+       id="path2106" />
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:none"
+       d="M 101.91328,198.291 C 181.05423,87.251456 332.10381,33.454879 463.08206,72.148068 587.3406,108.66953 686.41972,223.08071 700.63914,351.51861 714.33833,471.56058 657.4142,597.46425 557.03533,665.17662 457.95769,731.67833 323.26137,739.59233 217.37555,684.2719 111.75882,628.83633 39.177118,513.12738 40.693413,393.5516 40.927264,324.43387 60.189659,254.17793 101.91328,198.291 z"
+       id="path1653" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="path6740"
+       sodipodi:cx="-203.09052"
+       sodipodi:cy="208.38852"
+       sodipodi:rx="427.37308"
+       sodipodi:ry="427.37308"
+       d="m 224.28256,208.38852 c 0,236.03163 -191.341442,427.37308 -427.37308,427.37308 -236.03163,0 -427.37307,-191.34145 -427.37307,-427.37308 0,-236.031634 191.34144,-427.37308 427.37307,-427.37308 236.031638,0 427.37308,191.341446 427.37308,427.37308 z"
+       transform="matrix(0.9314582,0.02862463,-0.02862463,0.9314582,564.68082,202.15684)" />
+    <g
+       id="g1615"
+       transform="matrix(1.1257141,0,0,1.1257141,-46.942639,-28.779452)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design12.png"
+         id="path2696"
+         d="m 364.40854,218.05503 c -48.77392,0.67483 -97.79114,12.09949 -140.40557,35.97946 -37.16946,-5.32063 -73.05361,-16.61733 -106.48208,-34.00915 6.98558,37.60825 11.73049,76.69439 28.78357,111.108 -31.78235,60.19651 -5.55624,139.66233 50.02859,176.04237 94.33453,71.20088 232.76275,71.89996 332.55303,11.3935 50.04134,-31.32541 89.01267,-90.71523 76.67053,-151.88473 -1.92705,-12.60263 -7.11958,-24.95138 -11.73616,-36.32213 17.57503,-33.66531 21.27758,-72.05936 28.61224,-108.8807 -34.93385,14.43874 -69.93964,29.63614 -107.93839,31.69619 C 468.95093,228.0704 416.41376,217.0115 364.40854,218.05503 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         style="fill:#552200"
+         transform="matrix(4.5550167,0,0,-4.5550167,593.64177,256.8816)"
+         id="g2735">
+        <path
+           id="path2737"
+           style="fill:#552200;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c -5.261,-2.179 -11.784,-3.541 -18.045,-4.395 -8.316,5.033 -19.171,8.086 -31.058,8.086 -11.887,0 -22.741,-3.053 -31.059,-8.086 -6.259,0.854 -12.781,2.216 -18.044,4.395 0,0 2.011,-11.898 5.636,-16.163 -2.503,-4.016 -3.899,-8.444 -3.899,-13.1 0,-18.201 21.206,-32.955 47.366,-32.955 26.16,0 47.366,14.754 47.366,32.955 0,4.656 -1.396,9.084 -3.9,13.099 C -2.01,-11.899 0,0 0,0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         transform="matrix(4.5550167,0,0,-4.5550167,469.6464,278.22237)"
+         id="g2739">
+        <path
+           id="path2741"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 C -10.927,0 -19.996,-7.881 -21.881,-18.266 -23.765,-7.881 -32.835,0 -43.763,0 c -12.292,0 -22.258,-9.966 -22.258,-22.26 0,-12.292 9.966,-22.259 22.258,-22.259 10.928,0 19.998,7.883 21.882,18.267 1.885,-10.384 10.954,-18.267 21.881,-18.267 12.294,0 22.261,9.967 22.261,22.259 C 22.261,-9.966 12.294,0 0,0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         style="fill:#d45500"
+         transform="matrix(4.5550167,0,0,-4.5550167,345.27363,479.33904)"
+         id="g2743">
+        <path
+           id="path2745"
+           style="fill:#d45500;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0.193,-2.894 1.737,-6.173 5.401,-6.173 3.666,0 5.787,3.279 5.401,6.173 C 10.416,2.893 1.158,4.243 0,0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         transform="matrix(4.5550167,0,0,-4.5550167,369.87649,431.01535)"
+         id="g2747">
+        <path
+           id="path2749"
+           style="fill:#f68712;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 1.736,0 3.858,-3.279 5.4,-10.609 -1.734,0.385 -3.278,-2.508 -5.4,-9.067 -2.122,6.559 -3.664,9.452 -5.401,9.067 C -3.858,-3.279 -1.737,0 0,0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         style="fill:#ff7f2a"
+         transform="matrix(4.5550167,0,0,-4.5550167,346.69239,378.00761)"
+         id="g2751">
+        <path
+           id="path2753"
+           style="fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,-9.261 -7.511,-16.773 -16.775,-16.773 -9.262,0 -16.775,7.512 -16.775,16.773 0,9.266 7.513,16.775 16.775,16.775 C -7.511,16.775 0,9.266 0,0" />
+      </g>
+      <g
+         style="fill:#000000"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         transform="matrix(4.5550167,0,0,-4.5550167,340.08672,378.85075)"
+         id="g2755">
+        <path
+           id="path2757"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c -0.174,-8.569 -6.585,-15.947 -15.448,-15.768 -8.405,0.171 -14.7,7.644 -15.185,15.65 -0.532,8.747 6.712,16.434 15.43,16.258 C -6.517,15.963 -0.168,8.059 0,-0.202 0.017,-1.091 2.922,-0.53 2.899,0.574 2.698,10.561 -5.608,17.952 -15.448,17.754 -25.141,17.558 -33.351,9.729 -33.546,0 -33.751,-10.073 -24.901,-17.578 -15.203,-17.381 -5.51,-17.185 2.701,-9.355 2.896,0.373 2.922,1.556 0.021,0.932 0,0" />
+      </g>
+      <g
+         style="fill:#000000"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         transform="matrix(4.5550167,0,0,-4.5550167,320.58539,378.00761)"
+         id="g2759">
+        <path
+           id="path2761"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,-6.101 -4.942,-11.046 -11.044,-11.046 -6.102,0 -11.048,4.945 -11.048,11.046 0,6.103 4.946,11.051 11.048,11.051 C -4.942,11.051 0,6.103 0,0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         transform="matrix(4.5550167,0,0,-4.5550167,253.89717,408.87434)"
+         id="g2763">
+        <path
+           id="path2765"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,-1.533 -2.09,-2.772 -4.67,-2.772 -2.581,0 -4.673,1.239 -4.673,2.772 0,1.532 2.092,2.773 4.673,2.773 C -2.09,2.773 0,1.532 0,0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         transform="matrix(4.5550167,0,0,-4.5550167,326.86221,346.56301)"
+         id="g2767">
+        <path
+           id="path2769"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,-3.004 -2.69,-5.443 -6.01,-5.443 -3.314,0 -6.002,2.439 -6.002,5.443 0,3.006 2.688,5.444 6.002,5.444 C -2.69,5.444 0,3.006 0,0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         style="fill:#ff7f2a"
+         transform="matrix(4.5550167,0,0,-4.5550167,548.56305,378.00761)"
+         id="g2771">
+        <path
+           id="path2773"
+           style="fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,-9.261 -7.51,-16.773 -16.775,-16.773 -9.262,0 -16.775,7.512 -16.775,16.773 0,9.266 7.513,16.775 16.775,16.775 C -7.51,16.775 0,9.266 0,0" />
+      </g>
+      <g
+         style="fill:#000000"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         transform="matrix(4.5550167,0,0,-4.5550167,541.95739,378.85075)"
+         id="g2775">
+        <path
+           id="path2777"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c -0.173,-8.569 -6.585,-15.947 -15.448,-15.768 -8.404,0.171 -14.699,7.644 -15.185,15.65 -0.532,8.747 6.712,16.434 15.43,16.258 C -6.517,15.963 -0.167,8.059 0,-0.202 0.017,-1.091 2.921,-0.53 2.899,0.574 2.698,10.561 -5.608,17.952 -15.448,17.754 -25.14,17.558 -33.35,9.729 -33.546,0 -33.751,-10.073 -24.9,-17.578 -15.203,-17.381 -5.509,-17.185 2.701,-9.355 2.896,0.373 2.921,1.556 0.021,0.932 0,0" />
+      </g>
+      <g
+         style="fill:#000000"
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         transform="matrix(4.5550167,0,0,-4.5550167,522.46102,378.00761)"
+         id="g2779">
+        <path
+           id="path2781"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,-6.101 -4.943,-11.046 -11.045,-11.046 -6.101,0 -11.049,4.945 -11.049,11.046 0,6.103 4.948,11.051 11.049,11.051 C -4.943,11.051 0,6.103 0,0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         transform="matrix(4.5550167,0,0,-4.5550167,455.77233,408.87434)"
+         id="g2783">
+        <path
+           id="path2785"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,-1.533 -2.092,-2.772 -4.671,-2.772 -2.581,0 -4.673,1.239 -4.673,2.772 0,1.532 2.092,2.773 4.673,2.773 C -2.092,2.773 0,1.532 0,0" />
+      </g>
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         transform="matrix(4.5550167,0,0,-4.5550167,528.72816,346.56301)"
+         id="g2787">
+        <path
+           id="path2789"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 0,0 c 0,-3.004 -2.689,-5.443 -6.009,-5.443 -3.314,0 -6.002,2.439 -6.002,5.443 0,3.006 2.688,5.444 6.002,5.444 C -2.689,5.444 0,3.006 0,0" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:100%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="text1758"
+       sodipodi:linespacing="100%"
+       transform="translate(2.4172483,0)"><textPath
+         xlink:href="#path1653"
+         id="textPath1843"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter;fill:#000000">feel freedom with open source</textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       id="text2108"
+       sodipodi:linespacing="125%"
+       transform="translate(-8.4083021,0)"><textPath
+         xlink:href="#path2106"
+         id="textPath2112"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Charter;-inkscape-font-specification:Bitstream Charter;fill:#000000">www.thaiopensource.org</textPath></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2143"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;font-style:normal;font-weight:normal;font-size:40px"><flowRegion
+         id="flowRegion2145"><rect
+           id="rect2147"
+           width="21.57037"
+           height="61.39259"
+           x="648.77039"
+           y="590.06805" /></flowRegion><flowPara
+         id="flowPara2149" /></flowRoot>  </g>
+</svg>

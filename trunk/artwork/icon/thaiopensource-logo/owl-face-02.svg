@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2747"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="owl-face-02.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2749">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2755" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.65612932"
+     inkscape:cx="527.29963"
+     inkscape:cy="368.70568"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="716"
+     inkscape:window-x="0"
+     inkscape:window-y="6" />
+  <metadata
+     id="metadata2752">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000"
+       id="rect2787"
+       width="1051.4286"
+       height="742.85712"
+       x="0"
+       y="1.2373396"
+       inkscape:export-filename="/home/yeti/Pictures/owl-face-02.png"
+       inkscape:export-xdpi="54.761543"
+       inkscape:export-ydpi="54.761543" />
+    <g
+       id="g2961"
+       transform="translate(4.4335938e-6,2)"
+       inkscape:export-filename="/home/yeti/Pictures/owl-face-02.png"
+       inkscape:export-xdpi="54.761543"
+       inkscape:export-ydpi="54.761543">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design12.png"
+         id="path2696"
+         d="M 517.07687,107.09992 C 441.41919,108.1467 365.38411,125.86854 299.28098,162.91094 C 241.62404,154.65763 185.96087,137.13429 134.10691,110.15623 C 144.94289,168.49383 152.30314,229.12391 178.75574,282.506 C 129.45523,375.8823 170.13694,499.14898 256.35964,555.58139 C 402.69054,666.02757 617.41919,667.11198 772.213,573.25488 C 849.83668,524.66319 910.28868,432.53821 891.14364,337.65262 C 888.15443,318.10353 880.09982,298.94825 872.93862,281.31005 C 900.20085,229.08871 905.94422,169.53219 917.32167,112.41525 C 863.13259,134.8125 808.83192,158.38657 749.88859,161.58211 C 679.24212,122.63567 597.74692,105.48121 517.07687,107.09992 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="C:\Users\Nion\Desktop\thaiopensource-tshirt-design04.png"
+         style="fill:#784421"
+         transform="matrix(7.0657021,0,0,-7.0657021,872.66146,167.32735)"
+         id="g2735">
+        <path
+           id="path2737"
+           style="fill:#784421;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 C -5.261,-2.179 -11.784,-3.541 -18.045,-4.395 C -26.361,0.638 -37.216,3.691 -49.103,3.691 C -60.99,3.691 -71.844,0.638 -80.162,-4.395 C -86.421,-3.541 -92.943,-2.179 -98.206,0 C -98.206,0 -96.195,-11.898 -92.57,-16.163 C -95.073,-20.179 -96.469,-24.607 -96.469,-29.263 C -96.469,-47.464 -75.263,-62.218 -49.103,-62.218 C -22.943,-62.218 -1.737,-47.464 -1.737,-29.263 C -1.737,-24.607 -3.133,-20.179 -5.637,-16.164 C -2.01,-11.899 0,0 0,0" />
+      </g>
+    </g>
+  </g>
+</svg>
