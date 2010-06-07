@@ -38,9 +38,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="821.57363"
-     inkscape:cy="294.83257"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="270.09656"
+     inkscape:cy="190.30272"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:current-layer="svg2"
@@ -76260,6 +76260,27 @@
        id="linearGradient15348"
        xlink:href="#linearGradient15323-5"
        inkscape:collect="always" />
+    <inkscape:perspective
+       id="perspective14437"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective14451"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective14465"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <path
      style="color:#000000;fill:#241c1c;fill-opacity:1;fill-rule:nonzero;stroke:#6c5353;stroke-width:31.60000000000000142;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -76555,70 +76576,85 @@
          y="261.91336"
          style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
        style="font-size:5.49985932999999960px;fill:#ffffff;fill-opacity:1"
-       id="flowPara7126">ติดตามข่าวสารโครงการโอเพนซอร์สจาก SIPA ได้ที่ thaiopensource.org</flowPara></flowRoot>  <rect
-     style="opacity:0.81404952;color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="rect6322"
-     width="254.2751"
-     height="73.687889"
-     x="176.69525"
-     y="45.60878"
-     ry="8.3028603" />
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot9172"
-     style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-     transform="translate(-3183.0665,2252.3467)"><flowRegion
-       id="flowRegion9174"><rect
-         id="rect9176"
-         width="240.68622"
-         height="414.68594"
-         x="3370.3564"
-         y="-2201.5203"
-         style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-       style="font-size:10px;fill:#ffffff;fill-opacity:1"
-       id="flowPara14535">เกมโอเพนซอร์สในชุด Mekha ทุกเกม ล้วนได้รับรางวัลระดับโลกเป็นเครื่องการันตีแล้วทั้งสิ้น ทำให้มั่นใจได้ว่า เป็นเกมที่มีคุณภาพ สนุกสนานอย่างแท้จริง</flowPara></flowRoot>  <rect
-     style="opacity:0.81404952;color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="rect6322-6"
-     width="254.2751"
-     height="73.687889"
-     x="176.69525"
-     y="155.88115"
-     ry="8.3028603" />
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot9172-9"
-     style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-     transform="translate(-3183.5987,2363.7082)"><flowRegion
-       id="flowRegion9174-2"><rect
-         id="rect9176-8"
-         width="240.12961"
-         height="338.92233"
-         x="3370.3564"
-         y="-2201.5203"
-         style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-       style="font-size:10px;fill:#ffffff;fill-opacity:1"
-       id="flowPara14842">ถูกใจ เกมโอเพนซอร์สในชุด Mekha มีจำนวนถึง 12 เกม ทำให้มั่นใจได้ว่า ชุดเกมเมฆามีเกมส์สนุกๆ น่าเล่นทุกเกมส์จนทำให้เลือกเล่นไม่ถูกเลยทีเดียว</flowPara></flowRoot>  <rect
-     style="opacity:0.81404952;color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     id="rect6322-6-6"
-     width="254.2751"
-     height="99.634331"
-     x="176.69525"
-     y="266.1535"
-     ry="8.3028603" />
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot9180"
-     style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-     transform="translate(458.24021,-40.138207)"><flowRegion
-       id="flowRegion9182"><rect
-         id="rect9184"
-         width="232.98801"
-         height="226.87045"
-         x="-270.40176"
-         y="312.29556"
-         style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-       style="font-size:10px;fill:#ffffff;fill-opacity:1"
-       id="flowPara14846">นอกจากจะเป็นชุดรวมเกมแล้ว แผ่นซอฟต์แวร์  Mekha ยังรวบรวมชุดซอฟต์แวร์สำหรับการสร้างสรรเกมที่ใช้งานได้อย่างง่ายดาย รวมทั้งคู่มือและวีดิโอแนะนำ</flowPara></flowRoot>  <g
+       id="flowPara7126">ติดตามข่าวสารโครงการโอเพนซอร์สจาก SIPA ได้ที่ thaiopensource.org</flowPara></flowRoot>  <g
+     id="g14500"
+     transform="translate(0,3.7499962)">
+    <g
+       transform="translate(0,-7.6293945e-6)"
+       id="g14474">
+      <rect
+         style="opacity:0.81404952;color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect6322"
+         width="254.2751"
+         height="73.687889"
+         x="176.69525"
+         y="45.60878"
+         ry="8.3028603" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9172"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         transform="translate(-3183.0665,2252.3467)"><flowRegion
+           id="flowRegion9174"><rect
+             id="rect9176"
+             width="240.68622"
+             height="414.68594"
+             x="3370.3564"
+             y="-2201.5203"
+             style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+           style="font-size:10px;fill:#ffffff;fill-opacity:1"
+           id="flowPara14535">เกมในชุด Mekha ทุกตัวได้รับการคัดเลือกมาเป็น อย่างดี ถึง 12 เกม ซึ่งล้วนแล้วแต่เป็นเกมที่ได้รับรางวัลในระดับโลก มาแล้วทั้งสิ้น หมดกังวลกับปัญหาเกมไร้คุณภาพ อีกทั้งเกมส่วนใหญ่ยังรองรับการเล่นแบบออนไลน์กับเพื่อน ๆ อีกด้วย</flowPara></flowRoot>    </g>
+    <g
+       transform="translate(0,7.9999924)"
+       id="g14481">
+      <rect
+         style="opacity:0.81404952;color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect6322-6"
+         width="254.2751"
+         height="73.687889"
+         x="176.69525"
+         y="155.88115"
+         ry="8.3028603" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9172-9"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         transform="translate(-3183.5987,2363.7082)"><flowRegion
+           id="flowRegion9174-2"><rect
+             id="rect9176-8"
+             width="240.12961"
+             height="338.92233"
+             x="3370.3564"
+             y="-2201.5203"
+             style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+           style="font-size:10px;fill:#ffffff;fill-opacity:1"
+           id="flowPara14842">เกมทั้งหมดผ่านการจัดระดับแล้วว่า มีความปลอดภัย เล่นได้ทุกเพศ ทุกวัย ไม่เว้นแม้แต่เกมแอคชัน ที่มีการปรับแต่งให้ลดความรุนแรงของกราฟิกลงจนถึงระดับที่เด็กสามารถเล่นได้ อีกทั้งยังมีประโยชน์ต่อการเรียนรู้อีกด้วย</flowPara></flowRoot>    </g>
+    <g
+       id="g14488">
+      <rect
+         style="opacity:0.81404952;color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect6322-6-6"
+         width="254.27509"
+         height="76.134338"
+         x="176.69525"
+         y="282.1535"
+         ry="8.3028603" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot9180"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         transform="translate(458.24021,-24.138207)"><flowRegion
+           id="flowRegion9182"><rect
+             id="rect9184"
+             width="232.98801"
+             height="226.87045"
+             x="-270.40176"
+             y="312.29556"
+             style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+           style="font-size:10px;fill:#ffffff;fill-opacity:1"
+           id="flowPara14846">นอกจาก Mekha จะมีเกมดี ๆ มากมายให้เล่นแล้ว ในแผ่นที่สองยังมีเครื่องมือสำหรับเรียนรู้การพัฒนาเกมอย่าง ง่ายดายครบชุด และจะทำให้ฝันของทุกคนที่อยากมีเกมเป็นของตัวเอง กลายเป็นความจริง แล้วคุณจะรู้ว่า การสร้างเกม ง่ายนิดเดียว</flowPara></flowRoot>    </g>
+  </g>
+  <g
      style="display:none"
      inkscape:label="Extras"
      id="g14242"
@@ -78183,29 +78219,31 @@
      style="fill:#ffffff;fill-opacity:1;display:inline"
      transform="translate(14986.052,-7194.4407)" />
   <g
-     id="g36274"
-     transform="translate(202,-16.489708)">
+     id="g14495">
     <image
-       xlink:href="file:///home/gumara/thaiopensource-svn/artwork/distribution-cd/suriyan/53.04/screenshot/Screenshot04.jpg"
-       width="151.87706"
-       height="85.38916"
+       sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/screenshot/mekha53-1.jpg"
+       xlink:href="screenshot/mekha53-1.jpg"
+       y="42.588196"
+       x="13.068878"
        id="image36228"
-       x="-188.93112"
-       y="59.077904" />
-    <image
-       xlink:href="file:///home/gumara/thaiopensource-svn/artwork/distribution-cd/suriyan/53.04/screenshot/Screenshot19.png"
-       width="151.87706"
        height="85.38916"
+       width="151.87706" />
+    <image
+       sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/screenshot/mekha53-3.jpg"
+       xlink:href="screenshot/mekha53-3.jpg"
+       y="283.41925"
+       x="13.068878"
        id="image36256"
-       x="-188.93112"
-       y="299.90897" />
-    <image
-       xlink:href="file:///home/gumara/thaiopensource-svn/artwork/distribution-cd/suriyan/53.04/screenshot/Screenshot15.jpg"
-       width="151.87706"
        height="85.38916"
+       width="151.87706" />
+    <image
+       sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/screenshot/mekha53-2.jpg"
+       xlink:href="screenshot/mekha53-2.jpg"
+       y="163.00372"
+       x="13.068878"
        id="image36270"
-       x="-188.93112"
-       y="179.49344" />
+       height="85.38916"
+       width="151.87706" />
   </g>
   <path
      sodipodi:type="arc"
@@ -78221,7 +78259,7 @@
      id="g4878"
      transform="translate(1024.2228,-617.85169)">
     <path
-       d="m 861.83889,1264.0419 a 107.85586,107.85586 0 1 1 -215.71172,0 107.85586,107.85586 0 1 1 215.71172,0 z"
+       d="m 861.83889,1264.0419 c 0,59.5671 -48.28871,107.8558 -107.85586,107.8558 -59.56714,0 -107.85586,-48.2887 -107.85586,-107.8558 0,-59.5672 48.28872,-107.8559 107.85586,-107.8559 59.56715,0 107.85586,48.2887 107.85586,107.8559 z"
        sodipodi:ry="107.85586"
        sodipodi:rx="107.85586"
        sodipodi:cy="1264.0419"
@@ -78231,7 +78269,7 @@
        sodipodi:type="arc"
        transform="translate(-399.8645,-635.07275)" />
     <path
-       d="m 861.83889,1264.0419 a 107.85586,107.85586 0 1 1 -215.71172,0 107.85586,107.85586 0 1 1 215.71172,0 z"
+       d="m 861.83889,1264.0419 c 0,59.5671 -48.28871,107.8558 -107.85586,107.8558 -59.56714,0 -107.85586,-48.2887 -107.85586,-107.8558 0,-59.5672 48.28872,-107.8559 107.85586,-107.8559 59.56715,0 107.85586,48.2887 107.85586,107.8559 z"
        sodipodi:ry="107.85586"
        sodipodi:rx="107.85586"
        sodipodi:cy="1264.0419"
@@ -78241,7 +78279,7 @@
        sodipodi:type="arc"
        transform="matrix(0.85296979,0,0,0.91729991,-304.86429,-530.53636)" />
     <path
-       d="m 861.83889,1264.0419 a 107.85586,107.85586 0 1 1 -215.71172,0 107.85586,107.85586 0 1 1 215.71172,0 z"
+       d="m 861.83889,1264.0419 c 0,59.5671 -48.28871,107.8558 -107.85586,107.8558 -59.56714,0 -107.85586,-48.2887 -107.85586,-107.8558 0,-59.5672 48.28872,-107.8559 107.85586,-107.8559 59.56715,0 107.85586,48.2887 107.85586,107.8559 z"
        sodipodi:ry="107.85586"
        sodipodi:rx="107.85586"
        sodipodi:cy="1264.0419"
@@ -78251,7 +78289,7 @@
        sodipodi:type="arc"
        transform="matrix(0.6775701,0,0,0.81661489,-191.53378,-403.26631)" />
     <path
-       d="m 861.83889,1264.0419 a 107.85586,107.85586 0 1 1 -215.71172,0 107.85586,107.85586 0 1 1 215.71172,0 z"
+       d="m 861.83889,1264.0419 c 0,59.5671 -48.28871,107.8558 -107.85586,107.8558 -59.56714,0 -107.85586,-48.2887 -107.85586,-107.8558 0,-59.5672 48.28872,-107.8559 107.85586,-107.8559 59.56715,0 107.85586,48.2887 107.85586,107.8559 z"
        sodipodi:ry="107.85586"
        sodipodi:rx="107.85586"
        sodipodi:cy="1264.0419"
@@ -78261,7 +78299,7 @@
        sodipodi:type="arc"
        transform="matrix(0.53037384,0,0,0.68989879,-96.42628,-243.09185)" />
     <path
-       d="m 861.83889,1264.0419 a 107.85586,107.85586 0 1 1 -215.71172,0 107.85586,107.85586 0 1 1 215.71172,0 z"
+       d="m 861.83889,1264.0419 c 0,59.5671 -48.28871,107.8558 -107.85586,107.8558 -59.56714,0 -107.85586,-48.2887 -107.85586,-107.8558 0,-59.5672 48.28872,-107.8559 107.85586,-107.8559 59.56715,0 107.85586,48.2887 107.85586,107.8559 z"
        sodipodi:ry="107.85586"
        sodipodi:rx="107.85586"
        sodipodi:cy="1264.0419"
@@ -78271,7 +78309,7 @@
        sodipodi:type="arc"
        transform="matrix(0.39719627,0,0,0.57136993,-10.3766,-93.2664)" />
     <path
-       d="m 861.83889,1264.0419 a 107.85586,107.85586 0 1 1 -215.71172,0 107.85586,107.85586 0 1 1 215.71172,0 z"
+       d="m 861.83889,1264.0419 c 0,59.5671 -48.28871,107.8558 -107.85586,107.8558 -59.56714,0 -107.85586,-48.2887 -107.85586,-107.8558 0,-59.5672 48.28872,-107.8559 107.85586,-107.8559 59.56715,0 107.85586,48.2887 107.85586,107.8559 z"
        sodipodi:ry="107.85586"
        sodipodi:rx="107.85586"
        sodipodi:cy="1264.0419"
