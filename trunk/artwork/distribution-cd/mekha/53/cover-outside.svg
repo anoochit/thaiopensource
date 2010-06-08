@@ -38,12 +38,12 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="270.09656"
-     inkscape:cy="190.30272"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="466.79728"
+     inkscape:cy="229.94307"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g14481"
      units="cm"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -76628,7 +76628,7 @@
              y="-2201.5203"
              style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
            style="font-size:10px;fill:#ffffff;fill-opacity:1"
-           id="flowPara14842">เกมทั้งหมดผ่านการจัดระดับแล้วว่า มีความปลอดภัย เล่นได้ทุกเพศ ทุกวัย ไม่เว้นแม้แต่เกมแอคชัน ที่มีการปรับแต่งให้ลดความรุนแรงของกราฟิกลงจนถึงระดับที่เด็กสามารถเล่นได้ อีกทั้งยังมีประโยชน์ต่อการเรียนรู้อีกด้วย</flowPara></flowRoot>    </g>
+           id="flowPara14842">เกมทั้งหมดผ่านการจัดระดับแล้วว่า มีความปลอดภัย เล่นได้ทุกเพศ ทุกวัย ไม่เว้นแม้แต่เกมแอคชัน ที่มีการปรับแต่งให้ลดความรุนแรงของกราฟิกลงจนถึงระดับที่เด็กสามารถเล่นได้ นอกจากจะได้รับความสนุกแล้วยังมีประโยชน์ต่อการเรียนรู้อีกด้วย</flowPara></flowRoot>    </g>
     <g
        id="g14488">
       <rect
@@ -77535,7 +77535,7 @@
        y="79.223129"
        x="757.18433"
        id="tspan4094-8"
-       sodipodi:role="line">53.04</tspan></text>
+       sodipodi:role="line">53.06</tspan></text>
   <g
      transform="matrix(0.643578,0,0,0.643578,-3726.4581,-2180.6297)"
      id="g4616-8"
@@ -78223,27 +78223,27 @@
     <image
        sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/screenshot/mekha53-1.jpg"
        xlink:href="screenshot/mekha53-1.jpg"
-       y="42.588196"
-       x="13.068878"
-       id="image36228"
+       width="151.87706"
        height="85.38916"
-       width="151.87706" />
+       id="image36228"
+       x="13.068878"
+       y="42.588196" />
     <image
        sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/screenshot/mekha53-3.jpg"
        xlink:href="screenshot/mekha53-3.jpg"
-       y="283.41925"
-       x="13.068878"
-       id="image36256"
+       width="151.87706"
        height="85.38916"
-       width="151.87706" />
+       id="image36256"
+       x="13.068878"
+       y="283.41925" />
     <image
        sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/screenshot/mekha53-2.jpg"
        xlink:href="screenshot/mekha53-2.jpg"
-       y="163.00372"
-       x="13.068878"
-       id="image36270"
+       width="151.87706"
        height="85.38916"
-       width="151.87706" />
+       id="image36270"
+       x="13.068878"
+       y="163.00372" />
   </g>
   <path
      sodipodi:type="arc"
