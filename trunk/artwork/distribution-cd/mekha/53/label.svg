@@ -38,9 +38,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.48176168"
-     inkscape:cx="362.32063"
-     inkscape:cy="33.118712"
+     inkscape:zoom="0.6813139"
+     inkscape:cx="223.62654"
+     inkscape:cy="237.95179"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:current-layer="svg2"
@@ -188,7 +188,7 @@
           <dc:format>image/svg+xml</dc:format>
           <dc:type
              rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-          <dc:title />
+          <dc:title></dc:title>
           <dc:description>OpenOffice.org 2.0 applications icons recreated as vector graphics byChristopheCombelles with Inkscape 0.41, and cleaned up using gedit.</dc:description>
           <cc:license
              rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
@@ -93297,7 +93297,7 @@
          style="fill:#241c1c;fill-opacity:1" /></flowRegion><flowPara
        id="flowPara8170-2">อนุญาตให้คัดลอกได้ไม่จำกัด</flowPara></flowRoot>  <path
      sodipodi:type="arc"
-     style="opacity:0.93772894;fill:none;stroke:#000000;stroke-width:0.27624768;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     style="opacity:0.93772893999999996;fill:none;stroke:none;stroke-width:0.27624768000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
      id="path4251-2"
      sodipodi:cx="2023"
      sodipodi:cy="87.913368"
@@ -93305,7 +93305,7 @@
      sodipodi:ry="117"
      d="m 2140,87.913368 a 117,117 0 1 1 -234,0 117,117 0 1 1 234,0 z"
      transform="matrix(1.80997,0,0,1.80997,-4046.8927,64.576792)"
-     inkscape:export-filename="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/label-53.05-rc1.png"
+     inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/label1-53.06-rc1.svg.png"
      inkscape:export-xdpi="300"
      inkscape:export-ydpi="300" />
   <path
@@ -93443,7 +93443,7 @@
          style="fill:#241c1c;fill-opacity:1" /></flowRegion><flowPara
        id="flowPara8170-2-1">อนุญาตให้คัดลอกได้ไม่จำกัด</flowPara></flowRoot>  <path
      sodipodi:type="arc"
-     style="opacity:0.93772894;fill:none;stroke:#000000;stroke-width:0.27624768;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+     style="opacity:0.93772893999999996;fill:none;stroke:#000000;stroke-width:0.27624768000000000;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
      id="path4251-2-9"
      sodipodi:cx="2023"
      sodipodi:cy="87.913368"
@@ -93451,7 +93451,7 @@
      sodipodi:ry="117"
      d="m 2140,87.913368 a 117,117 0 1 1 -234,0 117,117 0 1 1 234,0 z"
      transform="matrix(1.80997,0,0,1.80997,-3006.8927,64.576792)"
-     inkscape:export-filename="/home/gumara/chantra-artwork-svn/cover-cd/chantra53.04/label-53.05-rc1.png"
+     inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/label2-53.06-rc1.svg.png"
      inkscape:export-xdpi="300"
      inkscape:export-ydpi="300" />
   <path
