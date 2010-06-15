@@ -20,7 +20,7 @@
    inkscape:version="0.47 r22583"
    sodipodi:docname="cover-outside.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/cover-outside-rc2.png"
+   inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/cover-outside-rc3.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -38,12 +38,12 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="419.14133"
-     inkscape:cy="295.85757"
+     inkscape:zoom="1"
+     inkscape:cx="443.50136"
+     inkscape:cy="235.31009"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:current-layer="g14481"
+     inkscape:current-layer="g14500"
      units="cm"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -76603,7 +76603,7 @@
              y="-2201.5203"
              style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
            style="font-size:10px;fill:#ffffff;fill-opacity:1"
-           id="flowPara14535">เกมในชุด Mekha ทุกตัวได้รับการคัดเลือกมาเป็น อย่างดี ถึง 12 เกม ซึ่งล้วนแล้วแต่เป็นเกมที่ได้รับรางวัลในระดับโลก มาแล้วทั้งสิ้น หมดกังวลกับปัญหาเกมไร้คุณภาพ อีกทั้งเกมส่วนใหญ่ยังรองรับการเล่นแบบออนไลน์กับเพื่อน ๆ อีกด้วย</flowPara></flowRoot>    </g>
+           id="flowPara14535">เกมส์ในชุด Mekha ทุกตัวได้รับการคัดเลือกมาเป็น อย่างดี ถึง 12 เกมส์ ซึ่งล้วนแล้วแต่เป็นเกมส์ที่ได้รับรางวัลในระดับโลก มาแล้วทั้งสิ้น หมดกังวลกับปัญหาเกมส์ไร้คุณภาพ อีกทั้งเกมส์ส่วนใหญ่ยังรองรับการเล่นแบบออนไลน์กับเพื่อน ๆ อีกด้วย</flowPara></flowRoot>    </g>
     <g
        transform="translate(0,7.9999924)"
        id="g14481">
@@ -76628,7 +76628,7 @@
              y="-2201.5203"
              style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
            style="font-size:10px;fill:#ffffff;fill-opacity:1"
-           id="flowPara14842">เกมทั้งหมดผ่านการจัดระดับแล้วว่า มีความปลอดภัย เล่นได้ทุกเพศ ทุกวัย ไม่เว้นแม้แต่เกมแอคชัน ที่มีการปรับแต่งให้ลดความรุนแรงของกราฟิกลงจนถึงระดับที่เด็กสามารถเล่นได้ นอกจากจะได้รับความสนุกแล้วยังมีประโยชน์ต่อการเรียนรู้อีกด้วย</flowPara></flowRoot>    </g>
+           id="flowPara14842">เกมส์ทั้งหมดผ่านการจัดระดับแล้วว่า มีความปลอดภัย เล่นได้ทุกเพศ ทุกวัย ไม่เว้นแม้แต่เกมส์แอคชัน ที่มีการปรับแต่งให้ลดความรุนแรงของกราฟิกลงจนถึงระดับที่เด็กสามารถเล่นได้ นอกจากจะได้รับความสนุกแล้วยังมีประโยชน์ต่อการเรียนรู้อีกด้วย</flowPara></flowRoot>    </g>
     <g
        id="g14488">
       <rect
@@ -76652,7 +76652,7 @@
              y="312.29556"
              style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
            style="font-size:10px;fill:#ffffff;fill-opacity:1"
-           id="flowPara14846">นอกจาก Mekha จะมีเกมดี ๆ มากมายให้เล่นแล้ว ในแผ่นที่สองยังมีเครื่องมือสำหรับเรียนรู้การพัฒนาเกมอย่าง ง่ายดายครบชุด และจะทำให้ฝันของทุกคนที่อยากมีเกมเป็นของตัวเอง กลายเป็นความจริง แล้วคุณจะรู้ว่า การสร้างเกม ง่ายนิดเดียว</flowPara></flowRoot>    </g>
+           id="flowPara14846">นอกจาก Mekha จะมีเกมส์ดี ๆ มากมายให้เล่นแล้ว ในแผ่นที่สองยังมีเครื่องมือสำหรับเรียนรู้การพัฒนาเกมส์อย่าง ง่ายดายครบชุด และจะทำให้ฝันของทุกคนที่อยากมีเกมส์เป็นของตัวเอง กลายเป็นความจริง แล้วคุณจะรู้ว่า การสร้างเกมส์ ง่ายนิดเดียว</flowPara></flowRoot>    </g>
   </g>
   <g
      style="display:none"
@@ -78223,27 +78223,27 @@
     <image
        sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/screenshot/mekha53-1.jpg"
        xlink:href="screenshot/mekha53-1.jpg"
-       width="151.87706"
-       height="85.38916"
-       id="image36228"
+       y="42.588196"
        x="13.068878"
-       y="42.588196" />
+       id="image36228"
+       height="85.38916"
+       width="151.87706" />
     <image
        sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/screenshot/mekha53-3.jpg"
        xlink:href="screenshot/mekha53-3.jpg"
-       width="151.87706"
-       height="85.38916"
-       id="image36256"
+       y="283.41925"
        x="13.068878"
-       y="283.41925" />
+       id="image36256"
+       height="85.38916"
+       width="151.87706" />
     <image
        sodipodi:absref="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/screenshot/mekha53-2.jpg"
        xlink:href="screenshot/mekha53-2.jpg"
-       width="151.87706"
-       height="85.38916"
-       id="image36270"
+       y="163.00372"
        x="13.068878"
-       y="163.00372" />
+       id="image36270"
+       height="85.38916"
+       width="151.87706" />
   </g>
   <path
      sodipodi:type="arc"
