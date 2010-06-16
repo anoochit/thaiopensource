@@ -20,7 +20,7 @@
    inkscape:version="0.47 r22583"
    sodipodi:docname="cover-inside.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/cover-inside-rc4-with-diecut.png"
+   inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/cover-inside-rc7-with-diecut.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -38,9 +38,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.6806366"
-     inkscape:cx="495.73621"
-     inkscape:cy="237.28815"
+     inkscape:zoom="0.68063661"
+     inkscape:cx="771.73176"
+     inkscape:cy="257.31312"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:current-layer="svg2"
@@ -84164,7 +84164,7 @@
        fx="71.991425"
        fy="174.04741"
        r="1.836516"
-       gradientTransform="matrix(0.35000001,0,0,38.00002,75.60069,-6461.7576)"
+       gradientTransform="matrix(0.35000001,0,0,38.00002,57.60069,-6461.7576)"
        gradientUnits="userSpaceOnUse" />
     <inkscape:perspective
        id="perspective16920-9"
@@ -84230,7 +84230,7 @@
        fx="71.991425"
        cy="174.04741"
        cx="71.991425"
-       gradientTransform="matrix(0.35000001,0,0,38.00002,235.60069,-6461.7576)"
+       gradientTransform="matrix(0.35000001,0,0,38.00002,217.60069,-6461.7576)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient16967"
        xlink:href="#linearGradient16870-6"
@@ -84248,7 +84248,7 @@
        fx="71.991425"
        cy="174.04741"
        cx="71.991425"
-       gradientTransform="matrix(0.35000001,0,0,21.748438,235.60069,-3442.1884)"
+       gradientTransform="matrix(0.35000001,0,0,21.748438,217.60069,-3442.1884)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient16967-0"
        xlink:href="#linearGradient16870-6-5"
@@ -84292,7 +84292,7 @@
        fx="71.991425"
        cy="174.04741"
        cx="71.991425"
-       gradientTransform="matrix(0.35000001,0,0,21.748438,75.60069,-3442.1884)"
+       gradientTransform="matrix(0.35000001,0,0,21.748438,57.60069,-3442.1884)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient17010"
        xlink:href="#linearGradient16870-9"
@@ -85347,7 +85347,7 @@
              x="550"
              y="362.91336"
              style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
-           id="flowPara36197-8-3">Open Source Software</flowPara></flowRoot>      <flowRoot
+           id="flowPara36197-8-3">ThaiOpenGames Project</flowPara></flowRoot>      <flowRoot
          xml:space="preserve"
          id="flowRoot36199-7-9"
          style="font-size:12px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -85360,7 +85360,7 @@
              y="362.91336"
              style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
            id="flowPara36205-4-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">ติดตามรายละเอียดโครงการโอเพนซอร์สของ SIPA ได้จาก thaiopensource.org</flowPara></flowRoot>    </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda">ติดตามรายละเอียดโครงการ ThaiOpenGames ได้จาก thaiopengames.org</flowPara></flowRoot>    </g>
     <g
        id="g16521"
        transform="translate(0,-40)">
@@ -86560,7 +86560,9 @@
          width="253.45898"
          id="rect36169-4-1-0-5" /></flowRegion><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-       id="flowPara35082">Mekha เป็นแผ่นซีดีรวมซอฟต์แวร์เกมส์ที่น่าเล่นและซอฟต์แวร์พัฒนาเกมส์สำหรับวินโดวส์ โดย SIPA เห็นว่าปัจจุบันอุตสาหกรรมเกมส์มีแนวโน้มเติบโตอย่างรวดเร็ว หากได้รับการพัฒนาทรัพยากรมนุษย์แล้วจะสามารถนำรายได้เข้าสู่ประเทศชาติได้เป็นเงินจำนวนมหาศาล ซึ่งทำให้มีผู้สนใจในการเล่นเกมส์โอเพนซอร์ส และใช้โอเพนซอร์สสร้างสรรเกมส์เป็นจำนวนมาก แต่การค้นหาซอฟต์แวร์ที่ตนเองต้องการนั้นทำได้ยาก ทาง SIPA จึงคัดเลือกเกมส์และเครื่องมือพัฒนาเกมส์แบบโอเพนซอร์สที่มีคุณภาพรวบรวมอยู่ในซีดีเพื่อให้ง่ายต่อการใช้งาน เกมส์และเครื่องมือทั้งหมดในซีดี 2 แผ่น เป็นซอฟต์แวร์สำหรับระบบปฏิบัติการวินโดวส์ ซอฟต์แวร์ในซีดีส่วนมากจะมีเวอร์ชั่นที่ใช้บนลินุกซ์ได้ด้วยเพื่อทำให้ง่ายขึ้น เมื่อต้องการเปลี่ยนไปใช้ลินุกซ์ในอนาคต </flowPara></flowRoot>  <text
+       id="flowPara35082">Mekha เป็นแผ่นซีดีรวมซอฟต์แวร์เกมส์ที่น่าเล่นและซอฟต์แวร์พัฒนาเกมส์สำหรับวินโดวส์ โดย SIPA เห็นว่าปัจจุบันอุตสาหกรรมเกมส์มีแนวโน้มเติบโตอย่างรวดเร็ว หากนักพัฒนาซอฟต์แวร์สร้างเกมส์ออกจำหน่ายก็จะสามารถสร้างรายได้เป็นเงินจำนวนมหาศาล ซึ่งปัจจุบันเราสามารถสร้างเกมส์ออกจำหน่ายได้ง่ายขึ้นด้วยการพัฒนาต่อยอดจากเกมส์ที่เป็นโอเพนซอร์สซอฟต์แวร์ แต่การค้นหาซอฟต์แวร์เกมส์ที่จะนำมาพัฒนาต่อยอดนั้นทำได้ยาก ทาง SIPA จึงคัดเลือกเกมส์และเครื่องมือพัฒนาเกมส์แบบโอเพนซอร์สที่มีคุณภาพมารวบรวมอยู่ในซีดีเพื่อให้ง่ายต่อการนำไปประยุกต์ใช้งาน เกมส์และเครื่องมือทั้งหมดรวมอยู่ในซีดี 2 แผ่น เป็นซอฟต์แวร์สำหรับระบบปฏิบัติการวินโดวส์ ซอฟต์แวร์ในซีดีเกือบทั้งหมด</flowPara><flowPara
+       style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
+       id="flowPara15477">จะมีเวอร์ชั่นที่ใช้บนลินุกซ์ได้ เพื่อให้ง่ายเมื่อต้องการเล่นและพัฒนาเกมส์บนลินุกซ์ในอนาคต </flowPara></flowRoot>  <text
      xml:space="preserve"
      style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
      x="502.46103"
@@ -86677,22 +86679,22 @@
      id="rect9505-3-0-35-2-6-2-9-0"
      width="278.89529"
      height="206.211"
-     x="85.350632"
+     x="67.350632"
      y="13.207176"
      ry="6.6421723" />
   <text
      xml:space="preserve"
      style="font-size:16.25507164px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-     x="103.67952"
+     x="85.67952"
      y="31.566383"
      id="text9693-5-7-6-5"><tspan
        sodipodi:role="line"
        id="tspan9695-2-1-80-8"
-       x="103.67952"
+       x="85.67952"
        y="31.566383"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">เกมส์ในชุด Mekha</tspan></text>
   <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,139.76262,-234.50561)"
+     transform="matrix(1.1750088,0,0,1.1750088,121.76262,-234.50561)"
      style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
      id="flowRoot36165-7"
      xml:space="preserve"><flowRegion
@@ -86731,7 +86733,7 @@
        id="flowPara15376">    Glest </flowPara><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
        id="flowPara15378">    FreeCIV</flowPara></flowRoot>  <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,299.76262,-234.50561)"
+     transform="matrix(1.1750088,0,0,1.1750088,281.76262,-234.50561)"
      style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
      id="flowRoot36165-7-2"
      xml:space="preserve"><flowRegion
@@ -86770,7 +86772,7 @@
        id="flowPara15376-0">    Warcraft </flowPara><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
        id="flowPara15378-8">    Civilization</flowPara></flowRoot>  <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,139.76262,-260.50561)"
+     transform="matrix(1.1750088,0,0,1.1750088,121.76262,-260.50561)"
      style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
      id="flowRoot36165-7-08"
      xml:space="preserve"><flowRegion
@@ -86782,27 +86784,27 @@
          width="196.43507"
          id="rect36169-4-99" /></flowRegion><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-       id="flowPara15378-9">รายการซอฟต์แวร์เกมส์ที่อยู่ในแผ่นซีดีชุด Mekha เปรียบเทียบกับซอฟต์แวร์เกมส์เชิงพานิช</flowPara></flowRoot>  <rect
+       id="flowPara15378-9">รายการซอฟต์แวร์เกมส์ที่อยู่ในแผ่นซีดีชุด Mekha เปรียบเทียบกับซอฟต์แวร์เกมส์เชิงพาณิชย์</flowPara></flowRoot>  <rect
      style="color:#000000;fill:#000000;fill-opacity:0.58823529;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect9505-3-0-35-2-6-2-9-0-8"
      width="278.89529"
      height="157.72696"
-     x="85.350632"
+     x="67.350632"
      y="229.20718"
      ry="6.6421723" />
   <text
      xml:space="preserve"
      style="font-size:16.25507164px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-     x="103.67952"
+     x="85.67952"
      y="247.56641"
      id="text9693-5-7-6-5-3"><tspan
        sodipodi:role="line"
        id="tspan9695-2-1-80-8-7"
-       x="103.67952"
+       x="85.67952"
        y="247.56641"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">ซอฟต์แวร์พัฒนาเกมส์ในชุดซีดี Mekha</tspan></text>
   <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,139.76262,-44.50561)"
+     transform="matrix(1.1750088,0,0,1.1750088,121.76262,-44.50561)"
      style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
      id="flowRoot36165-7-08-9"
      xml:space="preserve"><flowRegion
@@ -86814,8 +86816,8 @@
          width="199.52962"
          id="rect36169-4-99-7" /></flowRegion><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-       id="flowPara15378-9-8">รายการซอฟต์แวร์สำหรับพัฒนาเกมส์ในซีดีชุด Game development tools เปรียบเทียบกับซอฟต์แวร์เชิงพานิชที่ใช้ในการพัฒนาเกมส์</flowPara></flowRoot>  <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,139.76262,-18.505608)"
+       id="flowPara15378-9-8">รายการซอฟต์แวร์สำหรับพัฒนาเกมส์ในซีดีชุด Game development tools เปรียบเทียบกับซอฟต์แวร์เชิงพาณิชย์ที่ใช้ในการพัฒนาเกมส์</flowPara></flowRoot>  <flowRoot
+     transform="matrix(1.1750088,0,0,1.1750088,121.76262,-18.505608)"
      style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
      id="flowRoot36165-7-0"
      xml:space="preserve"><flowRegion
@@ -86831,7 +86833,7 @@
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
        id="flowPara15920" /><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
-       id="flowPara15922">    SIPA 3D Game Creation System</flowPara><flowPara
+       id="flowPara15922">    3D Game Creation System</flowPara><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
        id="flowPara15630">    K3D </flowPara><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
@@ -86844,7 +86846,7 @@
        id="flowPara15638">    Audacity</flowPara><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
        id="flowPara15640">    MuseScore</flowPara></flowRoot>  <flowRoot
-     transform="matrix(1.1750088,0,0,1.1750088,299.76262,-18.505608)"
+     transform="matrix(1.1750088,0,0,1.1750088,281.76262,-18.505608)"
      style="font-size:6.80845976px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
      id="flowRoot36165-7-2-7"
      xml:space="preserve"><flowRegion
@@ -86873,35 +86875,35 @@
        id="flowPara15727">    Soundforge </flowPara><flowPara
        style="font-size:6.80845976px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Garuda;-inkscape-font-specification:Garuda"
        id="flowPara15729">    Cubase</flowPara></flowRoot>  <rect
-     style="opacity:0.80000000000000004;fill:url(#radialGradient16910);fill-opacity:1;stroke:none;filter:url(#filter17059)"
+     style="opacity:0.8;fill:url(#radialGradient16910);fill-opacity:1;stroke:none;filter:url(#filter17059)"
      id="rect16902"
      width="1.2855612"
      height="116.80241"
-     x="100.15491"
+     x="82.154907"
      y="93.64621"
      ry="1.836516" />
   <rect
-     style="opacity:0.80000000000000004;fill:url(#radialGradient16967);fill-opacity:1;stroke:none;filter:url(#filter17063)"
+     style="opacity:0.8;fill:url(#radialGradient16967);fill-opacity:1;stroke:none;filter:url(#filter17063)"
      id="rect16902-8"
      width="1.2855612"
      height="116.80241"
-     x="260.15491"
+     x="242.15491"
      y="93.64621"
      ry="1.836516" />
   <rect
-     style="opacity:0.80000000000000004;fill:url(#radialGradient17010);fill-opacity:1;stroke:none;filter:url(#filter17051)"
+     style="opacity:0.8;fill:url(#radialGradient17010);fill-opacity:1;stroke:none;filter:url(#filter17051)"
      id="rect16902-0"
      width="1.2855612"
      height="66.849174"
-     x="100.15491"
+     x="82.154907"
      y="309.64621"
      ry="1.0510877" />
   <rect
-     style="opacity:0.80000000000000004;fill:url(#radialGradient16967-0);fill-opacity:1;stroke:none;filter:url(#filter17055)"
+     style="opacity:0.8;fill:url(#radialGradient16967-0);fill-opacity:1;stroke:none;filter:url(#filter17055)"
      id="rect16902-8-6"
      width="1.2855612"
      height="66.849174"
-     x="260.15491"
+     x="242.15491"
      y="309.64621"
      ry="1.0510877" />
   <path
