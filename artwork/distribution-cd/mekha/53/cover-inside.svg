@@ -20,7 +20,7 @@
    inkscape:version="0.47 r22583"
    sodipodi:docname="cover-inside.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/cover-inside-rc4.png"
+   inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/mekha/53/cover-inside-rc4-with-diecut.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -38,9 +38,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.96256551"
-     inkscape:cx="608.88671"
-     inkscape:cy="237.57504"
+     inkscape:zoom="0.6806366"
+     inkscape:cx="495.73621"
+     inkscape:cy="237.28815"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:current-layer="svg2"
@@ -86904,4 +86904,19 @@
      x="260.15491"
      y="309.64621"
      ry="1.0510877" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0"
+     d="m 442.91016,-47.568913 0,600.478613"
+     id="path15475"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:type="arc"
+     style="opacity:0.8;fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:12, 12;stroke-dashoffset:0"
+     id="path16417"
+     sodipodi:cx="469.41348"
+     sodipodi:cy="196.82022"
+     sodipodi:rx="49.218628"
+     sodipodi:ry="49.218628"
+     d="m 518.63211,196.82022 a 49.218628,49.218628 0 1 1 -98.43726,0 49.218628,49.218628 0 1 1 98.43726,0 z"
+     transform="translate(-26.503323,18.249268)" />
 </svg>
