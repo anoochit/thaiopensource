@@ -20,7 +20,7 @@
    inkscape:version="0.47 r22583"
    sodipodi:docname="cover-outside.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/thai-os/thai-os-10.04/cover-outside-rc6.png"
+   inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/thai-os/thai-os-10.04/cover-outside-rc7.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -38,9 +38,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.57875765"
-     inkscape:cx="506.20002"
-     inkscape:cy="118.52852"
+     inkscape:zoom="1.1575153"
+     inkscape:cx="450.79513"
+     inkscape:cy="210.07028"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:current-layer="svg2"
@@ -54356,12 +54356,12 @@
        id="tspan68832-3-0"
        x="500.13379"
        y="309.82162"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000182;fill-opacity:1;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">ใช้งานภาษาไทยได้ทันที พร้อมฟอนต์ไทยมาตรฐาน และเมนูภาษาไทย</tspan><tspan
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000182;fill-opacity:1;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold">ใช้งานภาษาไทยได้ทันที พร้อมฟอนต์ไทยมาตรฐาน จากโครงการฟอนต์แห่งชาติ</tspan><tspan
        sodipodi:role="line"
        x="500.13379"
        y="324.82162"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000182;fill-opacity:1;font-family:Sawasdee;-inkscape-font-specification:Sawasdee Bold"
-       id="tspan11211">มีหนังสือคู่มือ และวิดีโอสอนการใช้งานพร้อมในชุด</tspan></text>
+       id="tspan11211">รวมถึงเมนูภาษาไทย หนังสือคู่มือ และวิดีโอสอนการใช้งานในชุด</tspan></text>
   <flowRoot
      xml:space="preserve"
      id="flowRoot25238-0-0-6"
