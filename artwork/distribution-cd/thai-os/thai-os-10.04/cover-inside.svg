@@ -20,7 +20,7 @@
    inkscape:version="0.47 r22583"
    sodipodi:docname="cover-inside.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/thai-os/thai-os-10.04/cover-inside-rc1.png"
+   inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/thai-os/thai-os-10.04/cover-outside-rc8.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -38,9 +38,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.14468942"
-     inkscape:cx="-1504.2491"
-     inkscape:cy="511.26784"
+     inkscape:zoom="0.57875768"
+     inkscape:cx="532.81576"
+     inkscape:cy="158.11624"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:current-layer="svg2"
@@ -51961,6 +51961,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective10229"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <path
      style="color:#000000;fill:#d70000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -54012,19 +54019,12 @@
     </g>
   </g>
   <image
-     y="22.589239"
+     y="22.589203"
      x="698.56561"
      id="image10309"
      height="126.36032"
      width="168.74368"
      xlink:href="file:///home/gumara/thaiopensource-svn/artwork/distribution-cd/thai-os/thai-os-10.04/screenshot/Screenshot00-1.png" />
-  <image
-     y="165.64507"
-     x="656.70874"
-     id="image10323"
-     height="118.4628"
-     width="210.60054"
-     xlink:href="file:///home/gumara/thaiopensource-svn/artwork/distribution-cd/thai-os/thai-os-10.04/screenshot/Screenshot12.png" />
   <image
      y="300.80338"
      x="656.70874"
@@ -54079,7 +54079,7 @@
      xml:space="preserve"
      id="flowRoot26381-6-8"
      style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-     transform="translate(771.97488,111.79298)"><flowRegion
+     transform="translate(817.97488,111.79298)"><flowRegion
        id="flowRegion26383-9-4"><rect
          id="rect26385-7-9"
          width="190.24234"
@@ -54101,4 +54101,11 @@
          y="83.913361"
          style="fill:#000182;fill-opacity:1" /></flowRegion><flowPara
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000182;fill-opacity:1;font-family:Sawasdee;-inkscape-font-specification:Sawasdee"
-       id="flowPara10362-0-8-4">ไม่ใช่เพียงระบบปฏิบัติการสำหรับการฝึกหัด หรือทดลองใช้ แต่ Thai OS เป็นระบบปฏิบัติการที่ใช้งานได้จริง พร้อมโปรแกรมที่หลากหลายในชุด ที่จะทำให้คุณสามารถทำงานต่างๆ ที่เคยทำอยู่ในชีวิตประจำวันได้จริง</flowPara></flowRoot></svg>
+       id="flowPara10362-0-8-4">ไม่ใช่เพียงระบบปฏิบัติการสำหรับการฝึกหัด หรือทดลองใช้ แต่ Thai OS เป็นระบบปฏิบัติการที่ใช้งานได้จริง พร้อมโปรแกรมที่หลากหลายในชุด ที่จะทำให้คุณสามารถทำงานต่างๆ ที่เคยทำอยู่ในชีวิตประจำวันได้จริง</flowPara></flowRoot>  <image
+     y="161.69646"
+     x="698.56531"
+     id="image10231"
+     height="126.36"
+     width="168.744"
+     xlink:href="file:///home/gumara/thaiopensource-svn/artwork/distribution-cd/thai-os/thai-os-10.04/screenshot/Screenshot00.png" />
+</svg>
