@@ -1,0 +1,104 @@
+body,
+	html {
+		margin:0;
+		padding:0;
+		color:#000;
+		font-family:  'SPLaweng', sans-serif;
+		font-size: 13;
+		background-image: url('images/bg.png');
+		background-repeat: repeat-x;
+
+	}
+	
+	@font-face {
+		font-family: 'SPLawengBold';
+		src: url('fonts/splaweng-bold-webfont.eot');
+		src: local('☺'), url('fonts/splaweng-bold-webfont.woff') format('woff'), url('fonts/splaweng-bold-webfont.ttf') format('truetype'), url('fonts/splaweng-bold-webfont.svg#webfont92z2i0Y4') format('svg');
+		font-weight: normal;
+		font-style: normal;
+	}
+
+	@font-face {
+		font-family: 'SPLawengRegular';
+		src: url('fonts/splaweng-webfont.eot');
+		src: local('☺'), url('fonts/splaweng-webfont.woff') format('woff'), url('fonts/splaweng-webfont.ttf') format('truetype'), url('fonts/splaweng-webfont.svg#webfontcAtw809h') format('svg');
+		font-weight: normal;
+		font-style: normal;
+	}
+
+
+	.SPLaweng {font-weight: normal; font-style: normal; line-height:normal; font-family: 'SPLawengRegular', sans-serif;}
+	.SPLaweng-Bold {font-weight: normal; font-style: normal; line-height:normal; font-family: 'SPLawengBold', sans-serif;}
+	
+	#round {
+		background-color: #fff;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border: 1px solid #bbb;
+		padding: 10px;	
+	}
+
+	img { border:0;}	
+	
+	#wrap {
+		width:960px;
+		margin:0 auto;
+	}
+	
+	
+	
+	#header {
+    	padding:20px 1px;
+	}
+	
+	h1,h2 {
+		font-weight: normal; font-style: normal; line-height:normal; font-family: 'SPLawengBold', sans-serif;	
+	    margin:0;
+	    color: #4d4d4d;
+    }
+    
+	#nav {
+		padding:5px 1px;
+		 height: 320px; 
+	}
+	
+	#nav ul {
+		margin:0;
+		padding:0;
+		list-style:none;
+	}
+	
+	#nav li {
+		display:inline;
+		margin:0;
+		padding:0;
+	}
+	
+	#main {
+		float:left;
+		width:474px;	
+		padding: 1px;
+	}
+
+	h2 {
+		margin:0 0 1em;
+	}
+	
+	#sidebar {
+		float:right;
+		width:474px;
+		padding: 1px;
+	}
+	
+	#footer {
+		clear:both;
+		padding:20px 2px;
+	}
+	
+	#footer p {
+		margin:0;
+    }
+    
+	* html #footer {
+		height:1px;
+	}
