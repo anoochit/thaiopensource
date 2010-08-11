@@ -1,0 +1,133 @@
+    body,
+	html {
+		margin:0;
+		padding:0;
+		color:#000;
+		font-family:  'THSarabunPSKRegular', sans-serif;
+		font-size: 20px;
+		background-image: url('images/bg.png');
+		background-repeat: repeat-x;
+
+	}
+
+    @font-face {
+    	font-family: 'THSarabunPSKRegular';
+    	src: local('☺'), url('fonts/thsarabun-webfont.ttf') format('truetype');
+    	font-weight: normal;
+    	font-style: normal;
+    }
+
+    @font-face {
+    	font-family: 'THSarabunPSKBold';
+    	src: local('☺'),url('fonts/thsarabun_bold-webfont.ttf') format('truetype');
+    	font-weight: normal;
+    	font-style: normal;
+    }
+	
+	#round {
+		background-color: #fff;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border: 1px solid #bbb;
+		padding: 10px 10px 10px 15px;	
+	}
+
+	img { border:0;}	
+
+    /* menu */
+    .nav-header {
+        text-align: right;            
+    }
+    .nav-header li
+    {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        float: left;
+        margin: -15px 10px 5px 10px;
+    } 
+    
+    .nav-header li a
+    {
+        font-size:22px;
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+    .nav-header li a:hover
+    {
+        color: yellow;
+    }
+	
+	#wrap {
+		width:960px;
+		margin:0 auto;
+	}
+	
+	#subheader {
+    	padding:0px;
+        text-align:right;
+        background-color:#000000;
+		-moz-border-radius-bottomleft: 5px;
+		-webkit-border-bottom-left-radius: 5px;
+		-moz-border-radius-bottomright: 5px;
+		-webkit-border-bottom-right-radius: 5px;
+		border: 1px solid #000;
+        color: #fff;
+	}	
+	
+	#header {
+    	padding:20px 1px;
+	}
+	
+	h1,h2 {
+		font-weight: normal; font-style: normal; line-height:normal; font-family: 'THSarabunPSKBold', sans-serif;	
+	    margin:0;
+	    color: #4d4d4d;
+    }
+    
+	#nav {
+		padding: 5px 1px;
+		 height: 320px; 
+	}
+	
+	#nav ul {
+		margin:0;
+		padding:0;
+		list-style:none;
+	}
+	
+	#nav li {
+		display:inline;
+		margin:0;
+		padding:0;
+	}
+	
+	#main {
+		float:left;
+		width:474px;	
+		padding: 1px;
+	}
+
+	h2 {
+		margin:0 0 1em;
+	}
+	
+	#sidebar {
+		float:right;
+		width:474px;
+		padding: 1px;
+	}
+	
+	#footer {
+		clear:both;
+		padding:20px 2px;
+	}
+	
+	#footer p {
+		margin:0;
+    }
+    
+	* html #footer {
+		height:1px;
+	}
