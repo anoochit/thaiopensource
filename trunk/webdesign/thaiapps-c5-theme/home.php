@@ -48,7 +48,11 @@
         </div>		
 	</div>
 	<div id="footer">
-		<p>สนับสนุนโดย สำนักงานส่งเสริมอุตสาหกรรมซอฟต์แวร์แห่งชาติ (องค์การมหาชน)</p>
+		<?
+           $a = new Area('Footer Content');
+            $a->display($c);
+        ?>
+
 	</div>
 </div> 
 </body>

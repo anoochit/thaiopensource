@@ -1,0 +1,48 @@
+body,	html {
+    margin:0;
+    padding:0;
+    color:#555;
+    font-family:  'SPRamasunRegular', sans-serif;
+    font-size: 14px;
+    background-image: url('images/bg.png');
+    background-repeat: repeat-x;
+}
+
+@font-face {
+	font-family: 'SPRamasunRegular';
+	src: local('☺'), url('fonts/SPRamasun.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+h1 {
+    font-size: 45px;
+    text-align:center;
+    font-weight: normal;
+}
+
+#round {
+    background-color: #fff;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border: 1px solid #bbb;
+    padding: 10px;	
+}
+	
+#roundcenter {
+	width:600px;
+	overflow:show;
+	background-color: #fff;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border: 1px solid #bbb;
+	padding: 10px;
+}
+
+#innerdiv {position:absolute;top:-(50% of your height);left:-(50% of your width);}
+
+#footer {
+	color:#555;
+	text-align:center;
+}
+
