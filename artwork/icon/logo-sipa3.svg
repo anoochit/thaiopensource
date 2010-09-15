@@ -2,8 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:ns2="http://ns.adobe.com/Extensibility/1.0/"
-   xmlns:ns1="http://ns.adobe.com/Flows/1.0/"
    xmlns:i="http://ns.adobe.com/AdobeIllustrator/10.0/"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -18,172 +16,34 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="เอกสารใหม่ 1">
+   sodipodi:docname="logo-sipa3.svg">
   <defs
-     id="defs4"><inkscape:perspective
-   sodipodi:type="inkscape:persp3d"
-   inkscape:vp_x="0 : 526.18109 : 1"
-   inkscape:vp_y="0 : 1000 : 0"
-   inkscape:vp_z="744.09448 : 526.18109 : 1"
-   inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-   id="perspective10" />
-<inkscape:perspective
-   id="perspective3094"
-   inkscape:persp3d-origin="135.35899 : 97.217 : 1"
-   inkscape:vp_z="270.71799 : 145.8255 : 1"
-   inkscape:vp_y="0 : 1000 : 0"
-   inkscape:vp_x="0 : 145.8255 : 1"
-   sodipodi:type="inkscape:persp3d" />
-
-			<foreignObject
-   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
-   x="0"
-   y="0"
-   width="1"
-   height="1"
-   id="foreignObject2824">
-				<i:pgfRef
-   xlink:href="#adobe_illustrator_pgf">
-				</i:pgfRef>
-
-			</foreignObject>
-
-			
-		
-				
-			
-					
-					
-					
-					
-					
-					
-					
-					
-				
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-						
-					
-						
-						
-						
-						
-						
-					
-						
-						
-						
-						
-						
-					
-						
-					</defs>
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3094"
+       inkscape:persp3d-origin="135.35899 : 97.217 : 1"
+       inkscape:vp_z="270.71799 : 145.8255 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 145.8255 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <foreignObject
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       id="foreignObject2824">
+      <i:pgfRef
+         xlink:href="#adobe_illustrator_pgf" />
+    </foreignObject>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -191,14 +51,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="404.20552"
-     inkscape:cy="462.82961"
+     inkscape:zoom="2.8"
+     inkscape:cx="434.17861"
+     inkscape:cy="542.38536"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="778"
-     inkscape:window-height="740"
+     inkscape:window-width="1455"
+     inkscape:window-height="793"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="0" />
@@ -210,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -218,56 +78,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <switch
-       id="switch2831"
-       i:objectType="pointText"
-       i:objectNS="http://ns.adobe.com/Flows/1.0/"
-       i:knockout="Off"
-       transform="translate(204.64073,129.36004)">
-							<foreignObject
-   id="foreignObject2833"
-   overflow="visible"
-   height="1"
-   width="1"
-   y="0"
-   x="0"
-   requiredExtensions="http://ns.adobe.com/Flows/1.0/">
-								<ns1:flowDef>
-									<ns1:region
-   textMatrix="1 0 0 1 0 0">
-										<ns1:path
-   d="M3.724,39.888" />
-
-									</ns1:region>
-
-									<ns1:flow
-   font-size="48"
-   font-family="'XJS-PitsamaiItalic'">
-										<ns1:p>
-  <ns1:span> </ns1:span>
-</ns1:p>
-
-									</ns1:flow>
-
-								</ns1:flowDef>
-
-								<ns2:targetRef
-   xlink:href="#XMLID_1_" />
-
-							</foreignObject>
-
-							<text
-   transform="translate(3.7236,39.8877)"
-   id="XMLID_1_">
-  <tspan
-     id="tspan2836"
-     font-size="48"
-     y="0"
-     x="0"
-     style="font-size:48px;font-family:XJS-PitsamaiItalic"></tspan>
-</text>
-
-						</switch>
     <path
        id="path2840"
        d="m 283.89173,482.85104 c -0.168,-0.735 -0.392,-1.457 -0.679,-2.165 -4.994,-12.271 -26.402,-14.921 -47.819,-5.919 -5.35,2.25 -10.193,5.012 -14.373,8.083 h 62.871 z"
@@ -289,11 +99,6 @@
        i:knockout="Off"
        style="fill:#b3b3b3" />
     <path
-       id="path2848"
-       d="m 258.08673,506.71204 h -0.624 c 0.095,0.005 0.317,0.014 0.624,0 z"
-       i:knockout="Off"
-       style="fill:#b3b3b3" />
-    <path
        id="path2852"
        d="m 369.02773,477.51404 c -0.03,-0.131 -0.071,-0.26 -0.121,-0.385 -0.888,-2.185 -4.699,-2.656 -8.51,-1.054 -0.952,0.401 -1.813,0.893 -2.557,1.439 h 11.188 z"
        i:knockout="Off"
@@ -311,11 +116,6 @@
     <path
        id="path2858"
        d="m 366.38173,482.12804 h -11.457 c 0.017,0.276 0.076,0.545 0.18,0.801 0.889,2.184 4.7,2.657 8.51,1.054 1.18,-0.497 2.222,-1.133 3.071,-1.842 -0.125,-0.002 -0.229,-0.008 -0.304,-0.013 z"
-       i:knockout="Off"
-       style="fill:#0c0d59" />
-    <path
-       id="path2860"
-       d="m 364.43473,481.75904 h -0.111 c 0.017,10e-4 0.057,0.003 0.111,0 z"
        i:knockout="Off"
        style="fill:#0c0d59" />
     <path
@@ -341,8 +141,5 @@
   </g>
   <style
      id="style2818"
-     type="text/css">
-	
-	
-	</style>
+     type="text/css" />
 </svg>
