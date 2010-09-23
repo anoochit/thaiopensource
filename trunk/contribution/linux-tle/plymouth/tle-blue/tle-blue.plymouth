@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=TLE Blue
+Description=A theme that features a blank background with a logo.
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/tle-blue
+ScriptFile=/lib/plymouth/themes/tle-blue/tle-blue.script
