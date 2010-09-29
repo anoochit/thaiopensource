@@ -13,7 +13,7 @@
    height="744.09448"
    id="svg6475"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.0 r9654"
    sodipodi:docname="inside.svg"
    inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/leaftlet/opensource-explain/inside.png"
    inkscape:export-xdpi="600.04474"
@@ -2131,6 +2131,216 @@
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
          transform="matrix(0.8,0,0,0.8,10,0)" />
     </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-58"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12488-90"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5731"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5733"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5735"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5737"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5739"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5741"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5743"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5745"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5747"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5749"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5751"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5753"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5755"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5757"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5759"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5761"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5763"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5765"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5767"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5769"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5771"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5773"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5775"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5777"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5779"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5781"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5783"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5785"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -2139,14 +2349,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66"
-     inkscape:cx="656.16858"
-     inkscape:cy="367.85046"
+     inkscape:zoom="0.93338095"
+     inkscape:cx="517.47812"
+     inkscape:cy="509.06561"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="812"
+     inkscape:window-height="810"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -2181,7 +2391,7 @@
      id="layer1"
      transform="translate(0,-308.2677)">
     <rect
-       style="color:#000000;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.00999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#cc7700;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.00999998999999985;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect5757"
        width="1139.8561"
        height="825.9007"
@@ -6536,7 +6746,7 @@
        style="color:#000000;fill:#00e7ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:11.98700047;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <g
        style="fill:#000000;fill-opacity:1"
-       transform="matrix(0.76543342,0,0,0.76543342,246.55,295.08897)"
+       transform="matrix(0.76543342,0,0,0.76543342,286.55,295.08897)"
        id="g18205-9">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -6560,7 +6770,7 @@
     </g>
     <g
        style="fill:#000000;fill-opacity:1"
-       transform="matrix(1.25,0,0,1.25,-31.584699,470.80557)"
+       transform="matrix(1.25,0,0,1.25,28.415301,470.80557)"
        id="g21872">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.53086686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -6584,7 +6794,7 @@
     </g>
     <g
        style="fill:#000000;fill-opacity:1"
-       transform="matrix(0.76543342,0,0,0.76543342,246.2767,295.08897)"
+       transform="matrix(0.76543342,0,0,0.76543342,286.2767,295.08897)"
        id="g18199-8">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -6642,7 +6852,7 @@
     </g>
     <g
        style="fill:#000000;fill-opacity:1"
-       transform="matrix(1.25,0,0,1.25,336.1653,378.28462)"
+       transform="matrix(1.25,0,0,1.25,376.1653,378.28462)"
        id="g21850">
       <g
          id="g18205-87-9"
@@ -6670,7 +6880,7 @@
     </g>
     <g
        style="fill:#000000;fill-opacity:1"
-       transform="matrix(1.25,0,0,1.25,8.4153007,376.80559)"
+       transform="matrix(1.25,0,0,1.25,68.415301,376.80559)"
        id="g21862">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.53086686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -6694,7 +6904,7 @@
     </g>
     <g
        style="fill:#000000;fill-opacity:1"
-       transform="matrix(0.76543342,0,0,0.76543342,262.0267,-138.91103)"
+       transform="matrix(0.76543342,0,0,0.76543342,302.0267,-138.91103)"
        id="g18199-5-3">
       <g
          id="g21856">
@@ -6750,7 +6960,7 @@
     </g>
     <g
        id="g22001"
-       transform="translate(-1765.4143,-316.50446)">
+       transform="translate(-1745.4143,-316.50446)">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.91358352;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect11643-4-4-46-7"
@@ -6769,11 +6979,11 @@
            id="tspan11501-6-20-6"
            x="2148.3413"
            y="683.51984"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK">ใช้ซอฟต์แวร์เชิงพาณิชย์</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK">ซื้อซอฟต์แวร์เชิงพาณิชย์</tspan></text>
     </g>
     <g
        id="g24053"
-       transform="translate(-1313.1974,2.4955257)">
+       transform="translate(-1293.1974,2.4955257)">
       <rect
          transform="matrix(0.92578713,0.37804521,-0.92578713,0.37804521,0,0)"
          style="color:#000000;fill:#feff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.40244603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -6798,10 +7008,11 @@
        id="g23774"
        transform="matrix(0.74458614,-0.13657078,0.13657078,0.74458614,-691.34489,436.87474)">
       <path
-         sodipodi:nodetypes="csc"
+         sodipodi:nodetypes="cc"
          id="path22006"
-         d="m 1982.1343,537.86224 c 0,0 71.2215,24.54789 108.158,5.79272 C 2129.2103,523.89369 2133,491.86218 2133,491.86218"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="m 2036.9538,541.30376 c 53.6886,12.18174 89.0287,16.80873 96.0462,-49.44158"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008"
@@ -6810,68 +7021,77 @@
     </g>
     <g
        id="g23774-5"
-       transform="matrix(-0.15301771,-0.74138093,0.74138093,-0.15301771,840.4266,2028.6665)">
+       transform="matrix(-0.15301771,-0.74138093,0.74138093,-0.15301771,879.82054,2028.6665)">
       <path
-         sodipodi:nodetypes="csc"
+         sodipodi:nodetypes="cc"
          id="path22006-9"
-         d="m 2040.0457,586.70749 c 0,0 36.9574,3.04103 65.7522,-23.7216 C 2127.2828,543.01719 2133,491.86218 2133,491.86218"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="m 2048.6899,537.39941 c 34.4039,8.28708 72.4159,24.64507 84.3101,-45.53723"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9"
          d="m 2137.574,466.64821 -2.7376,16.35677"
-         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g23774-5-7"
-       transform="matrix(-0.74908997,0.10919849,-0.10919849,-0.74908997,2238.847,541.80915)">
+       transform="matrix(-0.74908997,0.10919849,-0.10919849,-0.74908997,2298.847,541.80915)">
       <path
-         sodipodi:nodetypes="csc"
+         sodipodi:nodetypes="cc"
          id="path22006-9-8"
-         d="m 2026.085,523.47944 c 0,0 55.0153,18.92342 90.1989,-2.94379 C 2132.9754,510.16163 2133,491.86218 2133,491.86218"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="m 2051.5538,525.67516 c 41.2084,3.79259 81.3504,11.29419 81.4462,-33.81298"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9-0"
          d="m 2137.574,466.64821 -2.7376,16.35677"
-         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g23774-5-7-0-1-78"
-       transform="matrix(0.05695329,-0.75486185,0.75486185,0.05695329,102.04061,2264.1115)">
+       transform="matrix(0.05695329,-0.75486185,0.75486185,0.05695329,124.01031,2262.9751)">
       <path
          sodipodi:nodetypes="cc"
          id="path22006-9-8-0-7-1"
-         d="M 2028.3801,716.42992 C 2173.6046,682.51404 2134.8522,516.69468 2133,491.86218"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="M 2031.9098,743.26068 C 2168.0682,715.5486 2133.4204,550.92494 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9-0-6-1-7"
          d="m 2129.8607,463.25558 1.97,16.46686"
-         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g23774-5-7-0-1-6"
-       transform="matrix(0.10893469,0.74912837,-0.74912837,0.10893469,757.7525,-657.41097)">
+       transform="matrix(0.10893469,0.74912837,-0.74912837,0.10893469,798.05553,-656.27461)">
       <path
-         sodipodi:nodetypes="csc"
+         sodipodi:nodetypes="cc"
          id="path22006-9-8-0-7-0"
-         d="m 2037.247,517.90198 c 0,0 57.1939,18.51119 83.9372,0.0173 C 2135.5763,507.95109 2133,491.86218 2133,491.86218"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="m 2037.247,517.90198 c 27.1119,3.05375 100.3737,26.97109 95.753,-26.0398"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9-0-6-1-0"
          d="m 2137.574,466.64821 -2.7376,16.35677"
-         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g23774-5-7-0-1-67"
        transform="matrix(0.74276768,-0.14613784,0.14613784,0.74276768,-693.8905,890.48377)">
       <path
-         sodipodi:nodetypes="csc"
+         sodipodi:nodetypes="cc"
          id="path22006-9-8-0-7-6"
-         d="m 2012.4137,540.7483 c 0,0 63.8633,17.60717 93.6738,-0.98115 C 2130.8776,524.30929 2133,491.86218 2133,491.86218"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="m 2059.4416,547.96106 c 45.0759,12.52812 68.7197,-15.17008 73.5584,-56.09888"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9-0-6-1-4"
@@ -6880,45 +7100,51 @@
     </g>
     <g
        id="g23774-5-7-0-1-63"
-       transform="matrix(-0.13408962,-0.74503696,0.74503696,-0.13408962,762.9053,2459.6734)">
+       transform="matrix(-0.13408962,-0.74503696,0.74503696,-0.13408962,800.78409,2460.0522)">
       <path
-         sodipodi:nodetypes="csc"
+         sodipodi:nodetypes="cc"
          id="path22006-9-8-0-7-30"
-         d="m 2031.6342,629.97104 c 0,0 45.4076,-4.26521 69.946,-37.64078 C 2125.3678,559.97601 2133,491.86218 2133,491.86218"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="m 2044.4371,581.43378 c 62.4363,9.19459 78.6745,-8.81447 88.5629,-89.5716"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9-0-6-1-2"
          d="m 2137.574,466.64821 -2.7376,16.35677"
-         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g23774-5-7-0-1-77"
-       transform="matrix(-0.74617501,0.12760469,-0.12760469,-0.74617501,2244.5573,938.57678)">
+       transform="matrix(-0.74617501,0.12760469,-0.12760469,-0.74617501,2287.7391,935.92526)">
       <path
-         sodipodi:nodetypes="csc"
+         sodipodi:nodetypes="cc"
          id="path22006-9-8-0-7-9"
-         d="m 1981.9199,521.08984 c 0,0 79.6907,29.66742 124.4276,12.00172 C 2134.29,522.05764 2133,491.86218 2133,491.86218"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="m 1988.4546,512.5622 c 45.7163,7.16172 146.8199,32.47563 144.5454,-20.70002"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9-0-6-1-3"
          d="m 2137.574,466.64821 -2.7376,16.35677"
-         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g23774-5-7-0-1-7-3"
-       transform="matrix(0.17457069,0.7366038,-0.7366038,0.17457069,628.19352,-1096.0545)">
+       transform="matrix(0.17457069,0.7366038,-0.7366038,0.17457069,670.0117,-1093.7818)">
       <path
-         sodipodi:nodetypes="csc"
+         sodipodi:nodetypes="cc"
          id="path22006-9-8-0-7-2-8"
-         d="m 2028.8022,550.1731 c 0,0 46.2689,23.3595 77.7262,-1.5005 C 2126.93,532.54964 2133,491.86218 2133,491.86218"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="m 2030.2291,518.11442 c 58.2495,15.8998 99.3451,22.78177 102.7709,-26.25224"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9-0-6-1-9-4"
          d="m 2137.574,466.64821 -2.7376,16.35677"
-         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+         inkscape:connector-curvature="0" />
     </g>
     <text
        xml:space="preserve"
@@ -6970,40 +7196,24 @@
          id="tspan24094-2-0">คุณเลือกได้</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:88.31185913000000198px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans;filter:url(#filter5810)"
-       x="177.04416"
-       y="655.07898"
-       id="text11499-1-1-2-7-5-2-1"><tspan
-         sodipodi:role="line"
-         x="177.04416"
-         y="655.07898"
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK Bold"
-         id="tspan19309-9-5-2-9-7">ทิศทางเศรษฐกิจไทย</tspan><tspan
-         sodipodi:role="line"
-         x="177.04416"
-         y="725.07898"
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK Bold"
-         id="tspan24094-2-0-1">คุณกำหนดได้</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:88.31185913px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       style="font-size:88.31185912999998777px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#ffffff;font-family:Bitstream Vera Sans;stroke-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        x="177.04416"
        y="655.07898"
        id="text11499-1-1-2-7-5-2-1-0"><tspan
          sodipodi:role="line"
          x="177.04416"
          y="655.07898"
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK Bold"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK Bold;stroke:#ffffff;stroke-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan19309-9-5-2-9-7-8">ทิศทางเศรษฐกิจไทย</tspan><tspan
          sodipodi:role="line"
          x="177.04416"
          y="725.07898"
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK Bold"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK Bold;stroke:#ffffff;stroke-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
          id="tspan24094-2-0-1-2">คุณกำหนดได้</tspan></text>
     <g
        style="fill:#000000;fill-opacity:1"
        id="g21867-9"
-       transform="matrix(1.25,0,0,1.25,-133.63771,453.58795)">
+       transform="matrix(1.25,0,0,1.25,-113.63771,453.58795)">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.53086686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect11643-4-95-1-3"
@@ -7027,7 +7237,7 @@
     <g
        style="fill:#000000;fill-opacity:1"
        id="g21867-9-9"
-       transform="matrix(1.25,0,0,1.25,-151.2916,724.30007)">
+       transform="matrix(1.25,0,0,1.25,-131.2916,724.30007)">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.53086686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect11643-4-95-1-3-6"
@@ -7050,77 +7260,87 @@
     </g>
     <g
        id="g23774-5-7-0-1-77-3"
-       transform="matrix(0.11942468,0.74752782,-0.74752782,0.11942468,571.92245,-758.6262)">
+       transform="matrix(0.11942468,0.74752782,-0.74752782,0.11942468,625.25578,-754.83832)">
       <path
-         sodipodi:nodetypes="csc"
+         sodipodi:nodetypes="cc"
          id="path22006-9-8-0-7-9-9"
-         d="m 2056.6727,519.43192 c 0,0 31.5638,20.68729 53.6862,10.75344 C 2135.11,519.07109 2133,491.86218 2133,491.86218"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="m 2048.1179,531.74668 c 39.7057,8.93077 85.2501,10.23492 84.8821,-39.8845"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9-0-6-1-3-2"
          d="m 2137.574,466.64821 -2.7376,16.35677"
-         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g23774-5-7-0-1-78-1-7"
-       transform="matrix(0.36229874,0.66468015,-0.66468015,0.36229874,195.37495,-1008.3367)">
+       transform="matrix(0.36229874,0.66468015,-0.66468015,0.36229874,234.16283,-995.8367)">
       <path
          sodipodi:nodetypes="cc"
          id="path22006-9-8-0-7-1-37-4"
-         d="M 2045.8298,627.54761 C 2130.8875,597.72387 2138.3023,528.52425 2133,491.86218"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="M 1983.5097,686.46908 C 2068.5674,656.64534 2138.3023,528.52425 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9-0-6-1-7-7-1"
          d="m 2129.8607,463.25558 1.97,16.46686"
-         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g23774-5-7-0-1-78-1-7-4"
-       transform="matrix(0.75074073,0.09720303,-0.09720303,0.75074073,-1092.3329,12.718662)">
+       transform="matrix(0.75074073,0.09720303,-0.09720303,0.75074073,-1072.3329,12.718662)">
       <path
          sodipodi:nodetypes="cc"
          id="path22006-9-8-0-7-1-37-4-9"
          d="m 2140.374,548.86054 c -2.7814,-22.56049 -4.5199,-35.87399 -7.374,-56.99836"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9-0-6-1-7-7-1-9"
          d="m 2129.8607,463.25558 1.97,16.46686"
-         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g23774-5-7-0-1-78-1-7-4-7"
-       transform="matrix(-0.75382851,-0.06930114,0.06930114,-0.75382851,2032.9663,1271.8977)">
+       transform="matrix(-0.75382851,-0.06930114,0.06930114,-0.75382851,2052.9663,1271.8977)">
       <path
          sodipodi:nodetypes="cc"
          id="path22006-9-8-0-7-1-37-4-9-2"
          d="m 2135.6452,524.8227 c -0.5719,-12.60803 -1.0663,-19.81249 -2.6452,-32.96052"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9-0-6-1-7-7-1-9-2"
          d="m 2129.8607,463.25558 1.97,16.46686"
-         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g23774-5-7-0-1-78-1-7-4-5"
-       transform="matrix(0.75074073,0.09720303,-0.09720303,0.75074073,-1099.5352,-155.71088)">
+       transform="matrix(0.75074073,0.09720303,-0.09720303,0.75074073,-1079.5352,-155.71088)">
       <path
          sodipodi:nodetypes="cc"
          id="path22006-9-8-0-7-1-37-4-9-0"
-         d="M 2218.297,534.98723 C 2138.0835,553.14172 2134.281,514.40637 2133,491.86218"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         d="M 2279.3315,532.4363 C 2171.3523,553.82901 2133.1926,536.31041 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9-0-6-1-7-7-1-9-4"
          d="m 2129.8607,463.25558 1.97,16.46686"
-         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="g22001-2"
-       transform="translate(-1762.8632,305.34335)">
+       transform="translate(-1742.8632,305.34335)">
       <rect
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.91358352;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect11643-4-4-46-7-7"
@@ -7139,19 +7359,592 @@
            id="tspan11501-6-20-6-1"
            x="2148.3413"
            y="683.51984"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK">ใช้ซอฟต์แวร์เชิงพาณิชย์</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK">ซื้อซอฟต์แวร์เชิงพาณิชย์</tspan></text>
     </g>
     <g
        id="g23774-5-7-0-1-77-3-6"
-       transform="matrix(-0.48573362,0.5806229,-0.5806229,-0.48573362,1741.5012,-65.008776)">
+       transform="matrix(-0.48573362,0.5806229,-0.5806229,-0.48573362,1785.6071,-63.937402)">
       <path
          sodipodi:nodetypes="cc"
          id="path22006-9-8-0-7-9-9-8"
          d="m 2038.7168,577.51056 c 43.4385,0.26036 89.1766,-38.52344 94.2832,-85.64838"
-         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path22008-9-0-6-1-3-2-4"
+         d="m 2137.574,466.64821 -2.7376,16.35677"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="matrix(0.76543342,0,0,0.76543342,1586.55,295.08897)"
+       id="g18205-9-2">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect11643-6-4"
+         width="144.28572"
+         height="67.14286"
+         x="599.14282"
+         y="633.07648"
+         ry="12.857142" />
+      <text
+         xml:space="preserve"
+         style="font-size:31.96045303px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="616.42084"
+         y="675.58728"
+         id="text11499-9-7"><tspan
+           sodipodi:role="line"
+           id="tspan11501-3-6"
+           x="616.42084"
+           y="675.58728"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK">เศรษฐกิจไม่ดี</tspan></text>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="matrix(1.25,0,0,1.25,1308.4153,470.80557)"
+       id="g21872-5">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.53086686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect11643-4-4-5-7"
+         width="166.84326"
+         height="41.114716"
+         x="413.50513"
+         y="317.63779"
+         ry="7.8730292" />
+      <text
+         xml:space="preserve"
+         style="font-size:19.57088089px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="429.29541"
+         y="342.54745"
+         id="text11499-7-4-1"><tspan
+           sodipodi:role="line"
+           id="tspan11501-6-28-3"
+           x="429.29541"
+           y="342.54745"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK">ใช้ซอฟต์แวร์ละเมิดลิขสิทธิ์</tspan></text>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="matrix(0.76543342,0,0,0.76543342,1586.2767,295.08897)"
+       id="g18199-8-3">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect11643-4-4-3-5-3"
+         width="285.00003"
+         height="67.142883"
+         x="529.14282"
+         y="879.505"
+         ry="12.857142" />
+      <text
+         xml:space="preserve"
+         style="font-size:31.96045303px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="547.58533"
+         y="920.99792"
+         id="text11499-7-9-14-8"><tspan
+           sodipodi:role="line"
+           id="tspan11501-6-6-2-5"
+           x="547.58533"
+           y="920.99792"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK">บริษัทซอฟต์แวร์ขายของไม่ได้</tspan><tspan
+           sodipodi:role="line"
+           x="547.58533"
+           y="960.94849"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK"
+           id="tspan11564-5-1" /></text>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g21877-0"
+       transform="matrix(1.25,0,0,1.25,1678.3545,470.80557)">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.53086686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect11643-4-6-8"
+         width="126.84326"
+         height="41.114723"
+         x="430.9874"
+         y="317.63779"
+         ry="7.8730292" />
+      <text
+         xml:space="preserve"
+         style="font-size:19.57088089px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="441.41043"
+         y="342.43979"
+         id="text11499-7-9-3-63-7"><tspan
+           sodipodi:role="line"
+           id="tspan11501-6-6-8-2-6"
+           x="441.41043"
+           y="342.43979"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK">ลดเงินเดือนพนักงาน</tspan><tspan
+           sodipodi:role="line"
+           x="441.41043"
+           y="366.90338"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK"
+           id="tspan11564-9-4-3" /></text>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="matrix(1.25,0,0,1.25,1676.1653,378.28462)"
+       id="g21850-5">
+      <g
+         id="g18205-87-9-0"
+         transform="matrix(0.61234674,0,0,0.61234674,-99.492183,-413.75652)">
+        <rect
+           ry="12.857142"
+           y="633.07648"
+           x="599.14282"
+           height="67.142883"
+           width="235.08394"
+           id="rect11643-1-2-8"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <text
+           id="text11499-6-8-0"
+           y="675.58728"
+           x="616.42084"
+           style="font-size:31.96045303px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK"
+             y="675.58728"
+             x="616.42084"
+             id="tspan11501-64-3-4"
+             sodipodi:role="line">พนักงานได้เงินเดือนเพิ่ม</tspan></text>
+      </g>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="matrix(1.25,0,0,1.25,1348.4153,376.80559)"
+       id="g21862-1">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.53086686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect11643-4-4-9-0-1"
+         width="102.84326"
+         height="41.114719"
+         x="413.50513"
+         y="45.637783"
+         ry="7.8730292" />
+      <text
+         xml:space="preserve"
+         style="font-size:19.57088089px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="429.29541"
+         y="70.547447"
+         id="text11499-7-99-6-3"><tspan
+           sodipodi:role="line"
+           id="tspan11501-6-2-9-5"
+           x="429.29541"
+           y="70.547447"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK">เศรษฐกิจดีขึ้น</tspan></text>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="matrix(0.76543342,0,0,0.76543342,1602.0267,-138.91103)"
+       id="g18199-5-3-9">
+      <g
+         id="g21856-3">
+        <rect
+           ry="12.857142"
+           y="879.505"
+           x="529.14282"
+           height="67.142883"
+           width="243.84685"
+           id="rect11643-4-4-3-2-0-4"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+        <text
+           id="text11499-7-9-1-3-1"
+           y="920.99792"
+           x="547.58533"
+           style="font-size:31.96045303px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK"
+             y="920.99792"
+             x="547.58533"
+             id="tspan11501-6-6-93-1-5"
+             sodipodi:role="line">ใช้ซอฟต์แวร์โอเพนซอร์ส</tspan><tspan
+             id="tspan11564-53-8-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK"
+             y="960.94849"
+             x="547.58533"
+             sodipodi:role="line" /></text>
+      </g>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g21867-8"
+       transform="matrix(1.25,0,0,1.25,1674.6045,376.80559)">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.53086686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect11643-4-95-1-35"
+         width="128.04327"
+         height="41.114719"
+         x="433.38739"
+         y="45.637783"
+         ry="7.8730292" />
+      <text
+         xml:space="preserve"
+         style="font-size:19.57088089px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="449.81042"
+         y="70.439781"
+         id="text11499-7-9-3-6-6-65"><tspan
+           sodipodi:role="line"
+           x="449.81042"
+           y="70.439781"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK"
+           id="tspan11564-9-08-3-9">ลดค่าใช้จ่ายบริษัท</tspan></text>
+    </g>
+    <g
+       id="g22001-9"
+       transform="translate(-425.4143,-316.50446)">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.91358352;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect11643-4-4-46-7-0"
+         width="175.24658"
+         height="51.393372"
+         x="2136.6035"
+         y="652.38275"
+         ry="9.8412867" />
+      <text
+         xml:space="preserve"
+         style="font-size:24.46360016px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="2148.3413"
+         y="683.51984"
+         id="text11499-7-2-0-7"><tspan
+           sodipodi:role="line"
+           id="tspan11501-6-20-6-6"
+           x="2148.3413"
+           y="683.51984"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK">ใช้ซอฟต์แวร์เชิงพาณิชย์</tspan></text>
+    </g>
+    <g
+       id="g24053-3"
+       transform="translate(26.8026,2.4955327)">
+      <rect
+         transform="matrix(0.92578713,0.37804521,-0.92578713,0.37804521,0,0)"
+         style="color:#000000;fill:#feff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.40244603;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect21848-7"
+         width="110.44481"
+         height="110.44481"
+         x="1802.1973"
+         y="-114.28004" />
+      <text
+         xml:space="preserve"
+         style="font-size:24.46360016px;font-style:normal;font-weight:normal;fill:#ba0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="1712.2273"
+         y="685.15521"
+         id="text11499-7-4-7-6"><tspan
+           sodipodi:role="line"
+           id="tspan11501-6-28-7-1"
+           x="1712.2273"
+           y="685.15521"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ba0000;fill-opacity:1;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK Bold">จุดเปลี่ยนของชาติ</tspan></text>
+    </g>
+    <g
+       id="g23774-50"
+       transform="matrix(0.74458614,-0.13657078,0.13657078,0.74458614,648.6551,436.87474)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc"
+         id="path22006-6"
+         d="m 1982.1343,537.86224 c 0,0 71.2215,24.54789 108.158,5.79272 C 2129.2103,523.89369 2133,491.86218 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-5"
+         d="m 2137.574,466.64821 -2.7376,16.35677"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       id="g23774-5-0"
+       transform="matrix(-0.15301771,-0.74138093,0.74138093,-0.15301771,2180.4266,2028.6665)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc"
+         id="path22006-9-81"
+         d="m 2040.0457,586.70749 c 0,0 36.9574,3.04103 65.7522,-23.7216 C 2127.2828,543.01719 2133,491.86218 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-2"
+         d="m 2137.574,466.64821 -2.7376,16.35677"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       id="g23774-5-7-2"
+       transform="matrix(-0.74908997,0.10919849,-0.10919849,-0.74908997,3578.847,541.80915)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc"
+         id="path22006-9-8-6"
+         d="m 2026.085,523.47944 c 0,0 55.0153,18.92342 90.1989,-2.94379 C 2132.9754,510.16163 2133,491.86218 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-0-9"
+         d="m 2137.574,466.64821 -2.7376,16.35677"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       id="g23774-5-7-0-1-78-1"
+       transform="matrix(0.05695329,-0.75486185,0.75486185,0.05695329,1442.0406,2264.1115)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22006-9-8-0-7-1-0"
+         d="M 2028.3801,716.42992 C 2173.6046,682.51404 2134.8522,516.69468 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-0-6-1-7-4"
+         d="m 2129.8607,463.25558 1.97,16.46686"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       id="g23774-5-7-0-1-6-2"
+       transform="matrix(0.10893469,0.74912837,-0.74912837,0.10893469,2097.7525,-657.41097)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc"
+         id="path22006-9-8-0-7-0-7"
+         d="m 2037.247,517.90198 c 0,0 57.1939,18.51119 83.9372,0.0173 14.3921,-9.96819 11.8158,-26.0571 11.8158,-26.0571"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-0-6-1-0-4"
+         d="m 2137.574,466.64821 -2.7376,16.35677"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       id="g23774-5-7-0-1-67-0"
+       transform="matrix(0.74276768,-0.14613784,0.14613784,0.74276768,646.1095,890.48377)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc"
+         id="path22006-9-8-0-7-6-3"
+         d="m 2012.4137,540.7483 c 0,0 63.8633,17.60717 93.6738,-0.98115 C 2130.8776,524.30929 2133,491.86218 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-0-6-1-4-2"
+         d="m 2137.574,466.64821 -2.7376,16.35677"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       id="g23774-5-7-0-1-63-8"
+       transform="matrix(-0.13408962,-0.74503696,0.74503696,-0.13408962,2102.9053,2459.6734)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc"
+         id="path22006-9-8-0-7-30-0"
+         d="m 2031.6342,629.97104 c 0,0 45.4076,-4.26521 69.946,-37.64078 C 2125.3678,559.97601 2133,491.86218 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-0-6-1-2-3"
+         d="m 2137.574,466.64821 -2.7376,16.35677"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       id="g23774-5-7-0-1-77-7"
+       transform="matrix(-0.74617501,0.12760469,-0.12760469,-0.74617501,3584.5573,938.57678)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc"
+         id="path22006-9-8-0-7-9-0"
+         d="m 1981.9199,521.08984 c 0,0 79.6907,29.66742 124.4276,12.00172 C 2134.29,522.05764 2133,491.86218 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-0-6-1-3-0"
+         d="m 2137.574,466.64821 -2.7376,16.35677"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       id="g23774-5-7-0-1-7-3-3"
+       transform="matrix(0.17457069,0.7366038,-0.7366038,0.17457069,1968.1935,-1096.0545)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc"
+         id="path22006-9-8-0-7-2-8-4"
+         d="m 2028.8022,550.1731 c 0,0 46.2689,23.3595 77.7262,-1.5005 C 2126.93,532.54964 2133,491.86218 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-0-6-1-9-4-9"
+         d="m 2137.574,466.64821 -2.7376,16.35677"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g21867-9-2"
+       transform="matrix(1.25,0,0,1.25,1206.3623,453.58795)">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.53086686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect11643-4-95-1-3-7"
+         width="91.643272"
+         height="41.114719"
+         x="433.38739"
+         y="45.637783"
+         ry="7.8730292" />
+      <text
+         xml:space="preserve"
+         style="font-size:19.57088089px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="449.81042"
+         y="70.439781"
+         id="text11499-7-9-3-6-6-6-4"><tspan
+           sodipodi:role="line"
+           x="449.81042"
+           y="70.439781"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK"
+           id="tspan11564-9-08-3-8-2">พึ่งพาตนเอง</tspan></text>
+    </g>
+    <g
+       style="fill:#000000;fill-opacity:1"
+       id="g21867-9-9-5"
+       transform="matrix(1.25,0,0,1.25,1188.7084,724.30007)">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.53086686;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect11643-4-95-1-3-6-2"
+         width="92.043251"
+         height="41.114719"
+         x="433.38739"
+         y="45.637783"
+         ry="7.8730292" />
+      <text
+         xml:space="preserve"
+         style="font-size:19.57088089px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="449.81042"
+         y="70.439781"
+         id="text11499-7-9-3-6-6-6-1-4"><tspan
+           sodipodi:role="line"
+           x="449.81042"
+           y="70.439781"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK"
+           id="tspan11564-9-08-3-8-0-4">พึ่งพาคนอื่น</tspan></text>
+    </g>
+    <g
+       id="g23774-5-7-0-1-77-3-3"
+       transform="matrix(0.11942468,0.74752782,-0.74752782,0.11942468,1911.9224,-758.6262)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc"
+         id="path22006-9-8-0-7-9-9-86"
+         d="m 2056.6727,519.43192 c 0,0 31.5638,20.68729 53.6862,10.75344 C 2135.11,519.07109 2133,491.86218 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-0-6-1-3-2-0"
+         d="m 2137.574,466.64821 -2.7376,16.35677"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       id="g23774-5-7-0-1-78-1-7-8"
+       transform="matrix(0.36229874,0.66468015,-0.66468015,0.36229874,1535.3749,-1008.3367)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22006-9-8-0-7-1-37-4-92"
+         d="M 2045.8298,627.54761 C 2130.8875,597.72387 2138.3023,528.52425 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-0-6-1-7-7-1-2"
+         d="m 2129.8607,463.25558 1.97,16.46686"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       id="g23774-5-7-0-1-78-1-7-4-3"
+       transform="matrix(0.75074073,0.09720303,-0.09720303,0.75074073,247.6671,12.718663)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22006-9-8-0-7-1-37-4-9-1"
+         d="m 2140.374,548.86054 c -2.7814,-22.56049 -4.5199,-35.87399 -7.374,-56.99836"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-0-6-1-7-7-1-9-8"
+         d="m 2129.8607,463.25558 1.97,16.46686"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       id="g23774-5-7-0-1-78-1-7-4-7-3"
+       transform="matrix(-0.75382851,-0.06930114,0.06930114,-0.75382851,3372.9663,1271.8977)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22006-9-8-0-7-1-37-4-9-2-4"
+         d="m 2135.6452,524.8227 c -0.5719,-12.60803 -1.0663,-19.81249 -2.6452,-32.96052"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-0-6-1-7-7-1-9-2-2"
+         d="m 2129.8607,463.25558 1.97,16.46686"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       id="g23774-5-7-0-1-78-1-7-4-5-2"
+       transform="matrix(0.75074073,0.09720303,-0.09720303,0.75074073,240.4648,-155.71088)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22006-9-8-0-7-1-37-4-9-0-4"
+         d="M 2218.297,534.98723 C 2138.0835,553.14172 2134.281,514.40637 2133,491.86218"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-0-6-1-7-7-1-9-4-5"
+         d="m 2129.8607,463.25558 1.97,16.46686"
+         style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
+    </g>
+    <g
+       id="g22001-2-1"
+       transform="translate(-422.8632,305.34335)">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.91358352;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect11643-4-4-46-7-7-7"
+         width="175.24658"
+         height="51.393372"
+         x="2136.6035"
+         y="652.38275"
+         ry="9.8412867" />
+      <text
+         xml:space="preserve"
+         style="font-size:24.46360016px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="2148.3413"
+         y="683.51984"
+         id="text11499-7-2-0-9-5"><tspan
+           sodipodi:role="line"
+           id="tspan11501-6-20-6-1-7"
+           x="2148.3413"
+           y="683.51984"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK">ใช้ซอฟต์แวร์เชิงพาณิชย์</tspan></text>
+    </g>
+    <g
+       id="g23774-5-7-0-1-77-3-6-1"
+       transform="matrix(-0.48573362,0.5806229,-0.5806229,-0.48573362,3081.5012,-65.008777)">
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22006-9-8-0-7-9-9-8-6"
+         d="m 2038.7168,577.51056 c 43.4385,0.26036 89.1766,-38.52344 94.2832,-85.64838"
+         style="fill:none;stroke:#000000;stroke-width:7.69999981;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc"
+         id="path22008-9-0-6-1-3-2-4-9"
          d="m 2137.574,466.64821 -2.7376,16.35677"
          style="fill:none;stroke:#000000;stroke-width:2.34991574;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1Lstart)" />
     </g>
