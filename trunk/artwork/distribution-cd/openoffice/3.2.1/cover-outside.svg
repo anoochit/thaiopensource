@@ -17,7 +17,7 @@
    version="1.0"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.0 r9654"
    sodipodi:docname="cover-outside.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/openoffice/3.2.1/cover-outside-rc1.svg.png"
@@ -26,7 +26,7 @@
   <metadata
      id="metadata63" />
   <sodipodi:namedview
-     inkscape:window-height="812"
+     inkscape:window-height="807"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -39,8 +39,8 @@
      id="base"
      showgrid="false"
      inkscape:zoom="0.70710678"
-     inkscape:cx="585.63984"
-     inkscape:cy="184.52363"
+     inkscape:cx="552.71993"
+     inkscape:cy="184.92147"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:current-layer="svg2"
@@ -16760,7 +16760,7 @@
   <g
      i:extraneous="self"
      id="g5209"
-     transform="matrix(0.44237366,0,0,0.44209886,750.125,313.25071)"
+     transform="matrix(0.44237366,0,0,0.44209886,463.03965,313.25071)"
      style="fill:#ffffff;fill-opacity:1">
     <g
        id="Layer_1"
@@ -16808,7 +16808,7 @@
              transform="translate(3.7236,39.8877)"
              style="fill:#ffffff;fill-opacity:1">
             <tspan
-               style="font-size:48px;font-family:XJS-PitsamaiItalic;fill:#ffffff;fill-opacity:1"
+               style="font-size:48px;fill:#ffffff;fill-opacity:1;font-family:XJS-PitsamaiItalic"
                x="0"
                y="0"
                font-size="48"
@@ -16823,27 +16823,32 @@
            style="fill:#ffffff;fill-opacity:1"
            i:knockout="Off"
            d="m 79.251,213.491 c -0.168,-0.735 -0.392,-1.457 -0.679,-2.165 -4.994,-12.271 -26.402,-14.921 -47.819,-5.919 -5.35,2.25 -10.193,5.012 -14.373,8.083 h 62.871 z"
-           id="path5223" />
+           id="path5223"
+           inkscape:connector-curvature="0" />
         <path
            style="fill:#ffffff;fill-opacity:1"
            i:knockout="Off"
            d="m 58.732,229.472 c -1.754,-1.503 -5.367,-1.459 -5.444,-1.459 H 15.575 c -0.135,0.001 -7.388,0.207 -11.087,-2.498 -2.66,3.966 -4.23,8.009 -4.483,11.835 l 53.51,0.001 c 1.505,-0.075 4.872,-0.645 5.955,-4.164 0.495,-1.619 0.248,-2.867 -0.738,-3.715 z"
-           id="path5225" />
+           id="path5225"
+           inkscape:connector-curvature="0" />
         <path
            style="fill:#ffffff;fill-opacity:1"
            i:knockout="Off"
            d="m 23.466,215.566 c -0.642,0 -6.295,0.135 -7.126,4.897 -0.297,1.708 0.131,3.037 1.275,3.952 1.894,1.513 5.231,1.524 5.275,1.524 h 42.097 c 0.135,-0.004 6.909,0.165 11.029,2.362 2.597,-4.322 3.882,-8.694 3.555,-12.736 H 23.466 z"
-           id="path5227" />
+           id="path5227"
+           inkscape:connector-curvature="0" />
         <path
            style="fill:#ffffff;fill-opacity:1"
            i:knockout="Off"
            d="M 64.38,239.425 H 0 c 0.099,1.555 0.429,3.065 1.016,4.503 4.993,12.273 26.403,14.924 47.819,5.921 6.633,-2.79 12.487,-6.369 17.263,-10.346 -0.707,-0.016 -1.294,-0.053 -1.718,-0.078 z"
-           id="path5229" />
+           id="path5229"
+           inkscape:connector-curvature="0" />
         <path
            style="fill:#ffffff;fill-opacity:1"
            i:knockout="Off"
            d="m 53.446,237.352 h -0.624 c 0.095,0.005 0.317,0.014 0.624,0 z"
-           id="path5231" />
+           id="path5231"
+           inkscape:connector-curvature="0" />
       </g>
       <g
          id="g5233"
@@ -16852,48 +16857,96 @@
            style="fill:#ffffff;fill-opacity:1"
            i:knockout="Off"
            d="m 164.387,208.154 c -0.03,-0.131 -0.071,-0.26 -0.121,-0.385 -0.888,-2.185 -4.699,-2.656 -8.51,-1.054 -0.952,0.401 -1.813,0.893 -2.557,1.439 h 11.188 z"
-           id="path5235" />
+           id="path5235"
+           inkscape:connector-curvature="0" />
         <path
            style="fill:#ffffff;fill-opacity:1"
            i:knockout="Off"
            d="m 160.735,210.998 c -0.312,-0.268 -0.956,-0.26 -0.969,-0.26 h -6.711 c -0.024,0 -1.314,0.037 -1.973,-0.444 -0.473,0.705 -0.752,1.425 -0.798,2.106 h 9.523 c 0.267,-0.013 0.866,-0.115 1.058,-0.741 0.09,-0.289 0.046,-0.511 -0.13,-0.661 z"
-           id="path5237" />
+           id="path5237"
+           inkscape:connector-curvature="0" />
         <path
            style="fill:#ffffff;fill-opacity:1"
            i:knockout="Off"
            d="m 154.46,208.522 c -0.115,0 -1.121,0.024 -1.268,0.872 -0.054,0.304 0.022,0.54 0.226,0.703 0.337,0.27 0.931,0.271 0.939,0.271 h 7.491 c 0.024,0 1.23,0.03 1.963,0.421 0.462,-0.77 0.691,-1.547 0.633,-2.267 h -9.984 z"
-           id="path5239" />
+           id="path5239"
+           inkscape:connector-curvature="0" />
         <path
            style="fill:#ffffff;fill-opacity:1"
            i:knockout="Off"
            d="m 161.741,212.768 h -11.457 c 0.017,0.276 0.076,0.545 0.18,0.801 0.889,2.184 4.7,2.657 8.51,1.054 1.18,-0.497 2.222,-1.133 3.071,-1.842 -0.125,-0.002 -0.229,-0.008 -0.304,-0.013 z"
-           id="path5241" />
+           id="path5241"
+           inkscape:connector-curvature="0" />
         <path
            style="fill:#ffffff;fill-opacity:1"
            i:knockout="Off"
            d="m 159.794,212.399 h -0.111 c 0.017,0.001 0.057,0.003 0.111,0 z"
-           id="path5243" />
+           id="path5243"
+           inkscape:connector-curvature="0" />
       </g>
       <path
          style="fill:#ffffff;fill-opacity:1"
          i:knockout="Off"
          d="m 257.899,239.569 h -35.345 l -5.709,9.725 h -5.735 l 25.417,-43.335 h 7.369 l 25.46,43.335 h -5.74 l -5.717,-9.725 z m -2.429,-4.139 -15.255,-25.828 -15.153,25.828 h 30.408 z"
-         id="path5245" />
+         id="path5245"
+         inkscape:connector-curvature="0" />
       <path
          style="fill:#ffffff;fill-opacity:1"
          i:knockout="Off"
          d="m 154.756,249.294 v -30.091 h 5.215 v 30.091 h -5.215 z"
-         id="path5247" />
+         id="path5247"
+         inkscape:connector-curvature="0" />
       <path
          style="fill:#ffffff;fill-opacity:1"
          i:knockout="Off"
          d="m 167.855,249.294 v -43.335 h 34.857 c 2.84,0 4.875,0.111 6.097,0.32 2.357,0.38 4.161,1.226 5.403,2.537 1.708,1.799 2.559,5.11 2.559,9.933 0,2.646 -0.146,4.644 -0.44,6 -0.505,2.2 -1.496,3.894 -2.971,5.077 -1.996,1.605 -5.165,2.411 -9.504,2.411 h -30.788 v 17.057 h -5.213 z m 5.213,-21.412 h 26.919 c 4.248,0 7.079,-0.421 8.489,-1.269 1.915,-1.16 2.869,-3.679 2.869,-7.545 0,-2.917 -0.411,-4.956 -1.232,-6.121 -1.24,-1.754 -4.265,-2.629 -9.087,-2.629 h -27.958 v 17.564 z"
-         id="path5249" />
+         id="path5249"
+         inkscape:connector-curvature="0" />
       <path
          style="fill:#ffffff;fill-opacity:1"
          i:knockout="Off"
          d="m 96.987,235.836 h 5.212 v 1.133 c 0,1.912 0.194,3.331 0.574,4.252 0.524,1.325 1.555,2.241 3.092,2.744 2.464,0.817 7.491,1.229 15.068,1.229 8.511,0 14.037,-0.57 16.585,-1.708 2.214,-0.988 3.318,-3.235 3.318,-6.732 0,-3.33 -1.339,-5.371 -4.014,-6.134 -2.192,-0.63 -5.922,-0.966 -11.193,-1.009 -3.709,0.054 -7.427,0.095 -11.159,0.122 -3.183,-0.019 -5.566,-0.127 -7.146,-0.32 -2.907,-0.336 -5.142,-1.036 -6.7,-2.098 -2.422,-1.653 -3.637,-4.495 -3.637,-8.525 0,-4.498 1.161,-7.7 3.482,-9.608 2.044,-1.676 5.628,-2.777 10.746,-3.308 2.491,-0.254 6.316,-0.383 11.481,-0.383 9.297,0 15.327,0.858 18.087,2.574 1.752,1.085 2.939,2.567 3.572,4.456 0.443,1.25 0.707,3.19 0.791,5.817 h -5.057 c -0.102,-3.085 -0.8,-5.114 -2.084,-6.086 -1.919,-1.46 -7.006,-2.188 -15.265,-2.188 -7.882,0 -13.287,0.465 -16.215,1.4 -2.74,0.865 -4.11,3.177 -4.11,6.926 0,2.883 0.888,4.737 2.657,5.563 1.412,0.658 4.131,1.05 8.158,1.176 0.611,0.023 3.371,0.033 8.28,0.033 7.336,0 12.161,0.146 14.477,0.437 3.732,0.484 6.366,1.554 7.907,3.2 1.578,1.733 2.368,4.456 2.368,8.172 0,3.547 -0.727,6.263 -2.183,8.141 -1.495,1.964 -3.931,3.252 -7.301,3.865 -2.933,0.525 -7.888,0.792 -14.869,0.792 -9.443,0 -15.737,-0.548 -18.88,-1.646 -4.03,-1.392 -6.042,-4.496 -6.042,-9.309 v -2.978 z"
-         id="path5251" />
+         id="path5251"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
+  <path
+     sodipodi:type="star"
+     style="color:#000000;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:24.29999924;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="path9923"
+     sodipodi:sides="12"
+     sodipodi:cx="1070.0311"
+     sodipodi:cy="470.93552"
+     sodipodi:r1="96.943893"
+     sodipodi:r2="74.600471"
+     sodipodi:arg1="0.78539816"
+     sodipodi:arg2="1.0471976"
+     inkscape:flatsided="false"
+     inkscape:rounded="0"
+     inkscape:randomized="0"
+     d="m 1138.5808,539.4852 -31.2494,-3.94378 -12.2093,29.03471 -25.091,-19.04014 -25.0909,19.04014 -12.2093,-29.03471 -31.2495,3.94378 3.9438,-31.24945 -29.03468,-12.20931 19.04014,-25.09093 -19.04014,-25.09092 29.03468,-12.20931 -3.9438,-31.24945 31.2495,3.94378 12.2093,-29.0347 25.0909,19.04013 25.091,-19.04013 12.2093,29.0347 31.2494,-3.94378 -3.9438,31.24945 29.0347,12.20931 -19.0401,25.09093 19.0401,25.09092 -29.0347,12.20932 z"
+     transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,-76.590491,-339.12446)" />
+  <text
+     transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+     sodipodi:linespacing="125%"
+     id="text9867-3"
+     y="842.07404"
+     x="313.41779"
+     style="font-size:32.99724197px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     xml:space="preserve"><tspan
+       style="font-size:19.79834557px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK"
+       y="842.07404"
+       x="313.41779"
+       id="tspan9869-8"
+       sodipodi:role="line">พร้อม 13 แบบอักษรไทย</tspan><tspan
+       style="font-size:19.79834557px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK"
+       y="866.82196"
+       x="313.41779"
+       sodipodi:role="line"
+       id="tspan5408">มาตรฐาน และไฟล์สำหรับ</tspan><tspan
+       style="font-size:19.79834557px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;font-family:TH SarabunPSK;-inkscape-font-specification:TH SarabunPSK"
+       y="891.56989"
+       x="313.41779"
+       sodipodi:role="line"
+       id="tspan5412">ทำบัญชีครัวเรือน</tspan></text>
 </svg>
