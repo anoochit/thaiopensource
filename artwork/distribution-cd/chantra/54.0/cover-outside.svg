@@ -20,7 +20,7 @@
    inkscape:version="0.48.0 r9654"
    sodipodi:docname="cover-outside.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/gumara/thaiopensource-svn/artwork/distribution-cd/chantra/53.05/cover-outside-53.05-rc3.png"
+   inkscape:export-filename="/home/gumara/Desktop/chantra54.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -40,7 +40,7 @@
      showgrid="false"
      inkscape:zoom="1.1486833"
      inkscape:cx="486.89435"
-     inkscape:cy="191.53763"
+     inkscape:cy="178.63847"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:current-layer="svg2"
@@ -11172,14 +11172,6 @@
          style="stop-color:#0C419A" />
     </radialGradient>
     <filter
-       inkscape:collect="always"
-       id="filter5864">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.9805942"
-         id="feGaussianBlur5866" />
-    </filter>
-    <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter5864-9">
@@ -11213,13 +11205,244 @@
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
   </defs>
+  <g
+     id="g5656-3"
+     transform="matrix(1.6343515,0,0,1.6343515,-381.53403,-143.22603)">
+    <g
+       style="opacity:0.86690644;fill:#ffffff;fill-opacity:1;filter:url(#filter23894-6)"
+       transform="matrix(0.7150059,0,0,0.1826153,528.85615,286.6903)"
+       i:rgbTrio="#4F008000FFFF"
+       i:dimmedPercent="50"
+       i:layer="yes"
+       id="g23800-8">
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         fy="151.0303"
+         fx="206.78999"
+         r="107.1468"
+         cy="151.0303"
+         cx="206.78999"
+         id="radialGradient23802-0">
+        <stop
+           id="stop23804-9"
+           style="stop-color:#FFFFFF"
+           offset="0" />
+        <stop
+           id="stop23806-2"
+           style="stop-color:#FF4100"
+           offset="1" />
+        <a:midPointStop
+           style="stop-color:#FFFFFF"
+           offset="0" />
+        <a:midPointStop
+           style="stop-color:#FFFFFF"
+           offset="0.5" />
+        <a:midPointStop
+           style="stop-color:#FF4100"
+           offset="1" />
+      </radialGradient>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1"
+         id="path23808-3"
+         d="m 200.079,40.009 c -37.582,-2.588 -72.647,12.983 -96.115,39.56 20.064,-10.049 43.205,-14.501 67.147,-11.496 64.394,8.076 110.043,66.82 101.971,131.208 -3.048,24.321 -13.34,45.967 -28.416,63.049 33.908,-17.003 58.987,-50.076 64.034,-90.551 7.762,-62.192 -34.613,-119.084 -95.548,-130.127 l -13.073,-1.643 z"
+         i:knockout="Off" />
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         fy="194.2466"
+         fx="194.60451"
+         r="75.225197"
+         cy="194.2466"
+         cx="194.60451"
+         id="radialGradient23810-1">
+        <stop
+           id="stop23812-8"
+           style="stop-color:#FFFFFF"
+           offset="0" />
+        <stop
+           id="stop23814-7"
+           style="stop-color:#FFCC00"
+           offset="1" />
+        <a:midPointStop
+           style="stop-color:#FFFFFF"
+           offset="0" />
+        <a:midPointStop
+           style="stop-color:#FFFFFF"
+           offset="0.5" />
+        <a:midPointStop
+           style="stop-color:#FFCC00"
+           offset="1" />
+      </radialGradient>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1"
+         id="path23816-4"
+         d="m 243.012,124.012 c 9.554,64.191 -34.741,123.967 -98.927,133.52 -6.567,0.974 -13.077,1.359 -19.5,1.243 34.554,19.897 76.381,20.46 111.014,3.172 14.897,-17.024 25.074,-38.521 28.103,-62.666 3.947,-31.486 -4.981,-61.606 -22.635,-85.127 0.764,3.233 1.445,6.508 1.945,9.858 z"
+         i:knockout="Off" />
+      <radialGradient
+         gradientUnits="userSpaceOnUse"
+         fy="157.90379"
+         fx="150.7368"
+         r="154.36189"
+         cy="157.90379"
+         cx="150.7368"
+         id="radialGradient23818-1">
+        <stop
+           id="stop23820-6"
+           style="stop-color:#FFFFFF"
+           offset="0" />
+        <stop
+           id="stop23822-3"
+           style="stop-color:#0C419A"
+           offset="1" />
+        <a:midPointStop
+           style="stop-color:#FFFFFF"
+           offset="0" />
+        <a:midPointStop
+           style="stop-color:#FFFFFF"
+           offset="0.5" />
+        <a:midPointStop
+           style="stop-color:#0C419A"
+           offset="1" />
+      </radialGradient>
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff;fill-opacity:1"
+         id="path23824-8"
+         d="m 191.163,285.697 c -71.255,0 -129.017,-57.764 -129.017,-129.02 0,-71.251 57.762,-129.016 129.017,-129.016 43.422,0 81.804,21.476 105.191,54.359 C 266.984,28.495 207.831,-5.36 143.153,0.699 56.344,8.841 -7.434,85.819 0.699,172.66 c 8.149,86.816 85.121,150.589 171.946,142.447 58.242,-5.458 106.081,-41.889 128.829,-91.484 -22.632,37.216 -63.568,62.074 -110.311,62.074 z"
+         i:knockout="Off" />
+    </g>
+    <switch
+       inkscape:export-ydpi="72"
+       inkscape:export-xdpi="72"
+       inkscape:export-filename="C:\Documents and Settings\staff\Desktop\OSDEV_WORK\08-2007\template-cd-chantra\path3759.png"
+       transform="matrix(0.7150059,0,0,0.7150059,528.85615,100.55734)"
+       id="switch4054-5">
+      <foreignObject
+         id="foreignObject4056-5"
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+        <i:pgfRef
+           xlink:href="#adobe_illustrator_pgf" />
+      </foreignObject>
+      <g
+         id="g4058-0"
+         i:extraneous="self">
+        <g
+           i:rgbTrio="#4F008000FFFF"
+           i:dimmedPercent="50"
+           i:layer="yes"
+           id="g4060-1">
+          <radialGradient
+             gradientUnits="userSpaceOnUse"
+             fy="151.0303"
+             fx="206.78999"
+             r="107.1468"
+             cy="151.0303"
+             cx="206.78999"
+             id="radialGradient4062-2">
+            <stop
+               id="stop4064-6"
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <stop
+               id="stop4066-4"
+               style="stop-color:#FF4100"
+               offset="1" />
+            <a:midPointStop
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <a:midPointStop
+               style="stop-color:#FFFFFF"
+               offset="0.5" />
+            <a:midPointStop
+               style="stop-color:#FF4100"
+               offset="1" />
+          </radialGradient>
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient7593-3)"
+             id="path4068-8"
+             d="m 200.079,40.009 c -37.582,-2.588 -72.647,12.983 -96.115,39.56 20.064,-10.049 43.205,-14.501 67.147,-11.496 64.394,8.076 110.043,66.82 101.971,131.208 -3.048,24.321 -13.34,45.967 -28.416,63.049 33.908,-17.003 58.987,-50.076 64.034,-90.551 7.762,-62.192 -34.613,-119.084 -95.548,-130.127 l -13.073,-1.643 z"
+             i:knockout="Off" />
+          <radialGradient
+             gradientUnits="userSpaceOnUse"
+             fy="194.2466"
+             fx="194.60451"
+             r="75.225197"
+             cy="194.2466"
+             cx="194.60451"
+             id="radialGradient4070-5">
+            <stop
+               id="stop4072-6"
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <stop
+               id="stop4074-2"
+               style="stop-color:#FFCC00"
+               offset="1" />
+            <a:midPointStop
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <a:midPointStop
+               style="stop-color:#FFFFFF"
+               offset="0.5" />
+            <a:midPointStop
+               style="stop-color:#FFCC00"
+               offset="1" />
+          </radialGradient>
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient7595-0)"
+             id="path4076-5"
+             d="m 243.012,124.012 c 9.554,64.191 -34.741,123.967 -98.927,133.52 -6.567,0.974 -13.077,1.359 -19.5,1.243 34.554,19.897 76.381,20.46 111.014,3.172 14.897,-17.024 25.074,-38.521 28.103,-62.666 3.947,-31.486 -4.981,-61.606 -22.635,-85.127 0.764,3.233 1.445,6.508 1.945,9.858 z"
+             i:knockout="Off" />
+          <radialGradient
+             gradientUnits="userSpaceOnUse"
+             fy="157.90379"
+             fx="150.7368"
+             r="154.36189"
+             cy="157.90379"
+             cx="150.7368"
+             id="radialGradient4078-2">
+            <stop
+               id="stop4080-6"
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <stop
+               id="stop4082-9"
+               style="stop-color:#0C419A"
+               offset="1" />
+            <a:midPointStop
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <a:midPointStop
+               style="stop-color:#FFFFFF"
+               offset="0.5" />
+            <a:midPointStop
+               style="stop-color:#0C419A"
+               offset="1" />
+          </radialGradient>
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient7597-1)"
+             id="path4084-1"
+             d="m 191.163,285.697 c -71.255,0 -129.017,-57.764 -129.017,-129.02 0,-71.251 57.762,-129.016 129.017,-129.016 43.422,0 81.804,21.476 105.191,54.359 C 266.984,28.495 207.831,-5.36 143.153,0.699 56.344,8.841 -7.434,85.819 0.699,172.66 c 8.149,86.816 85.121,150.589 171.946,142.447 58.242,-5.458 106.081,-41.889 128.829,-91.484 -22.632,37.216 -63.568,62.074 -110.311,62.074 z"
+             i:knockout="Off" />
+        </g>
+      </g>
+    </switch>
+  </g>
   <rect
      style="fill:#ff8400;fill-opacity:1;stroke:none"
      id="rect5687"
      width="284.37292"
-     height="472.83081"
+     height="990.81519"
      x="213.54686"
-     y="-442.91016"
+     y="-960.89453"
      transform="matrix(0,1,-1,0,0,0)" />
   <path
      style="color:#000000;fill:#f360af;fill-opacity:1;fill-rule:nonzero;stroke:#d9166f;stroke-width:31.60000038;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -11520,27 +11743,27 @@
        id="flowPara7126">ติดตามข่าวสารโครงการโอเพนซอร์สจาก SIPA ได้ที่ thaiopensource.org</flowPara></flowRoot>  <image
      sodipodi:absref="/home/gumara/tos-artwork/distribution-cd/chantra/54.0/screenshot/chantra-53.05-3.png"
      xlink:href="screenshot/chantra-53.05-3.png"
-     width="150"
-     height="110.20409"
-     id="image7164"
+     y="272.36417"
      x="-1027.3862"
-     y="272.36417" />
+     id="image7164"
+     height="110.20409"
+     width="150" />
   <image
      sodipodi:absref="/home/gumara/tos-artwork/distribution-cd/chantra/54.0/screenshot/chantra-53.05-2.png"
      xlink:href="screenshot/chantra-53.05-2.png"
-     width="150"
-     height="100.06258"
-     id="image7178"
+     y="148.77376"
      x="-1027.3862"
-     y="148.77376" />
+     id="image7178"
+     height="100.06258"
+     width="150" />
   <image
      sodipodi:absref="/home/gumara/tos-artwork/distribution-cd/chantra/54.0/screenshot/chantra-53.05-1.png"
      xlink:href="screenshot/chantra-53.05-1.png"
-     width="150"
-     height="112.5"
-     id="image7192"
+     y="12.7459"
      x="-1027.3862"
-     y="12.7459" />
+     id="image7192"
+     height="112.5"
+     width="150" />
   <rect
      style="opacity:0.81404952;color:#000000;fill:#000000;fill-opacity:0.46666667;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="rect6322"
@@ -12038,17 +12261,17 @@
        sodipodi:role="line">มาตรฐาน</tspan></text>
   <text
      id="text4092-2"
-     y="76.053062"
-     x="472.78067"
-     style="font-size:57.29393768px;font-style:normal;font-weight:normal;fill:#1a1a1a;fill-opacity:1;stroke:none;display:inline;font-family:Angsana New"
+     y="357.83035"
+     x="528.23785"
+     style="font-size:77.40535735999999645px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Angsana New"
      xml:space="preserve"><tspan
-       style="fill:#1a1a1a;fill-opacity:1;font-family:Tahoma"
-       y="76.053062"
-       x="472.78067"
+       style="fill:#ffffff;fill-opacity:1;font-family:Tahoma"
+       y="357.83035"
+       x="528.23785"
        id="tspan4094-4"
        sodipodi:role="line">Chantra<tspan
    id="tspan4096-7"
-   style="font-size:21.07920837px;fill:#1a1a1a;fill-opacity:1" /></tspan></text>
+   style="font-size:28.47846794000000159px;fill:#ffffff;fill-opacity:1" /></tspan></text>
   <text
      id="text4092-0"
      y="849.82477"
@@ -12309,17 +12532,6 @@
      height="112.69826"
      x="-50.39352"
      y="79.23188" />
-  <text
-     id="text4092-2-3-6-6-0"
-     y="75.493683"
-     x="711.42773"
-     style="font-size:55.15797424px;font-style:normal;font-weight:normal;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Angsana New"
-     xml:space="preserve"><tspan
-       style="fill:#666666;fill-opacity:1;font-family:Tahoma"
-       y="75.493683"
-       x="711.42773"
-       id="tspan4094-4-0-0-6-2"
-       sodipodi:role="line">54</tspan></text>
   <rect
      style="fill:#ff8400;fill-opacity:1;stroke:none"
      id="rect5687-0"
@@ -12328,235 +12540,4 @@
      x="360.79565"
      y="-915.74097"
      transform="matrix(0,1,-1,0,0,0)" />
-  <g
-     id="g5656-3"
-     transform="matrix(0.89305108,0,0,0.89305108,92.560926,29.690708)">
-    <g
-       style="opacity:0.86690644;fill:#ffffff;fill-opacity:1;filter:url(#filter23894-6)"
-       transform="matrix(0.7150059,0,0,0.1826153,528.85615,286.6903)"
-       i:rgbTrio="#4F008000FFFF"
-       i:dimmedPercent="50"
-       i:layer="yes"
-       id="g23800-8">
-      <radialGradient
-         gradientUnits="userSpaceOnUse"
-         fy="151.0303"
-         fx="206.78999"
-         r="107.1468"
-         cy="151.0303"
-         cx="206.78999"
-         id="radialGradient23802-0">
-        <stop
-           id="stop23804-9"
-           style="stop-color:#FFFFFF"
-           offset="0" />
-        <stop
-           id="stop23806-2"
-           style="stop-color:#FF4100"
-           offset="1" />
-        <a:midPointStop
-           style="stop-color:#FFFFFF"
-           offset="0" />
-        <a:midPointStop
-           style="stop-color:#FFFFFF"
-           offset="0.5" />
-        <a:midPointStop
-           style="stop-color:#FF4100"
-           offset="1" />
-      </radialGradient>
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;fill-opacity:1"
-         id="path23808-3"
-         d="m 200.079,40.009 c -37.582,-2.588 -72.647,12.983 -96.115,39.56 20.064,-10.049 43.205,-14.501 67.147,-11.496 64.394,8.076 110.043,66.82 101.971,131.208 -3.048,24.321 -13.34,45.967 -28.416,63.049 33.908,-17.003 58.987,-50.076 64.034,-90.551 7.762,-62.192 -34.613,-119.084 -95.548,-130.127 l -13.073,-1.643 z"
-         i:knockout="Off" />
-      <radialGradient
-         gradientUnits="userSpaceOnUse"
-         fy="194.2466"
-         fx="194.60451"
-         r="75.225197"
-         cy="194.2466"
-         cx="194.60451"
-         id="radialGradient23810-1">
-        <stop
-           id="stop23812-8"
-           style="stop-color:#FFFFFF"
-           offset="0" />
-        <stop
-           id="stop23814-7"
-           style="stop-color:#FFCC00"
-           offset="1" />
-        <a:midPointStop
-           style="stop-color:#FFFFFF"
-           offset="0" />
-        <a:midPointStop
-           style="stop-color:#FFFFFF"
-           offset="0.5" />
-        <a:midPointStop
-           style="stop-color:#FFCC00"
-           offset="1" />
-      </radialGradient>
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;fill-opacity:1"
-         id="path23816-4"
-         d="m 243.012,124.012 c 9.554,64.191 -34.741,123.967 -98.927,133.52 -6.567,0.974 -13.077,1.359 -19.5,1.243 34.554,19.897 76.381,20.46 111.014,3.172 14.897,-17.024 25.074,-38.521 28.103,-62.666 3.947,-31.486 -4.981,-61.606 -22.635,-85.127 0.764,3.233 1.445,6.508 1.945,9.858 z"
-         i:knockout="Off" />
-      <radialGradient
-         gradientUnits="userSpaceOnUse"
-         fy="157.90379"
-         fx="150.7368"
-         r="154.36189"
-         cy="157.90379"
-         cx="150.7368"
-         id="radialGradient23818-1">
-        <stop
-           id="stop23820-6"
-           style="stop-color:#FFFFFF"
-           offset="0" />
-        <stop
-           id="stop23822-3"
-           style="stop-color:#0C419A"
-           offset="1" />
-        <a:midPointStop
-           style="stop-color:#FFFFFF"
-           offset="0" />
-        <a:midPointStop
-           style="stop-color:#FFFFFF"
-           offset="0.5" />
-        <a:midPointStop
-           style="stop-color:#0C419A"
-           offset="1" />
-      </radialGradient>
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;fill-opacity:1"
-         id="path23824-8"
-         d="m 191.163,285.697 c -71.255,0 -129.017,-57.764 -129.017,-129.02 0,-71.251 57.762,-129.016 129.017,-129.016 43.422,0 81.804,21.476 105.191,54.359 C 266.984,28.495 207.831,-5.36 143.153,0.699 56.344,8.841 -7.434,85.819 0.699,172.66 c 8.149,86.816 85.121,150.589 171.946,142.447 58.242,-5.458 106.081,-41.889 128.829,-91.484 -22.632,37.216 -63.568,62.074 -110.311,62.074 z"
-         i:knockout="Off" />
-    </g>
-    <switch
-       inkscape:export-ydpi="72"
-       inkscape:export-xdpi="72"
-       inkscape:export-filename="C:\Documents and Settings\staff\Desktop\OSDEV_WORK\08-2007\template-cd-chantra\path3759.png"
-       transform="matrix(0.7150059,0,0,0.7150059,528.85615,100.55734)"
-       id="switch4054-5">
-      <foreignObject
-         id="foreignObject4056-5"
-         height="1"
-         width="1"
-         y="0"
-         x="0"
-         requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
-        <i:pgfRef
-           xlink:href="#adobe_illustrator_pgf" />
-      </foreignObject>
-      <g
-         id="g4058-0"
-         i:extraneous="self">
-        <g
-           i:rgbTrio="#4F008000FFFF"
-           i:dimmedPercent="50"
-           i:layer="yes"
-           id="g4060-1">
-          <radialGradient
-             gradientUnits="userSpaceOnUse"
-             fy="151.0303"
-             fx="206.78999"
-             r="107.1468"
-             cy="151.0303"
-             cx="206.78999"
-             id="radialGradient4062-2">
-            <stop
-               id="stop4064-6"
-               style="stop-color:#FFFFFF"
-               offset="0" />
-            <stop
-               id="stop4066-4"
-               style="stop-color:#FF4100"
-               offset="1" />
-            <a:midPointStop
-               style="stop-color:#FFFFFF"
-               offset="0" />
-            <a:midPointStop
-               style="stop-color:#FFFFFF"
-               offset="0.5" />
-            <a:midPointStop
-               style="stop-color:#FF4100"
-               offset="1" />
-          </radialGradient>
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:url(#radialGradient7593-3)"
-             id="path4068-8"
-             d="m 200.079,40.009 c -37.582,-2.588 -72.647,12.983 -96.115,39.56 20.064,-10.049 43.205,-14.501 67.147,-11.496 64.394,8.076 110.043,66.82 101.971,131.208 -3.048,24.321 -13.34,45.967 -28.416,63.049 33.908,-17.003 58.987,-50.076 64.034,-90.551 7.762,-62.192 -34.613,-119.084 -95.548,-130.127 l -13.073,-1.643 z"
-             i:knockout="Off" />
-          <radialGradient
-             gradientUnits="userSpaceOnUse"
-             fy="194.2466"
-             fx="194.60451"
-             r="75.225197"
-             cy="194.2466"
-             cx="194.60451"
-             id="radialGradient4070-5">
-            <stop
-               id="stop4072-6"
-               style="stop-color:#FFFFFF"
-               offset="0" />
-            <stop
-               id="stop4074-2"
-               style="stop-color:#FFCC00"
-               offset="1" />
-            <a:midPointStop
-               style="stop-color:#FFFFFF"
-               offset="0" />
-            <a:midPointStop
-               style="stop-color:#FFFFFF"
-               offset="0.5" />
-            <a:midPointStop
-               style="stop-color:#FFCC00"
-               offset="1" />
-          </radialGradient>
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:url(#radialGradient7595-0)"
-             id="path4076-5"
-             d="m 243.012,124.012 c 9.554,64.191 -34.741,123.967 -98.927,133.52 -6.567,0.974 -13.077,1.359 -19.5,1.243 34.554,19.897 76.381,20.46 111.014,3.172 14.897,-17.024 25.074,-38.521 28.103,-62.666 3.947,-31.486 -4.981,-61.606 -22.635,-85.127 0.764,3.233 1.445,6.508 1.945,9.858 z"
-             i:knockout="Off" />
-          <radialGradient
-             gradientUnits="userSpaceOnUse"
-             fy="157.90379"
-             fx="150.7368"
-             r="154.36189"
-             cy="157.90379"
-             cx="150.7368"
-             id="radialGradient4078-2">
-            <stop
-               id="stop4080-6"
-               style="stop-color:#FFFFFF"
-               offset="0" />
-            <stop
-               id="stop4082-9"
-               style="stop-color:#0C419A"
-               offset="1" />
-            <a:midPointStop
-               style="stop-color:#FFFFFF"
-               offset="0" />
-            <a:midPointStop
-               style="stop-color:#FFFFFF"
-               offset="0.5" />
-            <a:midPointStop
-               style="stop-color:#0C419A"
-               offset="1" />
-          </radialGradient>
-          <path
-             inkscape:connector-curvature="0"
-             style="fill:url(#radialGradient7597-1)"
-             id="path4084-1"
-             d="m 191.163,285.697 c -71.255,0 -129.017,-57.764 -129.017,-129.02 0,-71.251 57.762,-129.016 129.017,-129.016 43.422,0 81.804,21.476 105.191,54.359 C 266.984,28.495 207.831,-5.36 143.153,0.699 56.344,8.841 -7.434,85.819 0.699,172.66 c 8.149,86.816 85.121,150.589 171.946,142.447 58.242,-5.458 106.081,-41.889 128.829,-91.484 -22.632,37.216 -63.568,62.074 -110.311,62.074 z"
-             i:knockout="Off" />
-        </g>
-      </g>
-    </switch>
-  </g>
 </svg>
