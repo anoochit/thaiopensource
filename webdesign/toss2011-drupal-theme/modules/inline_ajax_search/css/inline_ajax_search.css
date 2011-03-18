@@ -1,0 +1,13 @@
+/* $Id: inline_ajax_search.css,v 1.1.2.3 2010/03/23 11:37:24 fabianderijk Exp $ */
+
+/**
+* @file
+* Styling for the inline ajax search module
+*/
+.searchthrobber { 
+  width: 16px;
+  height: 16px;
+  margin: 2px;
+  background: transparent url(../images/throbber.gif) no-repeat;
+  float: left;
+}

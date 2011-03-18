@@ -1,0 +1,154 @@
+<?php
+// $Id: inline_ajax_search_page.module,v 1.1.2.3 2010/03/29 19:53:39 fabianderijk Exp $
+
+/**
+ * Implementation of hook_menu().
+ */
+function inline_ajax_search_page_menu() {
+  $items = array();
+  $items['search/inline_ajax_search'] = array(
+    'title' => t('AJAX Search'),
+    'description' => t(''),
+    'page callback' => '_inline_ajax_search_page',
+    'access arguments' => array('search with inline_ajax_search_page'),
+    'type' => MENU_LOCAL_TASK,
+  );
+  $items['admin/settings/search/inline/page'] = array(
+    'title' => 'Inline AJAX search page settings',
+    'description' => 'Inline AJAX search page settings',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('inline_ajax_search_page_settings'),
+    'access arguments' => array('administer inline_ajax_search_page'),
+    'type' => MENU_LOCAL_TASK,
+  );
+  return $items;
+}
+
+/**
+ * Implementation of hook_perm().
+ */
+function inline_ajax_search_page_perm() {
+  return array(
+    'administer inline_ajax_search_page',
+    'search with inline_ajax_search_page',
+  );
+}
+
+/**
+ * Implementation of hook_theme().
+ */
+function inline_ajax_search_page_theme() {
+  return array(
+    'inline_ajax_search_theme_page' => array(
+      'arguments' => array('form' => NULL),
+      'template' => 'inline_ajax_search-theme-page',
+    ),
+  );
+}
+
+/**
+ * Create the settings form
+ */
+function inline_ajax_search_page_settings() {
+  $form = array();
+  $form['inline_ajax_page_default'] = array(
+    '#type' => 'checkbox',
+    '#title' => t('Use the default settings'),
+    '#default_value' => variable_get('inline_ajax_page_default', 1),
+  );
+  $form['inline_ajax_is_default'] = array(
+    '#type' => 'item',
+    '#value' => t('If above checkbox is checked all settings below are ignored.'),
+  );
+  $form['inline_ajax_search_count_page'] = array(
+    '#type' => 'textfield',
+    '#title' => t('Maximum number of results shown'),
+    '#default_value' => variable_get('inline_ajax_search_count_page', 10),
+    '#size' => 3,
+    '#maxlength' => 3,
+    '#element_validate' => array('inline_ajax_form_validate'),
+  );
+  $form['inline_ajax_search_snippet_page'] = array(
+    '#type' => 'select',
+    '#title' => t('Show/hide snippet or teaser'),
+    '#default_value' => variable_get('inline_ajax_search_snippet_page', 0),
+    '#options' => array(0 => t('Show none'), 1 => t('Show snippet'), 2 => t('Show teaser')),
+  );
+  $form['inline_ajax_search_target_page'] = array(
+    '#type' => 'select',
+    '#title' => t('Target of the links'),
+    '#default_value' => variable_get('inline_ajax_search_target_page', '_self'),
+    '#options' => array('_self' => t('Self'), '_blank' => t('Blank'), '_top' => t('Top'), '_parent' => t('Parent')),
+  );
+  $form['inline_ajax_show_more_page'] = array(
+      '#type' => 'checkbox',
+      '#title' => t('Show the show more results link'),
+      '#default_value' => variable_get('inline_ajax_show_more_page', 0),
+  );
+  if (module_exists('luceneapi') && module_exists('luceneapi_node')) {
+    $form['inline_ajax_use_lucene_page'] = array(
+      '#type' => 'checkbox',
+      '#title' => t('Use the Search Lucene API'),
+      '#default_value' => variable_get('inline_ajax_use_lucene_page', 0),
+    );
+    $form['inline_ajax_use_lucene_on_enter_page'] = array(
+      '#type' => 'checkbox',
+      '#title' => t('Use the core search when hitting return.'),
+      '#default_value' => variable_get('inline_ajax_use_lucene_on_enter_page', 0),
+    );
+    $form['inline_ajax_wildcard_page'] = array(
+      '#type' => 'select',
+      '#title' => t('Location of the wildcard'),
+      '#default_value' => variable_get('inline_ajax_wildcard_page', 0),
+      '#options' => array(0 => t('End of the word'), 1 => t('Start of the word'), 2 => t('On both start and end')),
+    );
+  }
+    else {
+      $form['inline_ajax_use_lucene_page'] = array(
+        '#type' => 'item',
+        '#title' => t('Search Lucene API'),
+        '#value' => t('If you install the Search Lucene API this module uses wildcards to search with. This has as benefit that you don\'t have to search on a whole word, but on a part of a string.'),
+      );
+    }
+  $form = system_settings_form($form);
+  return $form;
+}
+
+/**
+ * Process variables for inline_ajax_search-theme-page.tpl.php.
+ *
+ * The $variables array contains the following arguments:
+ * - $form
+ *
+ * @see inline_ajax_search-theme-page.tpl.php,
+ */
+function template_preprocess_inline_ajax_search_theme_page(&$variables) {
+  global $language;
+  global $_IAS_page;
+  $_IAS_page = TRUE;
+  $settings = array('IAS_settings' => array(
+    'word_size' => variable_get('minimum_word_size', 3),
+    'resultsShown' => FALSE,
+    'countCharsShown' => FALSE,
+    'countCharTimeout' => variable_get('inline_ajax_search_counttimeout', 1000),
+    'pCountCharTimeout' => variable_get('inline_ajax_search_counttimeout_page', 1000),
+    'IAS_el' => NULL,
+    'IAS_el_res' => NULL,
+    'pIAS_el' => NULL,
+    'pIAS_el_res' => NULL,
+  ));
+  drupal_add_js($settings, 'setting');
+  drupal_add_js(drupal_get_path('module', 'inline_ajax_search_page') . '/js/inline_ajax_search_page.js');
+  
+  $variables['inline_ajax_search'] = new stdClass();
+  $variables['inline_ajax_search']->types = variable_get('inline_ajax_search_types' . $ext, array());
+  $variables['inline_ajax_search']->count = variable_get('inline_ajax_search_count' . $ext, 10);
+  $variables['inline_ajax_search']->formurl = url('search/inline_ajax_search/post', array('language' => $language));
+}
+
+/**
+ * Function called when openeing search page
+ */
+function _inline_ajax_search_page() {
+  return theme('inline_ajax_search_theme_page');
+}

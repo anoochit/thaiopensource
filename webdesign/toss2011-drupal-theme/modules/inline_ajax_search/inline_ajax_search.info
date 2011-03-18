@@ -1,0 +1,13 @@
+; $Id: inline_ajax_search.info,v 1.2.2.2 2010/03/23 11:37:24 fabianderijk Exp $
+name = Inline AJAX search
+description = Module that shows the search results via AJAX. If Search Lucene API is installed this module can be used.
+package = AJAX
+core = 6.x
+dependencies[] = search
+dependencies[] = jquery_update
+; Information added by drupal.org packaging script on 2010-06-11
+version = "6.x-3.9"
+core = "6.x"
+project = "inline_ajax_search"
+datestamp = "1276260612"
+

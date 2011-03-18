@@ -1,0 +1,22 @@
+<?php 
+// $Id: inline_ajax_search.install,v 1.1.2.3 2010/03/23 11:37:24 fabianderijk Exp $
+/**
+ * @file
+ * Install, update and uninstall functions for the inline_ajax_search module.
+ */
+
+function inline_ajax_search_install() {
+  if (module_exists('luceneapi') && module_exists('luceneapi_node')) {
+    if (variable_get('luceneapi_node:results_per_page', 10) < 150) {
+      variable_set('luceneapi_node:results_per_page', 150);
+    }
+  }
+}
+
+function inline_ajax_search_update_6001() {
+  if (module_exists('luceneapi') && module_exists('luceneapi_node')) {
+    if (variable_get('luceneapi_node:results_per_page', 10) < 150) {
+      variable_set('luceneapi_node:results_per_page', 150);
+    }
+  }
+}

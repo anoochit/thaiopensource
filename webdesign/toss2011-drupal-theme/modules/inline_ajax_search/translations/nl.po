@@ -1,0 +1,137 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  inline_ajax_search-theme-form.tpl.php,v 1.4.2.2 2010/02/03 16:12:43 fabianderijk
+#  inline_ajax_search.module,v 1.4.2.4 2010/02/05 16:05:48 fabianderijk
+#  inline_ajax_search.info,v 1.2.2.1 2010/01/28 16:16:12 fabianderijk
+#  inline_ajax_search.inc,v 1.1.2.1 2010/02/05 16:05:48 fabianderijk
+#  inline_ajax_search.js,v 1.3.2.4 2010/02/05 16:05:48 fabianderijk
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: inline_ajax_search\n"
+"POT-Creation-Date: 2010-02-09 15:17+0100\n"
+"PO-Revision-Date: 2010-02-09 15:40+0100\n"
+"Last-Translator: Fabian de Rijk <info@fabianderijk.nl>\n"
+"Language-Team: fabianderijk, seanpenn079 <info@fabianderijk.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+
+#: inline_ajax_search-theme-form.tpl.php:11
+msgid "type a keyword"
+msgstr "zoek op trefwoord"
+
+#: inline_ajax_search.module:43
+msgid "Maximum number of results shown"
+msgstr "Maximum aantal getoonde resultaten"
+
+#: inline_ajax_search.module:51
+msgid "Show/hide snippet or teaser"
+msgstr "Toon of verberg de \"snippet\""
+
+#: inline_ajax_search.module:53
+msgid "Show none"
+msgstr "Toon niets"
+
+#: inline_ajax_search.module:53
+msgid "Show snippet"
+msgstr "Toon \"snippet\""
+
+#: inline_ajax_search.module:53
+msgid "Show teaser"
+msgstr "Toon voorbeeldweergave"
+
+#: inline_ajax_search.module:57
+msgid "Show the show more results link"
+msgstr "Toon de \"meer resultaten\" link"
+
+#: inline_ajax_search.module:63
+msgid "Use the Search Lucene API"
+msgstr "Gebruik de Search Lucene API"
+
+#: inline_ajax_search.module:68
+msgid "Location of the wildcard"
+msgstr "Plaats van de wildcard"
+
+#: inline_ajax_search.module:70
+msgid "End of the word"
+msgstr "Einde van het woord"
+
+#: inline_ajax_search.module:70
+msgid "Start of the word"
+msgstr "Begin van het woord"
+
+#: inline_ajax_search.module:70
+msgid "On both start and end"
+msgstr "Aan het begin en het einde"
+
+#: inline_ajax_search.module:77
+msgid "If you install the Search Lucene API this module uses wildcards to search with. This has as benefit that you don't have to search on a whole word, but on a part of a string."
+msgstr "Als er de Search Lucene API is geinstalleerd kan deze module wildcards gebruiken. Dit heeft als voordeel dat er niet alleen gezocht kan worden op een heel woord, maar ook op een deel van een woord."
+
+#: inline_ajax_search.module:86
+msgid "This has to be a number."
+msgstr "Dit moet een nummer zijn."
+
+#: inline_ajax_search.module:108
+msgid "Inline AJAX search form"
+msgstr "Inline AJAX zoek formulier"
+
+#: inline_ajax_search.module:248
+msgid "You must include at least one positive keyword with @count characters or more."
+msgstr ""
+
+#: inline_ajax_search.module:339
+msgid "You have to search with more than @count characters."
+msgstr "Er moet gezocht woren met meer dan @count karakters."
+
+#: inline_ajax_search.module:252
+msgid "Search for either of the two terms with uppercase <strong>OR</strong>. For example, <strong>cats OR dogs</strong>."
+msgstr ""
+
+#: inline_ajax_search.module:17;18
+msgid "Inline AJAX search settings"
+msgstr "Inline Ajax zoek instellingen"
+
+#: inline_ajax_search.info:0
+msgid "Inline AJAX search"
+msgstr "Inline AJAX search"
+
+#: inline_ajax_search.info:0
+msgid "Module that shows the search results via AJAX. If Search Lucene API is installed this module can be used."
+msgstr "Module die de zoekresultaten kan tonen via AJAX. Als de Search Lucene API module is geinstalleerd kan deze worden gebruikt samen met de Inline AJAX Search module."
+
+#: inline_ajax_search.info:0
+msgid "AJAX"
+msgstr "AJAX"
+
+#: includes/inline_ajax_search.inc:57
+msgid "Found"
+msgstr "Er zijn"
+
+#: includes/inline_ajax_search.inc:57
+msgid "results. "
+msgstr "resultaten gevonden"
+
+#: includes/inline_ajax_search.inc:57
+msgid "Show more >>"
+msgstr "Toon meer >>"
+
+#: includes/inline_ajax_search.inc:61
+msgid "No results were found. Try with a different term."
+msgstr "Er zijn geen resultaten gevonden. Probeer te zoeken met een ander trefwoord."
+
+#: js/inline_ajax_search.js:0
+msgid "You have to search with more than "
+msgstr "Er moet gezocht worden met meer dan"
+
+#: js/inline_ajax_search.js:0
+msgid " characters."
+msgstr " karakters"
+

@@ -1,0 +1,12 @@
+; $Id: inline_ajax_search_page.info,v 1.1.2.1 2010/03/24 11:26:36 fabianderijk Exp $
+name = Inline AJAX search page
+description = Sub module that enables a search page
+package = AJAX
+core = 6.x
+dependencies[] = inline_ajax_search
+; Information added by drupal.org packaging script on 2010-06-11
+version = "6.x-3.9"
+core = "6.x"
+project = "inline_ajax_search"
+datestamp = "1276260612"
+
