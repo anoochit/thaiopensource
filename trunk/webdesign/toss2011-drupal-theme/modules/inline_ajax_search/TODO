@@ -1,0 +1,18 @@
+Still to Do
+# Add translations
+# Option to use Apache Solr when installed
+# Option to use context search with Lucene
+# Create comments in PHP and JavaScript
+# Better javascript (no double scripts as it is now)
+# Add views support (See http://drupal.org/node/773766)
+
+Fixed:
+# In the PHP use better t function, for better translatable strings
+# Option to use the search also as a page in stead of only a block 
+# Put the JavaScript variables in the Drupal.settings object in stead of his own inline script
+# Place all the variables in the Drupal object (Drupal.inline_ajax_search). 
+# Create tabs and default page for page settings, maybe even re-order the settings form
+# On install or update set the Lucene API Search count to 150
+# Dutch translation added
+# Use a correct path to search for outside the admin path
+# Minimize the JavaScript, not needed because of performance settins in drupal core

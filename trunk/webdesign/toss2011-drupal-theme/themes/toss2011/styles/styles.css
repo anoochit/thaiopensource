@@ -1,0 +1,147 @@
+/* $Id: styles.css,v 1.1 2009/01/31 21:28:46 dvessel Exp $ */
+
+h1#site-name {
+  margin-bottom: 0;
+}
+
+#site-header,
+#site-subheader,
+#footer-region,
+.column,
+.node,
+.comment,
+.block {
+  margin-bottom: 1.5em;
+}
+
+/*
+** Formatting for administration page
+**
+** The admin panel styles are a mess. IE has problems with this so this is
+** only a temporary fix. This should be fixed in core.
+*/
+div.admin-panel {
+  padding: 0;
+}
+
+div.admin-panel .body {
+  padding: 0 !important;
+}
+
+div.admin .left,
+div.admin .right {
+  width: 50%;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+div.admin .right .admin-panel {
+  margin-left: 10px;
+}
+
+
+/* customized */
+
+#inline_ajax_search_container {
+    text-align: center;
+    
+}
+
+#inline_ajax_search {
+    background: #eee;
+    border: 1px solid #ccc;
+    font-size: 18pt;
+    width: 600px;
+    height: 40px;
+}
+
+#inline_ajax_search_results {
+   background: #53301b;
+   margin: 0 169px;
+   text-align: left;
+}
+
+.searchresult  {
+   height:30px;
+   border-bottom: 1px dashed #aaa;
+}
+
+.searchresult h3 a {
+   margin: 0 20px;
+   font-size: 10pt;
+   text-decoration: none;
+   font-weight: normal;
+   color: #fff;   
+}
+
+#logo {
+   text-align: center;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+
+@font-face {
+   font-family: SPLaksaman;
+   src: url('fonts/SPLaksaman.ttf') format('truetype');
+}
+
+@font-face {
+   font-family: SPLaksamanBold;
+   src: url('fonts/SPLaksaman-Bold.ttf') format('truetype');
+}
+
+
+body {
+  font-family: SPLaksaman,sans;
+  font-size: 16px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+.main-menu {
+  background: #53301b;
+  -moz-border-radius-bottomleft: 5px;
+  -webkit-border-bottom-left-radius: 5px;
+  -moz-border-radius-bottomright: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  height:28px;
+}
+
+
+.main-menu li {
+  font-size: 15px;
+}
+
+
+.main-menu li a {
+  text-decoration:none; 
+  color: #fff;  
+  padding-left:10px;
+}
+
+div #area3 {
+  background: #eee; 
+}
+
+div #area2 {
+  background: #eee; 
+}
+
+div #area1 {
+  background: #eee; 
+}
+
+
+div #area h2 {
+  padding: 10px;
+  margin-bottom: -10px
+}
+
+div #area p {
+  padding: 10px;
+}
+
+
