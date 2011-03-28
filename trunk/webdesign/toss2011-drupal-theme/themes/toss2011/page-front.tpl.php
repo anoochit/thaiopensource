@@ -10,9 +10,13 @@
   <?php print $head; ?>
   <?php print $styles; ?>
   <?php print $scripts; ?>
+<link rel="alternate" type="application/rss+xml" title="News Feed" href="http://www.thaiopensource.org/view/feed/news" />
+<link rel="alternate" type="application/rss+xml" title="Article Feed" href="http://www.thaiopensource.org/view/feed/article" />
+<link rel="alternate" type="application/rss+xml" title="Review Feed" href="http://www.thaiopensource.org/view/feed/review" />
+<link rel="alternate" type="application/rss+xml" title="How To Feed" href="http://www.thaiopensource.org/view/feed/howto" />
 </head>
 
-<body class="<?php print $body_classes; ?> show-grid">
+<body class="<?php print $body_classes; ?> ">
   <div id="page" class="container-16 clear-block">
  
     <div id="site-header" class="clear-block">
@@ -39,10 +43,9 @@
     <?php endif; ?>
     </div>
 
-
     <div id="main" class="column grid-16 ">
       <div id="main-content" class="region clear-block">
-        <!--<?php print $content; ?>-->
+        <?php //print $content; ?>
       </div>
 
       <?php print $feed_icons; ?>
@@ -52,12 +55,13 @@
       <div id="area1" class="grid-6 alpha">
          <?php print $area1; ?>
       </div>
-      <div id="area2" class="grid-6">   
+      <div id="area2" class="grid-5">   
          <?php print $area2; ?>
       </div>
-      <div id="area3" class="grid-4 omega">   
+      <div id="area3" class="grid-5 omega">   
          <?php print $area3; ?>
       </div>
+
   </div>
 
   <div id="footer" class="prefix-0 suffix-0">

@@ -10,41 +10,21 @@
   <?php print $head; ?>
   <?php print $styles; ?>
   <?php print $scripts; ?>
+<link rel="alternate" type="application/rss+xml" title="News Feed" href="http://www.thaiopensource.org/view/feed/news" />
+<link rel="alternate" type="application/rss+xml" title="Article Feed" href="http://www.thaiopensource.org/view/feed/article" />
+<link rel="alternate" type="application/rss+xml" title="Review Feed" href="http://www.thaiopensource.org/view/feed/review" />
+<link rel="alternate" type="application/rss+xml" title="How To Feed" href="http://www.thaiopensource.org/view/feed/howto" />
 </head>
 
-<body class="<?php print $body_classes; ?> show-grid">
+<body class="<?php print $body_classes; ?>">
   <div id="page" class="container-16 clear-block">
 
     <div id="site-header" class="clear-block">
-      <div id="branding" class="grid-4 clear-block">
-      <?php if ($linked_logo_img): ?>
-        <span id="logo" class="grid-1 alpha"><?php print $linked_logo_img; ?></span>
-      <?php endif; ?>
-      <?php if ($linked_site_name): ?>
-        <h1 id="site-name" class="grid-3 omega"><?php print $linked_site_name; ?></h1>
-      <?php endif; ?>
-      <?php if ($site_slogan): ?>
-        <div id="site-slogan" class="grid-3 omega"><?php print $site_slogan; ?></div>
-      <?php endif; ?>
-      </div>
-
+ 
     <?php if ($main_menu_links || $secondary_menu_links): ?>
-      <div id="site-menu" class="grid-12">
+      <div id="site-menu" class="grid-16">
         <?php print $main_menu_links; ?>
         <?php print $secondary_menu_links; ?>
-      </div>
-    <?php endif; ?>
-
-    <?php if ($search_box): ?>
-      <div id="search-box" class="grid-6 prefix-10"><?php print $search_box; ?></div>
-    <?php endif; ?>
-    </div>
-
-
-    <div id="site-subheader" class="prefix-0 suffix-0 clear-block">
-    <?php if ($mission): ?>
-      <div id="mission" class="<?php print ns('grid-14', $header, 7); ?>">
-        <?php print $mission; ?>
       </div>
     <?php endif; ?>
 
@@ -54,10 +34,15 @@
       </div>
     <?php endif; ?>
     </div>
+    
+    <div id="header-logo" class="region grid-16 clear-block">
+	<div id="logomini" class="grid-10 alpha">	
+		<img id="logo-mini" src="<?php print base_path().path_to_theme(); ?>/images/tosslogo-mini.png">
+ 	</div>
+    </div>
 
-
-    <div id="main" class="column <?php print ns('grid-16', $left, 4, $right, 3) . ' ' . ns('push-4', !$left, 4); ?>">
-      <?php print $breadcrumb; ?>
+    <div id="main" class="column <?php print ns('grid-11', $left, 0, $right, 0) . ' ' . ns('push-0', !$left, 0); ?>">
+      <?php //print $breadcrumb; ?>
       <?php if ($title): ?>
         <h1 class="title" id="page-title"><?php print $title; ?></h1>
       <?php endif; ?>
@@ -70,18 +55,12 @@
       <div id="main-content" class="region clear-block">
         <?php print $content; ?>
       </div>
-
       <?php print $feed_icons; ?>
     </div>
 
-  <?php if ($left): ?>
-    <div id="sidebar-left" class="column sidebar region grid-4 <?php print ns('pull-12', $right, 3); ?>">
-      <?php print $left; ?>
-    </div>
-  <?php endif; ?>
 
   <?php if ($right): ?>
-    <div id="sidebar-right" class="column sidebar region grid-3">
+    <div id="sidebar-right" class="column sidebar region grid-5">
       <?php print $right; ?>
     </div>
   <?php endif; ?>
