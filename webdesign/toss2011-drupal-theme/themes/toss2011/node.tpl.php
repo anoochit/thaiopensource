@@ -83,5 +83,5 @@
     <?php print $content ?>
   </div>
 
-  <?php print $links; ?>
+  <div id="nodefooter"><?php print $links; ?></div>
 </div>

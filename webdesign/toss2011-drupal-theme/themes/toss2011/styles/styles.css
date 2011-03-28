@@ -1,5 +1,16 @@
 /* $Id: styles.css,v 1.1 2009/01/31 21:28:46 dvessel Exp $ */
 
+@font-face {
+   font-family: SPLaksaman;
+   src: url('http://thaiopensource.org/sites/default/themes/toss2011/fonts/SPLaksaman.ttf') format('truetype');
+}
+
+@font-face {
+   font-family: SPLaksamanBold;
+   src: url('http://thaiopensource.org/sites/default/themes/toss2011/fonts/SPLaksaman-Bold.ttf') format('truetype');
+}
+
+
 h1#site-name {
   margin-bottom: 0;
 }
@@ -48,17 +59,22 @@ div.admin .right .admin-panel {
 }
 
 #inline_ajax_search {
-    background: #eee;
     border: 1px solid #ccc;
-    font-size: 18pt;
+    font-size: 16pt;
     width: 600px;
     height: 40px;
+    font-family: SPLaksaman,sans;
+    background: url("http://thaiopensource.org/sites/default/themes/toss2011/images/input.png") repeat-x scroll left top #eee;
+  border-radius:5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
 }
 
 #inline_ajax_search_results {
-   background: #53301b;
+   background: #552200;
    margin: 0 169px;
    text-align: left;
+   color: #fff;
 }
 
 .searchresult  {
@@ -67,7 +83,7 @@ div.admin .right .admin-panel {
 }
 
 .searchresult h3 a {
-   margin: 0 20px;
+   margin: 0 10px;
    font-size: 10pt;
    text-decoration: none;
    font-weight: normal;
@@ -81,57 +97,39 @@ div.admin .right .admin-panel {
 }
 
 
-@font-face {
-   font-family: SPLaksaman;
-   src: url('fonts/SPLaksaman.ttf') format('truetype');
-}
-
-@font-face {
-   font-family: SPLaksamanBold;
-   src: url('fonts/SPLaksaman-Bold.ttf') format('truetype');
-}
-
-
 body {
   font-family: SPLaksaman,sans;
-  font-size: 16px;
+  font-size: 14px;
 }
 
-h2 {
-  font-size: 24px;
+h1,h2 {
+  font-family: SPLaksamanBold;
+  font-size: 22px;
 }
 
 .main-menu {
-  background: #53301b;
+  background: #552200;
+  border-bottom-left-radius:5px;
   -moz-border-radius-bottomleft: 5px;
   -webkit-border-bottom-left-radius: 5px;
+  border-bottom-right-radius:5px;
   -moz-border-radius-bottomright: 5px;
   -webkit-border-bottom-right-radius: 5px;
-  height:28px;
+  height:24px;
 }
 
 
 .main-menu li {
-  font-size: 15px;
+
 }
 
 
 .main-menu li a {
   text-decoration:none; 
   color: #fff;  
-  padding-left:10px;
-}
-
-div #area3 {
-  background: #eee; 
-}
-
-div #area2 {
-  background: #eee; 
-}
-
-div #area1 {
-  background: #eee; 
+  padding-left:5px;
+  padding-right:5px;
+  font-size:14px;
 }
 
 
@@ -140,8 +138,160 @@ div #area h2 {
   margin-bottom: -10px
 }
 
+
 div #area p {
-  padding: 10px;
+  padding: 0px;
 }
 
 
+a, #page-title, .block h2 {
+   color:#552200;
+   text-decoration:none;
+}
+
+
+#footer {
+   font-size:14px;
+   text-align:center;
+}
+
+
+div #area1, #area1 a,div #area2,div #area3 {
+  background: #552200;
+  border-radius:5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  color: #fff;
+}
+
+
+#area1 h2,#area2 h2,#area3 h2 {
+  font-family: SPLaksamanBold,sans; 
+  font-size:16px;
+color:#fff;
+}
+
+
+#area1 ul,#area2 ul,#area3 ul {
+  margin-top: 20px;
+}
+
+
+.content li {
+  margin-left: 35px
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+.meta {
+  margin-bottom: 10px; 
+}
+
+#page {
+   background: #fff;
+}
+
+ul.links {
+   padding: 3px;
+}
+
+.status {
+   margin-left: 35px
+}
+
+
+.searchthrobber {
+    display: block;
+   height : 16px;
+   width : 16px;
+margin-top: -30px;
+   margin-left:740px;
+    position: relative;
+    z-index: 30;
+}
+
+
+.item-list {
+font-size:12px;
+}
+
+.front li {
+font-size:14px;
+}
+
+.facebookshare-box {
+padding-bottom: 10px;
+padding-left: 10px;
+}
+
+
+#sidebar-right .block, #main-content .block {
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #eee;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border: 1px solid #bbb;
+}
+
+
+#sidebar-right {
+  background:#fff;
+  border-radius:5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+
+#logomini {
+   height: 100px;
+   margin-left: 20px;
+}
+
+.views-table tr th{
+  background: #eee;
+}
+
+code {
+  border-left: 3px solid #793000;
+  padding-left: 5px;
+  background: #eee;
+}
+
+#nodefooter {
+  background: #eee;
+  border-radius:2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border: 1px solid #bbb;
+}
+
+.textwidget {
+  text-align: center;
+margin-top:12px;
+}
+
+#facemask {
+    background-position : -600px;
+    display: block;
+    height: 300px;
+    margin: 0 0 -300px;
+    position: relative;
+    z-index: 90;
+}
+
+.picture {
+  float: right;
+  padding-left: 10px;
+}
+
+.comment {
+ border: 1px solid #bbb;
+ border-radius:5px;
+ -moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+ padding: 5px;
+ background: #eee;
+}
