@@ -20,7 +20,7 @@
    inkscape:version="0.48.0 r9654"
    sodipodi:docname="cover-outside.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/home/gumara/Desktop/chantra54.png"
+   inkscape:export-filename="/home/gumara/Desktop/aa.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <metadata
@@ -38,9 +38,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="1.1486833"
-     inkscape:cx="486.89435"
-     inkscape:cy="178.63847"
+     inkscape:zoom="1.1701073"
+     inkscape:cx="436.79734"
+     inkscape:cy="193.31459"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:current-layer="svg2"
@@ -11204,6 +11204,174 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       id="XMLID_4_-4"
+       cx="206.78999"
+       cy="151.0303"
+       r="107.1468"
+       fx="206.78999"
+       fy="151.0303"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop7277-8" />
+      <stop
+         offset="1"
+         style="stop-color:#FF4100"
+         id="stop7279-1" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#FF4100" />
+    </radialGradient>
+    <radialGradient
+       id="XMLID_5_-9"
+       cx="194.60451"
+       cy="194.2466"
+       r="75.225197"
+       fx="194.60451"
+       fy="194.2466"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop7272-3" />
+      <stop
+         offset="1"
+         style="stop-color:#FFCC00"
+         id="stop7274-9" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#FFCC00" />
+    </radialGradient>
+    <radialGradient
+       id="XMLID_6_-8"
+       cx="150.7368"
+       cy="157.90379"
+       r="154.36189"
+       fx="150.7368"
+       fy="157.90379"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF"
+         id="stop28-8" />
+      <stop
+         offset="1"
+         style="stop-color:#0C419A"
+         id="stop30-5" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#FFFFFF" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#0C419A" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_4_-4"
+       id="radialGradient5891"
+       gradientUnits="userSpaceOnUse"
+       cx="206.78999"
+       cy="151.0303"
+       fx="206.78999"
+       fy="151.0303"
+       r="107.1468" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_5_-9"
+       id="radialGradient5893"
+       gradientUnits="userSpaceOnUse"
+       cx="194.60451"
+       cy="194.2466"
+       fx="194.60451"
+       fy="194.2466"
+       r="75.225197" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_6_-8"
+       id="radialGradient5895"
+       gradientUnits="userSpaceOnUse"
+       cx="150.7368"
+       cy="157.90379"
+       fx="150.7368"
+       fy="157.90379"
+       r="154.36189" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_4_-4"
+       id="radialGradient4915"
+       gradientUnits="userSpaceOnUse"
+       cx="206.78999"
+       cy="151.0303"
+       fx="206.78999"
+       fy="151.0303"
+       r="107.1468" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_5_-9"
+       id="radialGradient4917"
+       gradientUnits="userSpaceOnUse"
+       cx="194.60451"
+       cy="194.2466"
+       fx="194.60451"
+       fy="194.2466"
+       r="75.225197" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_6_-8"
+       id="radialGradient4919"
+       gradientUnits="userSpaceOnUse"
+       cx="150.7368"
+       cy="157.90379"
+       fx="150.7368"
+       fy="157.90379"
+       r="154.36189" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_4_-4"
+       id="radialGradient4942"
+       gradientUnits="userSpaceOnUse"
+       cx="206.78999"
+       cy="151.0303"
+       fx="206.78999"
+       fy="151.0303"
+       r="107.1468" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_5_-9"
+       id="radialGradient4944"
+       gradientUnits="userSpaceOnUse"
+       cx="194.60451"
+       cy="194.2466"
+       fx="194.60451"
+       fy="194.2466"
+       r="75.225197" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_6_-8"
+       id="radialGradient4946"
+       gradientUnits="userSpaceOnUse"
+       cx="150.7368"
+       cy="157.90379"
+       fx="150.7368"
+       fy="157.90379"
+       r="154.36189" />
   </defs>
   <g
      id="g5656-3"
@@ -12540,4 +12708,141 @@
      x="360.79565"
      y="-915.74097"
      transform="matrix(0,1,-1,0,0,0)" />
+  <g
+     id="g4923"
+     transform="translate(10.472189,-135.24755)">
+    <rect
+       y="513.35132"
+       x="359.20175"
+       height="16.379702"
+       width="16.379702"
+       id="rect4921"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <switch
+       style="stroke:none"
+       inkscape:export-ydpi="72"
+       inkscape:export-xdpi="72"
+       inkscape:export-filename="C:\Documents and Settings\staff\Desktop\OSDEV_WORK\08-2007\template-cd-chantra\path3759.png"
+       transform="matrix(0.04913064,0,0,0.04913064,359.78577,513.78325)"
+       id="switch4054-0">
+      <foreignObject
+         id="foreignObject4056-3"
+         height="1"
+         width="1"
+         y="0"
+         x="0"
+         requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+        <i:pgfRef
+           xlink:href="#adobe_illustrator_pgf" />
+      </foreignObject>
+      <g
+         style="stroke:none"
+         id="g4058-04"
+         i:extraneous="self">
+        <g
+           style="stroke:none"
+           i:rgbTrio="#4F008000FFFF"
+           i:dimmedPercent="50"
+           i:layer="yes"
+           id="g4060-4">
+          <radialGradient
+             gradientUnits="userSpaceOnUse"
+             fy="151.0303"
+             fx="206.78999"
+             r="107.1468"
+             cy="151.0303"
+             cx="206.78999"
+             id="radialGradient4062-4">
+            <stop
+               id="stop4064-4"
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <stop
+               id="stop4066-7"
+               style="stop-color:#FF4100"
+               offset="1" />
+            <a:midPointStop
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <a:midPointStop
+               style="stop-color:#FFFFFF"
+               offset="0.5" />
+            <a:midPointStop
+               style="stop-color:#FF4100"
+               offset="1" />
+          </radialGradient>
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient4942);stroke:none"
+             id="path4068-6"
+             d="m 200.079,40.009 c -37.582,-2.588 -72.647,12.983 -96.115,39.56 20.064,-10.049 43.205,-14.501 67.147,-11.496 64.394,8.076 110.043,66.82 101.971,131.208 -3.048,24.321 -13.34,45.967 -28.416,63.049 33.908,-17.003 58.987,-50.076 64.034,-90.551 7.762,-62.192 -34.613,-119.084 -95.548,-130.127 l -13.073,-1.643 z"
+             i:knockout="Off" />
+          <radialGradient
+             gradientUnits="userSpaceOnUse"
+             fy="194.2466"
+             fx="194.60451"
+             r="75.225197"
+             cy="194.2466"
+             cx="194.60451"
+             id="radialGradient4070-3">
+            <stop
+               id="stop4072-1"
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <stop
+               id="stop4074-7"
+               style="stop-color:#FFCC00"
+               offset="1" />
+            <a:midPointStop
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <a:midPointStop
+               style="stop-color:#FFFFFF"
+               offset="0.5" />
+            <a:midPointStop
+               style="stop-color:#FFCC00"
+               offset="1" />
+          </radialGradient>
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient4944);stroke:none"
+             id="path4076-59"
+             d="m 243.012,124.012 c 9.554,64.191 -34.741,123.967 -98.927,133.52 -6.567,0.974 -13.077,1.359 -19.5,1.243 34.554,19.897 76.381,20.46 111.014,3.172 14.897,-17.024 25.074,-38.521 28.103,-62.666 3.947,-31.486 -4.981,-61.606 -22.635,-85.127 0.764,3.233 1.445,6.508 1.945,9.858 z"
+             i:knockout="Off" />
+          <radialGradient
+             gradientUnits="userSpaceOnUse"
+             fy="157.90379"
+             fx="150.7368"
+             r="154.36189"
+             cy="157.90379"
+             cx="150.7368"
+             id="radialGradient4078-6">
+            <stop
+               id="stop4080-2"
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <stop
+               id="stop4082-1"
+               style="stop-color:#0C419A"
+               offset="1" />
+            <a:midPointStop
+               style="stop-color:#FFFFFF"
+               offset="0" />
+            <a:midPointStop
+               style="stop-color:#FFFFFF"
+               offset="0.5" />
+            <a:midPointStop
+               style="stop-color:#0C419A"
+               offset="1" />
+          </radialGradient>
+          <path
+             inkscape:connector-curvature="0"
+             style="fill:url(#radialGradient4946);stroke:none"
+             id="path4084-7"
+             d="m 191.163,285.697 c -71.255,0 -129.017,-57.764 -129.017,-129.02 0,-71.251 57.762,-129.016 129.017,-129.016 43.422,0 81.804,21.476 105.191,54.359 C 266.984,28.495 207.831,-5.36 143.153,0.699 56.344,8.841 -7.434,85.819 0.699,172.66 c 8.149,86.816 85.121,150.589 171.946,142.447 58.242,-5.458 106.081,-41.889 128.829,-91.484 -22.632,37.216 -63.568,62.074 -110.311,62.074 z"
+             i:knockout="Off" />
+        </g>
+      </g>
+    </switch>
+  </g>
 </svg>
