@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="cert2.svg"
-   inkscape:export-filename="/home/gumara/sipa-oss-cert4.png"
+   inkscape:export-filename="/home/gumara/tos-artwork/cert2.png"
    inkscape:export-xdpi="300.01077"
    inkscape:export-ydpi="300.01077">
   <defs
@@ -94,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
