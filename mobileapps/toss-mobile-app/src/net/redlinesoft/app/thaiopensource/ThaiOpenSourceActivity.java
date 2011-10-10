@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Context;
 import android.net.ConnectivityManager;
 import android.os.Bundle;
+import android.view.KeyEvent;
 import android.view.Window;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
@@ -18,7 +19,8 @@ public class ThaiOpenSourceActivity extends Activity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		this.getWindow().requestFeature(Window.FEATURE_PROGRESS);
+		//this.getWindow().requestFeature(Window.FEATURE_PROGRESS);
+		this.getWindow().requestFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.main);
 
 		if (!chkStatus()) {
@@ -73,6 +75,15 @@ public class ThaiOpenSourceActivity extends Activity {
 		}
 
 	}
+		
+	
+	@Override
+	public void onBackPressed() {
+		// TODO Auto-generated method stub
+		return ;
+		
+	}
+
 
 	/**
 	 * check status
