@@ -24,7 +24,7 @@
    </div><!-- /content -->
 
     <footer data-role="footer" data-position="fixed">
-      <h4>www.thaiopensource.org</h4>
+      <h4>thaiopensource.org</h4>
    </footer>
 </div><!-- /page -->
 
