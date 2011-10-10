@@ -4,14 +4,15 @@
 <div data-role="page">
 
    <header data-role="header" >
-      <a  data-rel="back" data-role="button" data-icon="back" data-iconpos="notext">Back</a>
+      <a href="index.php" data-role="button" data-icon="back" >Back</a>
       <h1><?php echo ucwords($siteName); ?></h1>
-      <a href="index.php" data-role="button" data-icon="home" data-iconpos="notext">Home</a>
+      <a href="site.php?siteName=<?=$siteName; ?>&=<?=time();?>" data-role="button" data-icon="refresh">Reload</a>
    </header><!-- /header -->
 
    <div data-role="content">	
 
       <ul data-role="listview" data-theme="c">
+      <li> </li>
       <?php
             foreach($feed->query->results->item as $item) {
                //$comments = $item->comments[1];
@@ -24,7 +25,7 @@
    </div><!-- /content -->
 
     <footer data-role="footer" data-position="fixed">
-      <h4>thaiopensource.org</h4>
+      <h4> &copy; <?=date("Y");?> thaiopensource.org</h4>
    </footer>
 </div><!-- /page -->
 
