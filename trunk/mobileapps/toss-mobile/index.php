@@ -3,7 +3,7 @@
  <div data-role="page">
 
    <header data-role="header" data-them="a">
-	<h1>Thai Open Source on Mob!le</h1>
+	<h1>TOSS Mob!le</h1>
    </header>
 
    <div data-role="content">
@@ -27,7 +27,7 @@
    </div>
 
    <footer data-role="footer" data-position="fixed">
-	<h4>www.thaiopensource.org</h4>
+	<h4>thaiopensource.org</h4>
    </footer>
 
  </div>

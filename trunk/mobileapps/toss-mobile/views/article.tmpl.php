@@ -11,12 +11,11 @@
 
    <div data-role="content">	
         <h1><?php echo $feed->title; ?> </h1>
-        <div><?php echo str_replace("read more","",$feed->description); ?> </div>
-        
+        <div><?php echo str_replace("read more","",$feed->description); ?> </div>        
    </div><!-- /content -->
 
    <footer data-role="footer" data-position="fixed">
-      <center><a href="<?php echo $feed->link;?>" data-role="button" data-inline="true" data-theme="b">อ่านต่อ...</a>
+      <h4>thaiopensource.org</h4>
    </footer>
 </div>
 
