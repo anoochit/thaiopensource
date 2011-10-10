@@ -4,9 +4,8 @@
 <div data-role="page">
 
    <header data-role="header" class="<?php echo $siteName; ?>">
-      <a  data-rel="back" data-role="button" data-icon="back" data-iconpos="notext">Back</a>
+      <a  data-rel="back" data-role="button" data-icon="back" >Back</a>
       <h1> <?php echo $feed->title; ?> </h1>
-     <a href="index.php" data-role="button" data-icon="home" data-iconpos="notext">Home</a>
    </header><!-- /header -->
 
    <div data-role="content">	
@@ -15,7 +14,7 @@
    </div><!-- /content -->
 
    <footer data-role="footer" data-position="fixed">
-      <h4>thaiopensource.org</h4>
+      <h4> &copy; <?=date("Y");?> thaiopensource.org</h4>
    </footer>
 </div>
 

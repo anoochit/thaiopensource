@@ -27,7 +27,7 @@
    </div>
 
    <footer data-role="footer" data-position="fixed">
-	<h4>thaiopensource.org</h4>
+	<h4> &copy; <?=date("Y");?> thaiopensource.org</h4>
    </footer>
 
  </div>
