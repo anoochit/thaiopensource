@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.content.Context;
 import android.net.ConnectivityManager;
 import android.os.Bundle;
+import android.view.KeyEvent;
 import android.view.Window;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
@@ -18,7 +19,7 @@ public class ThaiOpenSourceActivity extends Activity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		//this.getWindow().requestFeature(Window.FEATURE_PROGRESS);
+		// this.getWindow().requestFeature(Window.FEATURE_PROGRESS);
 		this.getWindow().requestFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.main);
 
@@ -29,9 +30,10 @@ public class ThaiOpenSourceActivity extends Activity {
 			/**
 			 * load webview
 			 */
-
 			final WebView webView = (WebView) findViewById(R.id.webView);
 			webView.getSettings().setJavaScriptEnabled(true);
+			webView.getSettings().setSupportZoom(true);
+			webView.getSettings().setBuiltInZoomControls(true);
 
 			/**
 			 * progress bar
@@ -64,6 +66,7 @@ public class ThaiOpenSourceActivity extends Activity {
 					view.loadUrl(url);
 					return true;
 				}
+
 			});
 
 			/**
@@ -74,16 +77,27 @@ public class ThaiOpenSourceActivity extends Activity {
 		}
 
 	}
-		
 	
+	@Override
+	public boolean onKeyDown(int keyCode, KeyEvent event) {
+		WebView webView = (WebView) findViewById(R.id.webView);
+	    if ((keyCode == KeyEvent.KEYCODE_BACK) && webView.canGoBack()) {
+	        webView.goBack();
+	        return true;
+	    }
+	    return super.onKeyDown(keyCode, event);
+	}
+
+	/*
+
 	@Override
 	public void onBackPressed() {
 		// TODO Auto-generated method stub
-		return ;
-		
+		return;
 	}
-
-
+	 */
+	
+	
 	/**
 	 * check status
 	 * 
