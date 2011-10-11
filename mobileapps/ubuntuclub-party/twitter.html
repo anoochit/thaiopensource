@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+   <title>Release Party</title> 
+   <link rel="stylesheet" href="http://code.jquery.com/mobile/1.0rc1/jquery.mobile-1.0rc1.min.css" />
+   <script src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+   <script src="http://code.jquery.com/mobile/1.0rc1/jquery.mobile-1.0rc1.min.js"></script>
+   <script type="text/javascript" src="twitStream.js"></script>
+   <script type="text/javascript">
+      showTweetLinks='all';
+   </script>
+   <link rel="stylesheet" href="twit-stream.css" />
+</head>
+<body>
+<div data-role="page" id="home">
+ 	<div data-role="header" data-theme="a">
+		<h1>ใครทวีตเกี่ยวกับงานบ้าง ? ~ #ubuntuclub #1110party</h1>
+      <a data-rel="back" data-role="button" data-icon="back">กลับ</a>
+      <a href="twitter.html" data-role="button" data-icon="refresh">เรียกอีกครั้ง</a>
+	</div><!-- /header -->
+
+	<div data-role="content" >
+   <div class="twitStream 10" id="tweets" title="#ubuntu"></div>
+   </div>
+	<div data-role="footer" data-theme="a">
+		<h4>&copy; ubuntuclub.com</h4>
+	</div><!-- /footer -->
+</body>
+</html>
