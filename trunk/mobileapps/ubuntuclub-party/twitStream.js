@@ -82,7 +82,7 @@ function fetch_tweets(elem){
 $(function(){
 	showTweetLinks=showTweetLinks.toLowerCase();
 	if(showTweetLinks.indexOf('all')!=-1)
-		showTweetLinks='reply,view,rt';
+		showTweetLinks='';
 	$('.twitStream').each(function(){
 		fetch_tweets(this);
 	});
