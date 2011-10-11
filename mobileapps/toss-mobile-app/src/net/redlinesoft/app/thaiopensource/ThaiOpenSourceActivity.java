@@ -33,7 +33,7 @@ public class ThaiOpenSourceActivity extends Activity {
 			final WebView webView = (WebView) findViewById(R.id.webView);
 			webView.getSettings().setJavaScriptEnabled(true);
 			webView.getSettings().setSupportZoom(true);
-			webView.getSettings().setBuiltInZoomControls(true);
+			webView.getSettings().setBuiltInZoomControls(false);
 
 			/**
 			 * progress bar
