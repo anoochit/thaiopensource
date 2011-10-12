@@ -18,8 +18,8 @@ public class UbuntuclubReleasePartyActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
     	super.onCreate(savedInstanceState);
-		// this.getWindow().requestFeature(Window.FEATURE_PROGRESS);
-		this.getWindow().requestFeature(Window.FEATURE_NO_TITLE);
+		this.getWindow().requestFeature(Window.FEATURE_PROGRESS);
+		//this.getWindow().requestFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.main);
 
 		if (!chkStatus()) {
