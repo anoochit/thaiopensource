@@ -12,7 +12,7 @@ String.prototype.linkify=function(){
 };
 String.prototype.linkuser=function(){
 	return this.replace(/[@]+[A-Za-z0-9-_]+/g,function(u){
-		return u.link("http://twitter.com/"+u.replace("@",""));
+		return u.link("".replace("@",""));
 	});
 };
 String.prototype.linktag=function(){
@@ -66,14 +66,14 @@ function fetch_tweets(elem){
 				var sinceDay=Math.round(sinceMin/1440);
 				var since=sinceDay+' days ago';
 			}
-			var tweetBy='<a class="tweet-user" target="_blank" href="http://twitter.com/'+this.from_user+'">@'+this.from_user+'</a> <span class="tweet-time">'+since+'</span>';
+			var tweetBy='@'+this.from_user+'<span class="tweet-time">'+since+'</span>';
 			if(showTweetLinks.indexOf('reply')!=-1)
 				tweetBy=tweetBy+' &middot; <a class="tweet-reply" target="_blank" href="http://twitter.com/?status=@'+this.from_user+' &in_reply_to_status_id='+this.id+'&in_reply_to='+this.from_user+'">Reply</a>';
 			if(showTweetLinks.indexOf('view')!=-1)
 				tweetBy=tweetBy+' &middot; <a class="tweet-view" target="_blank" href="http://twitter.com/'+this.from_user+'/statuses/'+this.id+'">View Tweet</a>';
 			if(showTweetLinks.indexOf('rt')!=-1)
 				tweetBy=tweetBy+' &middot; <a class="tweet-rt" target="_blank" href="http://twitter.com/?status=RT @'+this.from_user+' '+escape(this.text.replace(/&quot;/g,'"'))+'&in_reply_to_status_id='+this.id+'&in_reply_to='+this.from_user+'">RT</a>';
-			var tweet='<div class="tweet"><div class="tweet-left"><a target="_blank" href="http://twitter.com/'+this.from_user+'"><img width="48" height="48" alt="'+this.from_user+' on Twitter" src="'+this.profile_image_url+'" /></a></div><div class="tweet-right"><p class="text">'+this.text.linkify().linkuser().linktag().replace(/<a/g,'<a target="_blank"')+'<br />'+tweetBy+'</p></div><br style="clear: both;" /></div>';
+			var tweet='<div class="tweet"><div class="tweet-left"><img width="48" height="48" alt="'+this.from_user+' on Twitter" src="'+this.profile_image_url+'" /></div><div class="tweet-right"><p class="text">'+this.text.replace("",'')+'<br />'+tweetBy+'</p></div><br style="clear: both;" /></div>';
 			elem.append(tweet);
 		});
 	});

@@ -31,6 +31,7 @@ public class UbuntuclubReleasePartyActivity extends Activity {
 			 */
 			final WebView webView = (WebView) findViewById(R.id.webView);
 			webView.getSettings().setJavaScriptEnabled(true);
+			webView.getSettings().setPluginsEnabled(true);
 			webView.getSettings().setSupportZoom(true);
 			webView.getSettings().setBuiltInZoomControls(false);
 
@@ -71,7 +72,7 @@ public class UbuntuclubReleasePartyActivity extends Activity {
 			/**
 			 * load 
 			 */
-			webView.loadUrl("http://thaiopensource.org/ucparty/index.html");
+			webView.loadUrl("http://apps.redlinesoft.net/ucparty/index.html");
 
 		}
     }
@@ -79,10 +80,12 @@ public class UbuntuclubReleasePartyActivity extends Activity {
 	@Override
 	public void onBackPressed() {
 		// TODO Auto-generated method stub
+		this.finish();
 		return;
 	}
 	
-    
+	
+
 	/**
 	 * check status
 	 * 
