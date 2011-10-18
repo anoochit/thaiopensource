@@ -80,7 +80,7 @@ public class OpenofficeTutorialActivity extends Activity {
 			/**
 			 * load 
 			 */
-			webView.loadUrl("http://apps.redlinesoft.net/openoffce-tutorial/");
+			webView.loadUrl("http://apps.redlinesoft.net/oootutorial/");
 
 		}
     }
