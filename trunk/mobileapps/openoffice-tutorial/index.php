@@ -36,7 +36,7 @@ include ("includes/header.php");
 			</ul>
 		</div>
 
-		<footer data-role="footer" data-theme="a">
+		<footer data-role="footer" data-theme="a" data-position="fixed">
 			<h4>thaiopensource.org</h4>
 		</footer>
 
