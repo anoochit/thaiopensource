@@ -32,13 +32,13 @@ include ("includes/header.php");
 						Impress</a></li>
 				<li><a href="site.php?pl=1BBC0D042C208D5A&title=OpenOffice.org Draw">OpenOffice.org
 						Draw</a></li>
-				<li><a href="#about" data-rel="dialog" data-transition="pop">About</a></li>						
+				<li><a href="#about" data-rel="dialog" data-transition="pop">เกี่ยวกับ</a></li>						
 			</ul>
 		</div>
 
-		<footer data-role="footer" data-theme="a" data-position="fixed">
+		<!-- <footer data-role="footer" data-theme="a" data-position="fixed">
 			<h4>thaiopensource.org</h4>
-		</footer>
+		</footer>-->
 
 	</div>
 	<!-- /page -->

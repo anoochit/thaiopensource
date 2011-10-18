@@ -37,7 +37,7 @@ $rss_feed = simplexml_load_string($fcontent);
 <body>
 	<div data-role="page">
 		<header data-role="header">
-			<a  data-rel="back" data-role="button" data-icon="back" >Back</a>
+			<a  data-rel="back" data-role="button" data-icon="back" >กลับ</a>
 			<h1><?php echo $title; ?></h1>
 			
 		</header>
@@ -82,9 +82,9 @@ $rss_feed = simplexml_load_string($fcontent);
 		</ul>			
 		</div>
 
-		<footer data-role="footer" data-position="fixed">
+		<!-- <footer data-role="footer" data-position="fixed">
 			<h4>thaiopensource.org</h4>
-		</footer>
+		</footer> -->
 
 	</div>
 	<!-- /page -->
