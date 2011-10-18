@@ -44,16 +44,37 @@ $rss_feed = simplexml_load_string($fcontent);
 		<!-- /header -->
 		<div data-role="content">
 		
-		<ul data-role="listview" data-theme="c" data-dividertheme="d" data-counttheme="e" data-filter="true" data-inset="true">
+		<ul data-role="listview" data-theme="c" data-dividertheme="d" data-counttheme="e" data-inset="true">
 		<?php 
+			// list feed entry
 			foreach ($rss_feed->entry as $item) {
 			$thumb=str_replace("https://www.youtube.com/watch?v=", "", $item->link[0][0]['href']);
 			$thumb=str_replace("&feature=youtube_gdata", "", $thumb);
 		?>
 			<li>
-			<a href="<?php echo $item->link[0][0]['href'];?>">
-			<?php 
-			echo $item->title;
+			<a href="vnd.youtube://<?php echo $thumb; //echo $item->link[0][0]['href'];?>">
+			<?php
+			
+				// trim title to perfect display			
+				if ($playlist=="87E9BE3AB4A2B957") {
+					$feed_title=substr($item->title,strlen("Writer"));
+				} else if ($playlist=="E026162FEB61C313") {
+					$feed_title=substr($item->title,strlen("Calc"));				
+				} else if ($playlist=="A940CE74BC571821") {
+					$feed_title=substr($item->title,strlen("Base"));				
+				} else if ($playlist=="F64D0F8F6C971927") {
+					$feed_title=substr($item->title,strlen("Math"));				
+				} else if ($playlist=="64FD4D8999FAF355") {
+					$feed_title=substr($item->title,strlen("Macro"));				
+				} else if ($playlist=="AD5557164669F31F") {
+					$feed_title=substr($item->title,strlen("Impress"));				
+				} else if ($playlist=="1BBC0D042C208D5A") {
+					$feed_title=substr($item->title,strlen("Draw"));				
+				} else {					
+					$feed_title=$item->title;
+				}
+				
+				echo $feed_title;
 		 	?>
 		 	</a>
 		 	</li>
@@ -61,7 +82,7 @@ $rss_feed = simplexml_load_string($fcontent);
 		</ul>			
 		</div>
 
-		<footer data-role="footer">
+		<footer data-role="footer" data-position="fixed">
 			<h4>thaiopensource.org</h4>
 		</footer>
 
