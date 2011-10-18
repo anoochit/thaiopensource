@@ -32,7 +32,7 @@ include ("includes/header.php");
 						Impress</a></li>
 				<li><a href="site.php?pl=1BBC0D042C208D5A&title=OpenOffice.org Draw">OpenOffice.org
 						Draw</a></li>
-				<li><a href="#about">About</a></li>						
+				<li><a href="#about" data-rel="dialog" data-transition="pop">About</a></li>						
 			</ul>
 		</div>
 
