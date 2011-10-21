@@ -1,5 +1,9 @@
-
+@font-face {
+    font-family: ArundinaSans;
+    src: url(http://apps.redlinesoft.net/fonts/ArundinaSans.ttf);
+    font-weight:400;
+}
 
 h1,h4,p,li,a,body {
-	font-family: tahoma,sans-serif;	
+ font-family: ArundinaSans, Helvetica, Arial, sans-serif;
 }
