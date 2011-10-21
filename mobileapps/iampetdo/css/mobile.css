@@ -1,5 +1,21 @@
+@font-face {
+    font-family: Supermarket;
+    src: url(http://apps.redlinesoft.net/fonts/supermarket.ttf);
+    font-weight:400;
+}
 
+h4,p,li,a,body {
+ font-family: Supermarket, sans-serif;
+ font-size: 18px;
+}
 
-h1,h4,p,li,a,body {
-	font-family: tahoma,sans-serif;	
+.ui-header,h1 .ui-title, .ui-footer .ui-title {
+ font-family: Supermarket, sans-serif;
+font-size: 18px;
+}
+
+.ui-header .ui-title, .ui-footer .ui-title {
+ font-family: Supermarket, sans-serif;
+padding-top:5px;
+font-size: 18px;
 }
