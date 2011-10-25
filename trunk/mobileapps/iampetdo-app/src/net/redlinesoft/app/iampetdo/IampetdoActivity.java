@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.net.ConnectivityManager;
 import android.net.Uri;
 import android.os.Bundle;
+import android.view.KeyEvent;
 import android.view.Window;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
@@ -14,18 +15,18 @@ import android.widget.Toast;
 
 public class IampetdoActivity extends Activity {
 	final Activity activity = this;
-    /** Called when the activity is first created. */
-    @Override
-    public void onCreate(Bundle savedInstanceState) {
-    	super.onCreate(savedInstanceState);
+
+	/** Called when the activity is first created. */
+	@Override
+	public void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
 		this.getWindow().requestFeature(Window.FEATURE_PROGRESS);
-		//this.getWindow().requestFeature(Window.FEATURE_NO_TITLE);
+		// this.getWindow().requestFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.main);
 
 		if (!chkStatus()) {
 			Toast.makeText(this, "No Network ", Toast.LENGTH_LONG).show();
 		} else {
-
 			/**
 			 * load webview
 			 */
@@ -64,60 +65,67 @@ public class IampetdoActivity extends Activity {
 				@Override
 				public boolean shouldOverrideUrlLoading(WebView view, String url) {
 					if (Uri.parse(url).getHost().equals("apps.redlinesoft.net")) {
-			            // This is my web site, so do not override; let my WebView load the page
-			            return false;
-			        }
-			        // Otherwise, the link is not for a page on my site, so launch another Activity that handles URLs
-			        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
-			        startActivity(intent);
-			        return true;
+						// This is my web site, so do not override; let my
+						// WebView load the page
+						return false;
+					}
+					// Otherwise, the link is not for a page on my site, so
+					// launch another Activity that handles URLs
+					Intent intent = new Intent(Intent.ACTION_VIEW, Uri
+							.parse(url));
+					startActivity(intent);
+					return true;
 				}
 
 			});
 
 			/**
-			 * load 
+			 * load
 			 */
 			webView.loadUrl("http://apps.redlinesoft.net/iampetdo/");
-
 		}
-    }
-    
-    
-    @Override
-   	public void onBackPressed() {
-   		// TODO Auto-generated method stub
-   		this.finish();
-   		return;
-   	}
-   	
-   	
+	}
 
-   	/**
-   	 * check status
-   	 * 
-   	 * @return
-   	 */
-   	public boolean chkStatus() {
-   		final ConnectivityManager connMgr = (ConnectivityManager) this
-   				.getSystemService(Context.CONNECTIVITY_SERVICE);
+	/*
+	 * @Override public void onBackPressed() { // TODO Auto-generated method
+	 * stub this.finish(); return; }
+	 */
 
-   		final android.net.NetworkInfo wifi = connMgr
-   				.getNetworkInfo(ConnectivityManager.TYPE_WIFI);
+	@Override
+	public boolean onKeyDown(int keyCode, KeyEvent event) {
+		WebView webView = (WebView) findViewById(R.id.webView);
+		if ((keyCode == KeyEvent.KEYCODE_BACK) && webView.canGoBack()) {
+			webView.goBack();
+			return true;
+		}
+		return super.onKeyDown(keyCode, event);
+	}
 
-   		final android.net.NetworkInfo mobile = connMgr
-   				.getNetworkInfo(ConnectivityManager.TYPE_MOBILE);
+	/**
+	 * check status
+	 * 
+	 * @return
+	 */
+	public boolean chkStatus() {
+		final ConnectivityManager connMgr = (ConnectivityManager) this
+				.getSystemService(Context.CONNECTIVITY_SERVICE);
 
-   		if (wifi.isAvailable()) {
-   			// Toast.makeText(this, "Wifi" , Toast.LENGTH_LONG).show();
-   			return true;
-   		} else if (mobile.isAvailable()) {
-   			// Toast.makeText(this, "Mobile 3G " , Toast.LENGTH_LONG).show();
-   			return true;
-   		} else {
-   			Toast.makeText(this, "No Network ", Toast.LENGTH_LONG).show();
-   			return false;
-   		}
+		final android.net.NetworkInfo wifi = connMgr
+				.getNetworkInfo(ConnectivityManager.TYPE_WIFI);
 
-   	}
+		final android.net.NetworkInfo mobile = connMgr
+				.getNetworkInfo(ConnectivityManager.TYPE_MOBILE);
+
+		if (wifi.isAvailable()) {
+			// Toast.makeText(this, "Wifi" , Toast.LENGTH_LONG).show();
+			return true;
+		} else if (mobile.isAvailable()) {
+			// Toast.makeText(this, "Mobile 3G " , Toast.LENGTH_LONG).show();
+			return true;
+		} else {
+			Toast.makeText(this, "No Network ", Toast.LENGTH_LONG).show();
+			return false;
+		}
+
+	}
 }
