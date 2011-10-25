@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.net.ConnectivityManager;
 import android.net.Uri;
 import android.os.Bundle;
+import android.view.KeyEvent;
 import android.view.Window;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
@@ -35,7 +36,7 @@ public class OpenofficeTutorialActivity extends Activity {
 			webView.getSettings().setJavaScriptEnabled(true);
 			webView.getSettings().setPluginsEnabled(true);
 			webView.getSettings().setSupportZoom(true);
-			webView.getSettings().setBuiltInZoomControls(false);
+			webView.getSettings().setBuiltInZoomControls(true);
 
 			/**
 			 * progress bar
@@ -85,13 +86,24 @@ public class OpenofficeTutorialActivity extends Activity {
 		}
     }
     
+    /*
     @Override
 	public void onBackPressed() {
 		// TODO Auto-generated method stub
 		this.finish();
 		return;
 	}
-	
+	*/
+    
+	@Override
+	public boolean onKeyDown(int keyCode, KeyEvent event) {
+		WebView webView = (WebView) findViewById(R.id.webView);
+		if ((keyCode == KeyEvent.KEYCODE_BACK) && webView.canGoBack()) {
+			webView.goBack();
+			return true;
+		}
+		return super.onKeyDown(keyCode, event);
+	}
 	
 
 	/**
