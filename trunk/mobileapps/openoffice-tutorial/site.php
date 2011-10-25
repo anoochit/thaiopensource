@@ -37,7 +37,7 @@ $rss_feed = simplexml_load_string($fcontent);
 <body>
 	<div data-role="page">
 		<header data-role="header">
-			<a  data-rel="back" data-role="button" data-icon="back" >กลับ</a>
+			<!--<a  data-rel="back" data-role="button" data-icon="back" >กลับ</a>-->
 			<h1><?php echo $title; ?></h1>
 			
 		</header>
