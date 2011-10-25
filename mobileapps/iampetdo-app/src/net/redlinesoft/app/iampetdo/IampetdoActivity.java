@@ -34,7 +34,7 @@ public class IampetdoActivity extends Activity {
 			webView.getSettings().setJavaScriptEnabled(true);
 			webView.getSettings().setPluginsEnabled(true);
 			webView.getSettings().setSupportZoom(true);
-			webView.getSettings().setBuiltInZoomControls(false);
+			webView.getSettings().setBuiltInZoomControls(true);
 
 			/**
 			 * progress bar
