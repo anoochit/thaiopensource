@@ -4,9 +4,9 @@
 <div data-role="page">
 
    <header data-role="header" >
-      <a href="index.php" data-role="button" data-icon="back" >Back</a>
+      <!--<a href="index.php" data-role="button" data-icon="back" >Back</a>-->
       <h1><?php echo ucwords($siteName); ?></h1>
-      <a href="site.php?siteName=<?=$siteName; ?>&=<?=time();?>" data-role="button" data-icon="refresh">Reload</a>
+      <!--<a href="site.php?siteName=<?=$siteName; ?>&=<?=time();?>" data-role="button" data-icon="refresh">Reload</a>-->
    </header><!-- /header -->
 
    <div data-role="content">	
