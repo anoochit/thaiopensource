@@ -1,4 +1,34 @@
- .ui-li-icon {
-   top:  9px;
+@font-face {
+    font-family: Supermarket;
+    src: url(http://apps.redlinesoft.net/fonts/ArundinaSans.ttf);
+    font-weight:400;
 }
 
+h4,a,body,p {
+ font-family: Supermarket, sans-serif;
+ font-size: 16px;
+ letter-spacing:-0.5px;
+}
+
+h1 {
+ font-family: Supermarket, sans-serif;
+ font-size: 22px;
+}
+
+p, a.ui-link {
+ font-family: Supermarket, sans-serif;
+ font-size: 16px;
+ letter-spacing:-0.5px;
+}
+
+.ui-header,h1 .ui-title, .ui-footer .ui-title {
+ font-family: Supermarket, sans-serif;
+font-size: 14px;
+ letter-spacing:-0.5px;
+}
+
+.ui-header .ui-title, .ui-footer .ui-title {
+ font-family: Supermarket, sans-serif;
+ font-size: 18px;
+ letter-spacing:-0.5px;
+}
