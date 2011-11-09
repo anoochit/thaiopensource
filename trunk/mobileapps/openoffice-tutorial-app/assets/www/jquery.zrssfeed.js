@@ -117,7 +117,7 @@
 
    		// Add feed row
 			html += '<li>' + 
-				'<a href="vnd.youtube://'+ thump[0] + '" title="View this feed at '+ 
+				'<a href="youtube:'+ thump[0] + '" title="View this feed at '+ 
 				feeds.title +'">'+ titlex + '</a>' 
 			if (options.date) html += '<div>'+ pubDate +'</div>'
 			if (options.content) {

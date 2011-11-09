@@ -66,16 +66,17 @@ public class OpenofficeTutorialActivity extends Activity {
 
 				@Override
 				public boolean shouldOverrideUrlLoading(WebView view, String url) {
-					
-					//if (Uri.parse(url).getHost().equals("apps.redlinesoft.net")) {
-			            // This is my web site, so do not override; let my WebView load the page
-			        //    return false;
-			        //}
-			        // Otherwise, the link is not for a page on my site, so launch another Activity that handles URLs
-			        //Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
-			        //startActivity(intent);
-					view.loadUrl(url);
-			        return true;
+					if (Uri.parse(url).getHost().equals("apps.redlinesoft.net")) {
+						// This is my web site, so do not override; let my
+						// WebView load the page
+						return false;
+					}
+					// Otherwise, the link is not for a page on my site, so
+					// launch another Activity that handles URLs
+					Intent intent = new Intent(Intent.ACTION_VIEW, Uri
+							.parse(url));
+					startActivity(intent);
+					return true;
 				}
 
 			});
