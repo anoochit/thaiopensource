@@ -1,0 +1,6 @@
+{
+     "shell-version": ["3.0.2", "3.2.1"],
+     "uuid": "gofris.status@redlinesoft.net",
+     "name": "Gofris Status Icon",
+     "description": "Integrates Gofris into the status bar"
+}
