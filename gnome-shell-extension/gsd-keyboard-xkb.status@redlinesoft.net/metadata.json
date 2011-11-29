@@ -1,0 +1,6 @@
+{
+     "shell-version": ["3.0.2", "3.2.1"],
+     "uuid": "gsd-keyboard-xkb.status@redlinesoft.net",
+     "name": "XKB Status Icon",
+     "description": "Integrates XKB into the status bar"
+}
