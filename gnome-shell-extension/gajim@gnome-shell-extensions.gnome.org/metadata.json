@@ -1,0 +1,8 @@
+{
+ "uuid": "gajim@gnome-shell-extensions.gnome.org",
+ "name": "Gajim IM integration",
+ "description": "Display Gajim incoming chats as notifications in the Shell message tray.",
+ "shell-version": [ "3.2.0", "3.2" ],
+ "localedir": "/usr/share/locale",
+ "url": "http://base-art.net"
+}

@@ -1,0 +1,60 @@
+.button-container {
+    padding-right: 5px;
+}
+
+.track-cover {
+    border: 2px solid rgba(255,255,255,0.8);
+    border-radius: 2px;
+}
+
+.track-infos {
+    width: 15em;
+    padding-left: 7px;
+}
+
+.track-title {
+    padding: 0;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.track-artist {
+    padding-top: 2px;
+    font-size: 0.9em;
+}
+
+.track-album {
+    padding-top: 2px;
+    font-size: 0.9em;
+}
+
+.track-box {
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+}
+
+.volume-menu-item {
+    padding: .4em 1.75em;
+}
+
+.volume-menu-item StIcon {
+    icon-size: 1.14em;
+    padding-left: 8px;
+}
+
+.playback-control {
+    width: 26em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.player-title {
+    padding: .4em 1.74em;
+}
+
+.player-title .menu-item-icon {
+    icon-size: 16px;
+    padding-right: .4em;
+}

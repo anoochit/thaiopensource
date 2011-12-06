@@ -1,0 +1,8 @@
+{
+"uuid": "weather@gnome-shell-extensions.gnome.org",
+"name": "Weather indicator",
+"description": "Adds weather information menu",
+"shell-version": [ "3.1.90", "3.1.91", "3.1.92", "3.2","3.2.1" ],
+"localedir": "/usr/share/locale",
+"url": "https://github.com/ecyrbe/gnome-shell-extension-weather"
+}

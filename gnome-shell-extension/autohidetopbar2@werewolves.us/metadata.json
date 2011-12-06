@@ -1,0 +1,9 @@
+{ 
+   "shell-version": [ "3.2.0", "3.2", "3.2.1" ], 
+   "uuid": "autohidetopbar2@werewolves.us",
+   "name": "Auto Hide Top Panel",
+   "description": "Auto hide the top panel",
+   "url": "http://fpmurphy.com/gnome-shell-extensions",
+   "original-authors": [ "Finnbarr P. Murphy", "Kevin R. Kane" ],
+   "locale": "locale"
+}

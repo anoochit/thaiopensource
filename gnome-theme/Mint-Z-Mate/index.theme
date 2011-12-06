@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Mint-Z-Mate
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Mint-Z-Mate
+MetacityTheme=Mint-X
+IconTheme=Mint-X

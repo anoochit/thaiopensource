@@ -1,0 +1,8 @@
+{
+"uuid": "apps-menu@gnome-shell-extensions.gnome.org",
+"name": "Applications Menu",
+"description": "Add a gnome 2.x style menu for applications",
+"shell-version": [ "3.2.0", "3.2" ],
+"localedir": "/usr/share/locale",
+"url": "http://git.gnome.org/gnome-shell-extensions"
+}
