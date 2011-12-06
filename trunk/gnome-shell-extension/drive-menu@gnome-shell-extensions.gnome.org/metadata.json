@@ -1,0 +1,8 @@
+{
+ "uuid": "drive-menu@gnome-shell-extensions.gnome.org",
+ "name": "Removable Drive Menu",
+ "description": "A status menu for accessing and unmounting removable devices",
+ "shell-version": [ "3.2.0", "3.2" ],
+ "localedir": "/usr/share/locale",
+ "url": "http://git.gnome.org/gnome-shell-extensions"
+}

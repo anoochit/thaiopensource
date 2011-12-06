@@ -1,0 +1,8 @@
+{
+"uuid": "places-menu@gnome-shell-extensions.gnome.org",
+"name": "Places Status Indicator",
+"description": "Add a systems status menu for quickly navigating places in the system",
+"shell-version": [ "3.2.0", "3.2" ],
+"localedir": "/usr/share/locale",
+"url": "http://git.gnome.org/gnome-shell-extensions"
+}
