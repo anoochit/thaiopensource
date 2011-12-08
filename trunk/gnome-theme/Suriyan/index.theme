@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=Suriyan
+Type=X-GNOME-Metatheme
+Comment=There is only one
+Encoding=UTF-8
+GtkTheme=Suriyan
+MetacityTheme=Suriyan
+IconTheme=Faience-Ocre
+CursorTheme=Suriyan
+CursorSize=24
