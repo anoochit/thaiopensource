@@ -1,0 +1,49 @@
+#featured {
+  background-color: whitesmoke;
+  border-bottom: 1px solid #e5e5e5;
+}
+#carousel {
+  height: 250px;
+  margin-bottom: 0;
+}
+#carousel .item {
+  height: 200px;
+  padding: 50px 10% 0 10%;
+  text-align: center;
+  width: 80%;
+}
+#carousel .carousel-control {
+  background-color: transparent;
+  border: 0;
+  color: #333;
+  font-size: 100px;
+  top: 50%;
+}
+#header {
+  background-color: whitesmoke;
+  border-bottom: 1px solid #e5e5e5;
+  padding-top: 20px;
+}
+#main {
+  padding: 30px 0;
+}
+#main .block {
+  margin-bottom: 30px;
+}
+#footer {
+  background-color: whitesmoke;
+  border-top: 1px solid #e5e5e5;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.footer-links a {
+  margin-left: 15px;
+}
+@media (min-width: 1200px) {
+  .container,
+  .navbar-static-top .container,
+  .navbar-fixed-top .container,
+  .navbar-fixed-bottom .container {
+    width: 940px;
+  }
+}
