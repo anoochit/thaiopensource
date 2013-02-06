@@ -1,0 +1,120 @@
+/* Patch */
+@font-face {
+    font-family: 'thai_sans';
+    src: url('/sites/all/themes/tweme/assets/fonts/thaisanslite_r1webfont.eot');
+    src: url('/sites/all/themes/tweme/assets/fonts/thaisanslite_r1webfont.eot?#iefix') format('embedded-opentype'),
+         url('/sites/all/themes/tweme/assets/fonts/thaisanslite_r1webfont.woff') format('woff'),
+         url('/sites/all/themes/tweme/assets/fonts/thaisanslite_r1webfont.ttf') format('truetype'),
+         url('/sites/all/themes/tweme/assets/fonts/thaisanslite_r1webfont.svg#thai_sans_literegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1,h2 {
+font-family: thai_sans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:2.5em;
+}
+
+div.field-item {
+  display: inline-block;
+padding-right: 5px; 
+}
+
+ div.content div.field.field-name-taxonomyextra.field-type-taxonomy-term-reference  div.field-label {
+  padding-bottom: 15px;
+}
+
+div.content div.field.field-name-taxonomyextra div.field-items div.field-item a {
+   padding: 2px; 
+   border : 1px solid #e1e1e8;
+   background-color: #f7f7f9;
+  color: #0088cc;
+  -webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+}
+
+embed, object, iframe {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+code {
+  white-space: initial;
+}
+/* System */
+.breadcrumb {
+  background: transparent;
+  margin: 0;
+  padding: 0;
+}
+ul.links.inline {
+  display: block;
+  margin: 15px 0 0 0;
+}
+ul.links.inline li {
+  margin-right: 15px;
+  padding: 0;
+}
+.item-list ul {
+  margin: 0 0 10px 25px;
+}
+div.messages {
+  margin: 0 0 20px 0;
+}
+/* Block */
+.block > h2 {
+  margin-top: 0;
+}
+/* Node */
+.node {
+  margin-bottom: 30px;
+}
+.node > h2 {
+  margin-top: 0;
+}
+.node .submitted {
+  color: grey;
+  font-size: 90%;
+  margin-bottom: 10px;
+}
+.node .content h2,
+.node .content h3,
+.node .content h4,
+.node .content h5,
+.node .content h6 {
+  padding-top: 20px;
+}
+/* Poll */
+.poll .title {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.poll .progress .bar {
+  border: 0;
+  margin: 0;
+}
+.block-poll ul.links,
+.block-poll ul.links li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.block-poll ul.links {
+  margin-top: 10px;
+}
+/* Admin Menu */
+#admin-menu {
+  z-index: 1100;
+}
+#admin-menu li {
+  line-height: normal;
+}
+/* Forms */
+input[type="radio"],
+input[type="checkbox"] {
+  margin: 0 5px 0 0;
+}
+.form-actions .btn {
+  margin-right: 5px;
+}

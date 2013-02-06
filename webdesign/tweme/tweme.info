@@ -1,0 +1,28 @@
+name = Tweme
+description = Lightweight responsive theme based on Twitter Bootstrap.
+core = 7.x
+
+stylesheets[all][] = assets/css/bootstrap-extra.css
+stylesheets[all][] = assets/css/drupal.css
+stylesheets[all][] = assets/css/style.css
+
+regions[hidden] = Hidden
+regions[header] = Header
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+regions[highlighted] = Highlighted
+regions[featured] = Featured
+regions[content] = Content
+regions[sidebar_first] = Sidebar first
+regions[sidebar_first_affix] = Sidebar first affix
+regions[sidebar_second] = Sidebar second
+regions[sidebar_second_affix] = Sidebar second affix
+regions[footer] = Footer
+
+; Information added by drupal.org packaging script on 2012-11-17
+version = "7.x-1.0-beta2"
+core = "7.x"
+project = "tweme"
+datestamp = "1353195218"
+
